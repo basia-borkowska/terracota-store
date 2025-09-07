@@ -9,7 +9,7 @@ const Home = lazy(() => import('./Home'));
 const Products = lazy(() => import('./Products'));
 const Product = lazy(() => import('./Product'));
 const Compare = lazy(() => import('./Compare'));
-const Favorites = lazy(() => import('./Favorites'));
+const WishList = lazy(() => import('./WishList'));
 const Cart = lazy(() => import('./checkout/Cart'));
 const Shipping = lazy(() => import('./checkout/Shipping'));
 const Payment = lazy(() => import('./checkout/Payment'));
@@ -26,7 +26,7 @@ export const router = createBrowserRouter([
       { path: pathnames.products, element: <Products /> },
       { path: pathnames.product, element: <Product /> },
       { path: pathnames.compare, element: <Compare /> },
-      { path: pathnames.favorites, element: <Favorites /> },
+      { path: pathnames.wishList, element: <WishList /> },
       {
         path: pathnames.checkout.root,
         element: <CheckoutLayout />,

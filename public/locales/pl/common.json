@@ -1,4 +1,9 @@
 {
+  "navbar": {
+    "newIn": "Nowości",
+    "products": "Produkty",
+    "inspirations": "Inspiracje"
+  },
   "home": {
     "welcome": "Witamy w naszym sklepie"
   }

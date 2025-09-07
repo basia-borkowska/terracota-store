@@ -3,7 +3,7 @@ export const pathnames = {
   products: '/products',
   product: '/products/:id',
   compare: '/compare',
-  favorites: '/favorites',
+  wishList: '/wish-list',
   checkout: {
     root: '/checkout',
     shipping: '/checkout/shipping',

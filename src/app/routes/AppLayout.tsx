@@ -1,11 +1,13 @@
 import { Outlet } from 'react-router-dom';
+import Navbar from '../../widgets/Navbar';
 
 const AppLayout = () => {
   return (
-    <div className="bg-orange-50 h-screen">
-      <section className="mx-auto max-w-6xl p-6">
+    <div className="min-h-screen flex flex-col">
+      <Navbar />
+      <main className="flex-1 lg:mx-20 md:mx-10 mx-5">
         <Outlet />
-      </section>
+      </main>
     </div>
   );
 };
