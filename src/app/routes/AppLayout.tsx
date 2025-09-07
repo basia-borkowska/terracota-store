@@ -1,5 +1,5 @@
 import { Outlet } from 'react-router-dom';
-import Navbar from '../../widgets/Navbar';
+import Navbar from '../../widgets/navbar/Navbar';
 
 const AppLayout = () => {
   return (
