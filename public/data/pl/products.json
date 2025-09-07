@@ -1,272 +1,1802 @@
 [
   {
     "id": "p001",
-    "title": "Dębowy stół jadalniany",
-    "description": "Solidny stół dębowy dla 6 osób ze sfazowanymi krawędziami.",
-    "imageUrl": "https://picsum.photos/seed/oak-dining-table/800/600",
+    "title": "Stół jadalniany #1",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p001/800/600",
     "category": "table",
-    "price": 899.0,
+    "price": 94,
     "isOnWishList": false
   },
   {
     "id": "p002",
-    "title": "Nowoczesna sofa z tkaniny",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami i zdejmowanymi pokrowcami.",
-    "imageUrl": "https://picsum.photos/seed/modern-fabric-sofa/800/600",
-    "category": "sofa",
-    "price": 1199.0,
+    "title": "Fotel #2",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p002/800/600",
+    "category": "chair",
+    "price": 129,
     "isOnWishList": false
   },
   {
     "id": "p003",
-    "title": "Ergonomiczne krzesło biurowe",
-    "description": "Regulowane podparcie lędźwiowe i oddychające oparcie z siatki.",
-    "imageUrl": "https://picsum.photos/seed/ergo-office-chair/800/600",
-    "category": "chair",
-    "price": 259.0,
+    "title": "Łóżko platformowe #3",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p003/800/600",
+    "category": "bed",
+    "price": 178,
     "isOnWishList": false
   },
   {
     "id": "p004",
-    "title": "Stolik kawowy z orzecha",
-    "description": "Niski stolik z półką na przechowywanie.",
-    "imageUrl": "https://picsum.photos/seed/walnut-coffee-table/800/600",
-    "category": "table",
-    "price": 349.0,
+    "title": "Sofa nowoczesna #4",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p004/800/600",
+    "category": "sofa",
+    "price": 154,
     "isOnWishList": false
   },
   {
     "id": "p005",
-    "title": "Łóżko platformowe Queen",
-    "description": "Minimalistyczna rama z listwami, bez potrzeby stosowania boxspringa.",
-    "imageUrl": "https://picsum.photos/seed/queen-platform-bed/800/600",
-    "category": "bed",
-    "price": 799.0,
+    "title": "Dywan #5",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p005/800/600",
+    "category": "carpet",
+    "price": 202,
     "isOnWishList": false
   },
   {
     "id": "p006",
-    "title": "Dywan wełniany ręcznie tkany",
-    "description": "Subtelny geometryczny wzór, 200×300 cm.",
-    "imageUrl": "https://picsum.photos/seed/wool-carpet/800/600",
-    "category": "carpet",
-    "price": 429.0,
+    "title": "Lampa stojąca #6",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p006/800/600",
+    "category": "lamp",
+    "price": 216,
     "isOnWishList": false
   },
   {
     "id": "p007",
-    "title": "Lampa podłogowa łukowa",
-    "description": "Czarna matowa lampa łukowa z lnianym kloszem.",
-    "imageUrl": "https://picsum.photos/seed/arc-floor-lamp/800/600",
-    "category": "lamp",
-    "price": 199.0,
+    "title": "Stół jadalniany #7",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p007/800/600",
+    "category": "table",
+    "price": 184,
     "isOnWishList": false
   },
   {
     "id": "p008",
-    "title": "Fotel welurowy",
-    "description": "Zaokrąglone oparcie i metalowe nogi.",
-    "imageUrl": "https://picsum.photos/seed/velvet-accent-chair/800/600",
+    "title": "Fotel #8",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p008/800/600",
     "category": "chair",
-    "price": 329.0,
+    "price": 275,
     "isOnWishList": false
   },
   {
     "id": "p009",
-    "title": "Stół jadalniany rozkładany",
-    "description": "Mieści 4–8 osób dzięki ukrytej wkładce.",
-    "imageUrl": "https://picsum.photos/seed/extendable-dining-table/800/600",
-    "category": "table",
-    "price": 989.0,
+    "title": "Łóżko platformowe #9",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p009/800/600",
+    "category": "bed",
+    "price": 228,
     "isOnWishList": false
   },
   {
     "id": "p010",
-    "title": "Sofa skandynawska",
-    "description": "Drewniane nogi i twardsze poduszki dla prawidłowej postawy.",
-    "imageUrl": "https://picsum.photos/seed/scandi-sofa/800/600",
+    "title": "Sofa nowoczesna #10",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p010/800/600",
     "category": "sofa",
-    "price": 1049.0,
+    "price": 328,
     "isOnWishList": false
   },
   {
     "id": "p011",
-    "title": "Łóżko King tapicerowane",
-    "description": "Wezgłowie typu wingback obite lnianą tkaniną.",
-    "imageUrl": "https://picsum.photos/seed/king-upholstered-bed/800/600",
-    "category": "bed",
-    "price": 1099.0,
+    "title": "Dywan #11",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p011/800/600",
+    "category": "carpet",
+    "price": 319,
     "isOnWishList": false
   },
   {
     "id": "p012",
-    "title": "Dywan jutowy",
-    "description": "Dywan z naturalnych włókien, 160×230 cm.",
-    "imageUrl": "https://picsum.photos/seed/jute-area-rug/800/600",
-    "category": "carpet",
-    "price": 189.0,
-    "isOnWishList": false
+    "title": "Lampa stojąca #12",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p012/800/600",
+    "category": "lamp",
+    "price": 304,
+    "isOnWishList": true
   },
   {
     "id": "p013",
-    "title": "Lampa stołowa trójnóg",
-    "description": "Drewniany trójnóg z bawełnianym kloszem.",
-    "imageUrl": "https://picsum.photos/seed/tripod-table-lamp/800/600",
-    "category": "lamp",
-    "price": 89.0,
+    "title": "Stół jadalniany #13",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p013/800/600",
+    "category": "table",
+    "price": 324,
     "isOnWishList": false
   },
   {
     "id": "p014",
-    "title": "Skórzany fotel wypoczynkowy",
-    "description": "Skóra anilinowa z ergonomicznym odchyleniem.",
-    "imageUrl": "https://picsum.photos/seed/leather-lounge-chair/800/600",
+    "title": "Fotel #14",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p014/800/600",
     "category": "chair",
-    "price": 649.0,
+    "price": 385,
     "isOnWishList": false
   },
   {
     "id": "p015",
-    "title": "Stolik bistro okrągły",
-    "description": "Kompaktowy stolik okrągły do małych przestrzeni.",
-    "imageUrl": "https://picsum.photos/seed/round-bistro-table/800/600",
-    "category": "table",
-    "price": 219.0,
+    "title": "Łóżko platformowe #15",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p015/800/600",
+    "category": "bed",
+    "price": 370,
     "isOnWishList": false
   },
   {
     "id": "p016",
-    "title": "Sofa modułowa",
-    "description": "Przestawne sekcje z otomaną.",
-    "imageUrl": "https://picsum.photos/seed/modular-sectional-sofa/800/600",
+    "title": "Sofa nowoczesna #16",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p016/800/600",
     "category": "sofa",
-    "price": 1799.0,
+    "price": 369,
     "isOnWishList": false
   },
   {
     "id": "p017",
-    "title": "Łóżko platformowe ze schowkiem",
-    "description": "Szuflady pod łóżkiem zapewniają dodatkowe miejsce.",
-    "imageUrl": "https://picsum.photos/seed/storage-platform-bed/800/600",
-    "category": "bed",
-    "price": 949.0,
+    "title": "Dywan #17",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p017/800/600",
+    "category": "carpet",
+    "price": 408,
     "isOnWishList": false
   },
   {
     "id": "p018",
-    "title": "Dywan berberyjski",
-    "description": "Miękki włos, odporny na plamy.",
-    "imageUrl": "https://picsum.photos/seed/berber-pattern-carpet/800/600",
-    "category": "carpet",
-    "price": 379.0,
+    "title": "Lampa stojąca #18",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p018/800/600",
+    "category": "lamp",
+    "price": 412,
     "isOnWishList": false
   },
   {
     "id": "p019",
-    "title": "Lampa wisząca podwójna",
-    "description": "Dwupunktowa lampa nad wyspę kuchenną.",
-    "imageUrl": "https://picsum.photos/seed/pendant-lamp-duo/800/600",
-    "category": "lamp",
-    "price": 159.0,
+    "title": "Stół jadalniany #19",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p019/800/600",
+    "category": "table",
+    "price": 464,
     "isOnWishList": false
   },
   {
     "id": "p020",
-    "title": "Krzesło rattanowe",
-    "description": "Ręcznie plecione siedzisko z rattanu na stalowej ramie.",
-    "imageUrl": "https://picsum.photos/seed/rattan-dining-chair/800/600",
+    "title": "Fotel #20",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p020/800/600",
     "category": "chair",
-    "price": 149.0,
+    "price": 430,
     "isOnWishList": false
   },
   {
     "id": "p021",
-    "title": "Stolik kawowy ze szkłem",
-    "description": "Hartowane szkło z dębową podstawą krzyżową.",
-    "imageUrl": "https://picsum.photos/seed/glass-coffee-table/800/600",
-    "category": "table",
-    "price": 289.0,
+    "title": "Łóżko platformowe #21",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p021/800/600",
+    "category": "bed",
+    "price": 470,
     "isOnWishList": false
   },
   {
     "id": "p022",
-    "title": "Sofa rozkładana",
-    "description": "Mechanizm rozkładania na podwójne łóżko.",
-    "imageUrl": "https://picsum.photos/seed/sleeper-sofa/800/600",
+    "title": "Sofa nowoczesna #22",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p022/800/600",
     "category": "sofa",
-    "price": 1399.0,
+    "price": 557,
     "isOnWishList": false
   },
   {
     "id": "p023",
-    "title": "Minimalistyczna rama łóżka",
-    "description": "Rama stalowa malowana proszkowo, rozmiar Queen.",
-    "imageUrl": "https://picsum.photos/seed/minimalist-bed/800/600",
-    "category": "bed",
-    "price": 579.0,
+    "title": "Dywan #23",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p023/800/600",
+    "category": "carpet",
+    "price": 518,
     "isOnWishList": false
   },
   {
     "id": "p024",
-    "title": "Dywan shaggy",
-    "description": "Bardzo miękki, wysoki włos, 200×250 cm.",
-    "imageUrl": "https://picsum.photos/seed/shaggy-carpet/800/600",
-    "category": "carpet",
-    "price": 299.0,
+    "title": "Lampa stojąca #24",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p024/800/600",
+    "category": "lamp",
+    "price": 593,
     "isOnWishList": false
   },
   {
     "id": "p025",
-    "title": "Lampa biurkowa industrialna",
-    "description": "Regulowane ramię, ciepła żarówka LED w zestawie.",
-    "imageUrl": "https://picsum.photos/seed/industrial-desk-lamp/800/600",
-    "category": "lamp",
-    "price": 69.0,
+    "title": "Stół jadalniany #25",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p025/800/600",
+    "category": "table",
+    "price": 535,
     "isOnWishList": false
   },
   {
     "id": "p026",
-    "title": "Krzesło kubełkowe",
-    "description": "Zaokrąglona skorupa z polipropylenu z drewnianymi nogami.",
-    "imageUrl": "https://picsum.photos/seed/bucket-dining-chair/800/600",
+    "title": "Fotel #26",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p026/800/600",
     "category": "chair",
-    "price": 119.0,
+    "price": 581,
     "isOnWishList": false
   },
   {
     "id": "p027",
-    "title": "Zestaw stolików nocnych",
-    "description": "Komplet dwóch stolików oszczędzających miejsce.",
-    "imageUrl": "https://picsum.photos/seed/nesting-side-tables/800/600",
-    "category": "table",
-    "price": 179.0,
+    "title": "Łóżko platformowe #27",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p027/800/600",
+    "category": "bed",
+    "price": 646,
     "isOnWishList": false
   },
   {
     "id": "p028",
-    "title": "Sofa rozkładana z reclinerem",
-    "description": "Podwójny mechanizm rozkładania z uchwytami na kubki.",
-    "imageUrl": "https://picsum.photos/seed/recliner-sofa/800/600",
+    "title": "Sofa nowoczesna #28",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p028/800/600",
     "category": "sofa",
-    "price": 1699.0,
+    "price": 682,
     "isOnWishList": false
   },
   {
     "id": "p029",
-    "title": "Łóżko baldachim",
-    "description": "Rama Queen z eleganckimi słupkami.",
-    "imageUrl": "https://picsum.photos/seed/canopy-bed/800/600",
-    "category": "bed",
-    "price": 999.0,
+    "title": "Dywan #29",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p029/800/600",
+    "category": "carpet",
+    "price": 685,
     "isOnWishList": false
   },
   {
     "id": "p030",
-    "title": "Dywan w motyw marmuru",
-    "description": "Niski włos z marmurowym wzorem, 160×240 cm.",
-    "imageUrl": "https://picsum.photos/seed/marble-carpet/800/600",
+    "title": "Lampa stojąca #30",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p030/800/600",
+    "category": "lamp",
+    "price": 682,
+    "isOnWishList": false
+  },
+  {
+    "id": "p031",
+    "title": "Stół jadalniany #31",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p031/800/600",
+    "category": "table",
+    "price": 653,
+    "isOnWishList": false
+  },
+  {
+    "id": "p032",
+    "title": "Fotel #32",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p032/800/600",
+    "category": "chair",
+    "price": 718,
+    "isOnWishList": true
+  },
+  {
+    "id": "p033",
+    "title": "Łóżko platformowe #33",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p033/800/600",
+    "category": "bed",
+    "price": 739,
+    "isOnWishList": false
+  },
+  {
+    "id": "p034",
+    "title": "Sofa nowoczesna #34",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p034/800/600",
+    "category": "sofa",
+    "price": 767,
+    "isOnWishList": false
+  },
+  {
+    "id": "p035",
+    "title": "Dywan #35",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p035/800/600",
     "category": "carpet",
-    "price": 349.0,
+    "price": 756,
+    "isOnWishList": false
+  },
+  {
+    "id": "p036",
+    "title": "Lampa stojąca #36",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p036/800/600",
+    "category": "lamp",
+    "price": 840,
+    "isOnWishList": false
+  },
+  {
+    "id": "p037",
+    "title": "Stół jadalniany #37",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p037/800/600",
+    "category": "table",
+    "price": 798,
+    "isOnWishList": false
+  },
+  {
+    "id": "p038",
+    "title": "Fotel #38",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p038/800/600",
+    "category": "chair",
+    "price": 828,
+    "isOnWishList": true
+  },
+  {
+    "id": "p039",
+    "title": "Łóżko platformowe #39",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p039/800/600",
+    "category": "bed",
+    "price": 826,
+    "isOnWishList": false
+  },
+  {
+    "id": "p040",
+    "title": "Sofa nowoczesna #40",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p040/800/600",
+    "category": "sofa",
+    "price": 882,
+    "isOnWishList": true
+  },
+  {
+    "id": "p041",
+    "title": "Dywan #41",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p041/800/600",
+    "category": "carpet",
+    "price": 871,
+    "isOnWishList": false
+  },
+  {
+    "id": "p042",
+    "title": "Lampa stojąca #42",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p042/800/600",
+    "category": "lamp",
+    "price": 942,
+    "isOnWishList": false
+  },
+  {
+    "id": "p043",
+    "title": "Stół jadalniany #43",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p043/800/600",
+    "category": "table",
+    "price": 957,
+    "isOnWishList": false
+  },
+  {
+    "id": "p044",
+    "title": "Fotel #44",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p044/800/600",
+    "category": "chair",
+    "price": 981,
+    "isOnWishList": false
+  },
+  {
+    "id": "p045",
+    "title": "Łóżko platformowe #45",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p045/800/600",
+    "category": "bed",
+    "price": 939,
+    "isOnWishList": false
+  },
+  {
+    "id": "p046",
+    "title": "Sofa nowoczesna #46",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p046/800/600",
+    "category": "sofa",
+    "price": 1042,
+    "isOnWishList": true
+  },
+  {
+    "id": "p047",
+    "title": "Dywan #47",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p047/800/600",
+    "category": "carpet",
+    "price": 1051,
+    "isOnWishList": false
+  },
+  {
+    "id": "p048",
+    "title": "Lampa stojąca #48",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p048/800/600",
+    "category": "lamp",
+    "price": 1045,
+    "isOnWishList": false
+  },
+  {
+    "id": "p049",
+    "title": "Stół jadalniany #49",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p049/800/600",
+    "category": "table",
+    "price": 1056,
+    "isOnWishList": false
+  },
+  {
+    "id": "p050",
+    "title": "Fotel #50",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p050/800/600",
+    "category": "chair",
+    "price": 1069,
+    "isOnWishList": false
+  },
+  {
+    "id": "p051",
+    "title": "Łóżko platformowe #51",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p051/800/600",
+    "category": "bed",
+    "price": 95,
+    "isOnWishList": false
+  },
+  {
+    "id": "p052",
+    "title": "Sofa nowoczesna #52",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p052/800/600",
+    "category": "sofa",
+    "price": 153,
+    "isOnWishList": false
+  },
+  {
+    "id": "p053",
+    "title": "Dywan #53",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p053/800/600",
+    "category": "carpet",
+    "price": 108,
+    "isOnWishList": false
+  },
+  {
+    "id": "p054",
+    "title": "Lampa stojąca #54",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p054/800/600",
+    "category": "lamp",
+    "price": 154,
+    "isOnWishList": false
+  },
+  {
+    "id": "p055",
+    "title": "Stół jadalniany #55",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p055/800/600",
+    "category": "table",
+    "price": 159,
+    "isOnWishList": false
+  },
+  {
+    "id": "p056",
+    "title": "Fotel #56",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p056/800/600",
+    "category": "chair",
+    "price": 191,
+    "isOnWishList": false
+  },
+  {
+    "id": "p057",
+    "title": "Łóżko platformowe #57",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p057/800/600",
+    "category": "bed",
+    "price": 224,
+    "isOnWishList": false
+  },
+  {
+    "id": "p058",
+    "title": "Sofa nowoczesna #58",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p058/800/600",
+    "category": "sofa",
+    "price": 290,
+    "isOnWishList": false
+  },
+  {
+    "id": "p059",
+    "title": "Dywan #59",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p059/800/600",
+    "category": "carpet",
+    "price": 290,
+    "isOnWishList": false
+  },
+  {
+    "id": "p060",
+    "title": "Lampa stojąca #60",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p060/800/600",
+    "category": "lamp",
+    "price": 310,
+    "isOnWishList": false
+  },
+  {
+    "id": "p061",
+    "title": "Stół jadalniany #61",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p061/800/600",
+    "category": "table",
+    "price": 343,
+    "isOnWishList": false
+  },
+  {
+    "id": "p062",
+    "title": "Fotel #62",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p062/800/600",
+    "category": "chair",
+    "price": 271,
+    "isOnWishList": false
+  },
+  {
+    "id": "p063",
+    "title": "Łóżko platformowe #63",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p063/800/600",
+    "category": "bed",
+    "price": 313,
+    "isOnWishList": false
+  },
+  {
+    "id": "p064",
+    "title": "Sofa nowoczesna #64",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p064/800/600",
+    "category": "sofa",
+    "price": 406,
+    "isOnWishList": false
+  },
+  {
+    "id": "p065",
+    "title": "Dywan #65",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p065/800/600",
+    "category": "carpet",
+    "price": 393,
+    "isOnWishList": false
+  },
+  {
+    "id": "p066",
+    "title": "Lampa stojąca #66",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p066/800/600",
+    "category": "lamp",
+    "price": 413,
+    "isOnWishList": false
+  },
+  {
+    "id": "p067",
+    "title": "Stół jadalniany #67",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p067/800/600",
+    "category": "table",
+    "price": 371,
+    "isOnWishList": false
+  },
+  {
+    "id": "p068",
+    "title": "Fotel #68",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p068/800/600",
+    "category": "chair",
+    "price": 486,
+    "isOnWishList": true
+  },
+  {
+    "id": "p069",
+    "title": "Łóżko platformowe #69",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p069/800/600",
+    "category": "bed",
+    "price": 491,
+    "isOnWishList": false
+  },
+  {
+    "id": "p070",
+    "title": "Sofa nowoczesna #70",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p070/800/600",
+    "category": "sofa",
+    "price": 464,
+    "isOnWishList": false
+  },
+  {
+    "id": "p071",
+    "title": "Dywan #71",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p071/800/600",
+    "category": "carpet",
+    "price": 496,
+    "isOnWishList": false
+  },
+  {
+    "id": "p072",
+    "title": "Lampa stojąca #72",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p072/800/600",
+    "category": "lamp",
+    "price": 539,
+    "isOnWishList": false
+  },
+  {
+    "id": "p073",
+    "title": "Stół jadalniany #73",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p073/800/600",
+    "category": "table",
+    "price": 576,
+    "isOnWishList": false
+  },
+  {
+    "id": "p074",
+    "title": "Fotel #74",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p074/800/600",
+    "category": "chair",
+    "price": 573,
+    "isOnWishList": false
+  },
+  {
+    "id": "p075",
+    "title": "Łóżko platformowe #75",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p075/800/600",
+    "category": "bed",
+    "price": 610,
+    "isOnWishList": true
+  },
+  {
+    "id": "p076",
+    "title": "Sofa nowoczesna #76",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p076/800/600",
+    "category": "sofa",
+    "price": 611,
+    "isOnWishList": false
+  },
+  {
+    "id": "p077",
+    "title": "Dywan #77",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p077/800/600",
+    "category": "carpet",
+    "price": 661,
+    "isOnWishList": false
+  },
+  {
+    "id": "p078",
+    "title": "Lampa stojąca #78",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p078/800/600",
+    "category": "lamp",
+    "price": 679,
+    "isOnWishList": false
+  },
+  {
+    "id": "p079",
+    "title": "Stół jadalniany #79",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p079/800/600",
+    "category": "table",
+    "price": 622,
+    "isOnWishList": false
+  },
+  {
+    "id": "p080",
+    "title": "Fotel #80",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p080/800/600",
+    "category": "chair",
+    "price": 664,
+    "isOnWishList": false
+  },
+  {
+    "id": "p081",
+    "title": "Łóżko platformowe #81",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p081/800/600",
+    "category": "bed",
+    "price": 687,
+    "isOnWishList": false
+  },
+  {
+    "id": "p082",
+    "title": "Sofa nowoczesna #82",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p082/800/600",
+    "category": "sofa",
+    "price": 757,
+    "isOnWishList": false
+  },
+  {
+    "id": "p083",
+    "title": "Dywan #83",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p083/800/600",
+    "category": "carpet",
+    "price": 738,
+    "isOnWishList": false
+  },
+  {
+    "id": "p084",
+    "title": "Lampa stojąca #84",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p084/800/600",
+    "category": "lamp",
+    "price": 719,
+    "isOnWishList": false
+  },
+  {
+    "id": "p085",
+    "title": "Stół jadalniany #85",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p085/800/600",
+    "category": "table",
+    "price": 743,
+    "isOnWishList": false
+  },
+  {
+    "id": "p086",
+    "title": "Fotel #86",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p086/800/600",
+    "category": "chair",
+    "price": 837,
+    "isOnWishList": false
+  },
+  {
+    "id": "p087",
+    "title": "Łóżko platformowe #87",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p087/800/600",
+    "category": "bed",
+    "price": 852,
+    "isOnWishList": true
+  },
+  {
+    "id": "p088",
+    "title": "Sofa nowoczesna #88",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p088/800/600",
+    "category": "sofa",
+    "price": 843,
+    "isOnWishList": false
+  },
+  {
+    "id": "p089",
+    "title": "Dywan #89",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p089/800/600",
+    "category": "carpet",
+    "price": 902,
+    "isOnWishList": false
+  },
+  {
+    "id": "p090",
+    "title": "Lampa stojąca #90",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p090/800/600",
+    "category": "lamp",
+    "price": 918,
+    "isOnWishList": false
+  },
+  {
+    "id": "p091",
+    "title": "Stół jadalniany #91",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p091/800/600",
+    "category": "table",
+    "price": 934,
+    "isOnWishList": false
+  },
+  {
+    "id": "p092",
+    "title": "Fotel #92",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p092/800/600",
+    "category": "chair",
+    "price": 936,
+    "isOnWishList": false
+  },
+  {
+    "id": "p093",
+    "title": "Łóżko platformowe #93",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p093/800/600",
+    "category": "bed",
+    "price": 906,
+    "isOnWishList": false
+  },
+  {
+    "id": "p094",
+    "title": "Sofa nowoczesna #94",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p094/800/600",
+    "category": "sofa",
+    "price": 950,
+    "isOnWishList": false
+  },
+  {
+    "id": "p095",
+    "title": "Dywan #95",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p095/800/600",
+    "category": "carpet",
+    "price": 974,
+    "isOnWishList": false
+  },
+  {
+    "id": "p096",
+    "title": "Lampa stojąca #96",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p096/800/600",
+    "category": "lamp",
+    "price": 1009,
+    "isOnWishList": false
+  },
+  {
+    "id": "p097",
+    "title": "Stół jadalniany #97",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p097/800/600",
+    "category": "table",
+    "price": 1066,
+    "isOnWishList": false
+  },
+  {
+    "id": "p098",
+    "title": "Fotel #98",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p098/800/600",
+    "category": "chair",
+    "price": 1038,
+    "isOnWishList": false
+  },
+  {
+    "id": "p099",
+    "title": "Łóżko platformowe #99",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p099/800/600",
+    "category": "bed",
+    "price": 1030,
+    "isOnWishList": false
+  },
+  {
+    "id": "p100",
+    "title": "Sofa nowoczesna #100",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p100/800/600",
+    "category": "sofa",
+    "price": 1093,
+    "isOnWishList": false
+  },
+  {
+    "id": "p101",
+    "title": "Dywan #101",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p101/800/600",
+    "category": "carpet",
+    "price": 70,
+    "isOnWishList": false
+  },
+  {
+    "id": "p102",
+    "title": "Lampa stojąca #102",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p102/800/600",
+    "category": "lamp",
+    "price": 89,
+    "isOnWishList": false
+  },
+  {
+    "id": "p103",
+    "title": "Stół jadalniany #103",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p103/800/600",
+    "category": "table",
+    "price": 94,
+    "isOnWishList": false
+  },
+  {
+    "id": "p104",
+    "title": "Fotel #104",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p104/800/600",
+    "category": "chair",
+    "price": 191,
+    "isOnWishList": false
+  },
+  {
+    "id": "p105",
+    "title": "Łóżko platformowe #105",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p105/800/600",
+    "category": "bed",
+    "price": 196,
+    "isOnWishList": false
+  },
+  {
+    "id": "p106",
+    "title": "Sofa nowoczesna #106",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p106/800/600",
+    "category": "sofa",
+    "price": 234,
+    "isOnWishList": true
+  },
+  {
+    "id": "p107",
+    "title": "Dywan #107",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p107/800/600",
+    "category": "carpet",
+    "price": 179,
+    "isOnWishList": false
+  },
+  {
+    "id": "p108",
+    "title": "Lampa stojąca #108",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p108/800/600",
+    "category": "lamp",
+    "price": 282,
+    "isOnWishList": false
+  },
+  {
+    "id": "p109",
+    "title": "Stół jadalniany #109",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p109/800/600",
+    "category": "table",
+    "price": 266,
+    "isOnWishList": false
+  },
+  {
+    "id": "p110",
+    "title": "Fotel #110",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p110/800/600",
+    "category": "chair",
+    "price": 246,
+    "isOnWishList": false
+  },
+  {
+    "id": "p111",
+    "title": "Łóżko platformowe #111",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p111/800/600",
+    "category": "bed",
+    "price": 311,
+    "isOnWishList": true
+  },
+  {
+    "id": "p112",
+    "title": "Sofa nowoczesna #112",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p112/800/600",
+    "category": "sofa",
+    "price": 369,
+    "isOnWishList": false
+  },
+  {
+    "id": "p113",
+    "title": "Dywan #113",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p113/800/600",
+    "category": "carpet",
+    "price": 304,
+    "isOnWishList": false
+  },
+  {
+    "id": "p114",
+    "title": "Lampa stojąca #114",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p114/800/600",
+    "category": "lamp",
+    "price": 381,
+    "isOnWishList": false
+  },
+  {
+    "id": "p115",
+    "title": "Stół jadalniany #115",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p115/800/600",
+    "category": "table",
+    "price": 395,
+    "isOnWishList": false
+  },
+  {
+    "id": "p116",
+    "title": "Fotel #116",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p116/800/600",
+    "category": "chair",
+    "price": 418,
+    "isOnWishList": true
+  },
+  {
+    "id": "p117",
+    "title": "Łóżko platformowe #117",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p117/800/600",
+    "category": "bed",
+    "price": 442,
+    "isOnWishList": false
+  },
+  {
+    "id": "p118",
+    "title": "Sofa nowoczesna #118",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p118/800/600",
+    "category": "sofa",
+    "price": 398,
+    "isOnWishList": false
+  },
+  {
+    "id": "p119",
+    "title": "Dywan #119",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p119/800/600",
+    "category": "carpet",
+    "price": 505,
+    "isOnWishList": false
+  },
+  {
+    "id": "p120",
+    "title": "Lampa stojąca #120",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p120/800/600",
+    "category": "lamp",
+    "price": 488,
+    "isOnWishList": false
+  },
+  {
+    "id": "p121",
+    "title": "Stół jadalniany #121",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p121/800/600",
+    "category": "table",
+    "price": 462,
+    "isOnWishList": true
+  },
+  {
+    "id": "p122",
+    "title": "Fotel #122",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p122/800/600",
+    "category": "chair",
+    "price": 494,
+    "isOnWishList": false
+  },
+  {
+    "id": "p123",
+    "title": "Łóżko platformowe #123",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p123/800/600",
+    "category": "bed",
+    "price": 534,
+    "isOnWishList": true
+  },
+  {
+    "id": "p124",
+    "title": "Sofa nowoczesna #124",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p124/800/600",
+    "category": "sofa",
+    "price": 541,
+    "isOnWishList": false
+  },
+  {
+    "id": "p125",
+    "title": "Dywan #125",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p125/800/600",
+    "category": "carpet",
+    "price": 545,
+    "isOnWishList": false
+  },
+  {
+    "id": "p126",
+    "title": "Lampa stojąca #126",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p126/800/600",
+    "category": "lamp",
+    "price": 619,
+    "isOnWishList": false
+  },
+  {
+    "id": "p127",
+    "title": "Stół jadalniany #127",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p127/800/600",
+    "category": "table",
+    "price": 628,
+    "isOnWishList": true
+  },
+  {
+    "id": "p128",
+    "title": "Fotel #128",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p128/800/600",
+    "category": "chair",
+    "price": 688,
+    "isOnWishList": false
+  },
+  {
+    "id": "p129",
+    "title": "Łóżko platformowe #129",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p129/800/600",
+    "category": "bed",
+    "price": 639,
+    "isOnWishList": false
+  },
+  {
+    "id": "p130",
+    "title": "Sofa nowoczesna #130",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p130/800/600",
+    "category": "sofa",
+    "price": 691,
+    "isOnWishList": false
+  },
+  {
+    "id": "p131",
+    "title": "Dywan #131",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p131/800/600",
+    "category": "carpet",
+    "price": 688,
+    "isOnWishList": false
+  },
+  {
+    "id": "p132",
+    "title": "Lampa stojąca #132",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p132/800/600",
+    "category": "lamp",
+    "price": 696,
+    "isOnWishList": false
+  },
+  {
+    "id": "p133",
+    "title": "Stół jadalniany #133",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p133/800/600",
+    "category": "table",
+    "price": 752,
+    "isOnWishList": false
+  },
+  {
+    "id": "p134",
+    "title": "Fotel #134",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p134/800/600",
+    "category": "chair",
+    "price": 727,
+    "isOnWishList": false
+  },
+  {
+    "id": "p135",
+    "title": "Łóżko platformowe #135",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p135/800/600",
+    "category": "bed",
+    "price": 804,
+    "isOnWishList": true
+  },
+  {
+    "id": "p136",
+    "title": "Sofa nowoczesna #136",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p136/800/600",
+    "category": "sofa",
+    "price": 773,
+    "isOnWishList": false
+  },
+  {
+    "id": "p137",
+    "title": "Dywan #137",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p137/800/600",
+    "category": "carpet",
+    "price": 839,
+    "isOnWishList": false
+  },
+  {
+    "id": "p138",
+    "title": "Lampa stojąca #138",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p138/800/600",
+    "category": "lamp",
+    "price": 875,
+    "isOnWishList": false
+  },
+  {
+    "id": "p139",
+    "title": "Stół jadalniany #139",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p139/800/600",
+    "category": "table",
+    "price": 835,
+    "isOnWishList": false
+  },
+  {
+    "id": "p140",
+    "title": "Fotel #140",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p140/800/600",
+    "category": "chair",
+    "price": 839,
+    "isOnWishList": false
+  },
+  {
+    "id": "p141",
+    "title": "Łóżko platformowe #141",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p141/800/600",
+    "category": "bed",
+    "price": 868,
+    "isOnWishList": false
+  },
+  {
+    "id": "p142",
+    "title": "Sofa nowoczesna #142",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p142/800/600",
+    "category": "sofa",
+    "price": 874,
+    "isOnWishList": false
+  },
+  {
+    "id": "p143",
+    "title": "Dywan #143",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p143/800/600",
+    "category": "carpet",
+    "price": 901,
+    "isOnWishList": false
+  },
+  {
+    "id": "p144",
+    "title": "Lampa stojąca #144",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p144/800/600",
+    "category": "lamp",
+    "price": 1004,
+    "isOnWishList": false
+  },
+  {
+    "id": "p145",
+    "title": "Stół jadalniany #145",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p145/800/600",
+    "category": "table",
+    "price": 1025,
+    "isOnWishList": false
+  },
+  {
+    "id": "p146",
+    "title": "Fotel #146",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p146/800/600",
+    "category": "chair",
+    "price": 1014,
+    "isOnWishList": false
+  },
+  {
+    "id": "p147",
+    "title": "Łóżko platformowe #147",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p147/800/600",
+    "category": "bed",
+    "price": 995,
+    "isOnWishList": false
+  },
+  {
+    "id": "p148",
+    "title": "Sofa nowoczesna #148",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p148/800/600",
+    "category": "sofa",
+    "price": 1048,
+    "isOnWishList": false
+  },
+  {
+    "id": "p149",
+    "title": "Dywan #149",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p149/800/600",
+    "category": "carpet",
+    "price": 1065,
+    "isOnWishList": false
+  },
+  {
+    "id": "p150",
+    "title": "Lampa stojąca #150",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p150/800/600",
+    "category": "lamp",
+    "price": 1086,
+    "isOnWishList": false
+  },
+  {
+    "id": "p151",
+    "title": "Stół jadalniany #151",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p151/800/600",
+    "category": "table",
+    "price": 120,
+    "isOnWishList": false
+  },
+  {
+    "id": "p152",
+    "title": "Fotel #152",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p152/800/600",
+    "category": "chair",
+    "price": 112,
+    "isOnWishList": false
+  },
+  {
+    "id": "p153",
+    "title": "Łóżko platformowe #153",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p153/800/600",
+    "category": "bed",
+    "price": 118,
+    "isOnWishList": false
+  },
+  {
+    "id": "p154",
+    "title": "Sofa nowoczesna #154",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p154/800/600",
+    "category": "sofa",
+    "price": 149,
+    "isOnWishList": false
+  },
+  {
+    "id": "p155",
+    "title": "Dywan #155",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p155/800/600",
+    "category": "carpet",
+    "price": 199,
+    "isOnWishList": true
+  },
+  {
+    "id": "p156",
+    "title": "Lampa stojąca #156",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p156/800/600",
+    "category": "lamp",
+    "price": 169,
+    "isOnWishList": false
+  },
+  {
+    "id": "p157",
+    "title": "Stół jadalniany #157",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p157/800/600",
+    "category": "table",
+    "price": 201,
+    "isOnWishList": true
+  },
+  {
+    "id": "p158",
+    "title": "Fotel #158",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p158/800/600",
+    "category": "chair",
+    "price": 287,
+    "isOnWishList": false
+  },
+  {
+    "id": "p159",
+    "title": "Łóżko platformowe #159",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p159/800/600",
+    "category": "bed",
+    "price": 212,
+    "isOnWishList": false
+  },
+  {
+    "id": "p160",
+    "title": "Sofa nowoczesna #160",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p160/800/600",
+    "category": "sofa",
+    "price": 293,
+    "isOnWishList": false
+  },
+  {
+    "id": "p161",
+    "title": "Dywan #161",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p161/800/600",
+    "category": "carpet",
+    "price": 295,
+    "isOnWishList": true
+  },
+  {
+    "id": "p162",
+    "title": "Lampa stojąca #162",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p162/800/600",
+    "category": "lamp",
+    "price": 353,
+    "isOnWishList": false
+  },
+  {
+    "id": "p163",
+    "title": "Stół jadalniany #163",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p163/800/600",
+    "category": "table",
+    "price": 321,
+    "isOnWishList": false
+  },
+  {
+    "id": "p164",
+    "title": "Fotel #164",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p164/800/600",
+    "category": "chair",
+    "price": 347,
+    "isOnWishList": false
+  },
+  {
+    "id": "p165",
+    "title": "Łóżko platformowe #165",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p165/800/600",
+    "category": "bed",
+    "price": 332,
+    "isOnWishList": false
+  },
+  {
+    "id": "p166",
+    "title": "Sofa nowoczesna #166",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p166/800/600",
+    "category": "sofa",
+    "price": 366,
+    "isOnWishList": false
+  },
+  {
+    "id": "p167",
+    "title": "Dywan #167",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p167/800/600",
+    "category": "carpet",
+    "price": 373,
+    "isOnWishList": false
+  },
+  {
+    "id": "p168",
+    "title": "Lampa stojąca #168",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p168/800/600",
+    "category": "lamp",
+    "price": 437,
+    "isOnWishList": false
+  },
+  {
+    "id": "p169",
+    "title": "Stół jadalniany #169",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p169/800/600",
+    "category": "table",
+    "price": 500,
+    "isOnWishList": false
+  },
+  {
+    "id": "p170",
+    "title": "Fotel #170",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p170/800/600",
+    "category": "chair",
+    "price": 439,
+    "isOnWishList": false
+  },
+  {
+    "id": "p171",
+    "title": "Łóżko platformowe #171",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p171/800/600",
+    "category": "bed",
+    "price": 541,
+    "isOnWishList": false
+  },
+  {
+    "id": "p172",
+    "title": "Sofa nowoczesna #172",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p172/800/600",
+    "category": "sofa",
+    "price": 475,
+    "isOnWishList": false
+  },
+  {
+    "id": "p173",
+    "title": "Dywan #173",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p173/800/600",
+    "category": "carpet",
+    "price": 506,
+    "isOnWishList": false
+  },
+  {
+    "id": "p174",
+    "title": "Lampa stojąca #174",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p174/800/600",
+    "category": "lamp",
+    "price": 583,
+    "isOnWishList": false
+  },
+  {
+    "id": "p175",
+    "title": "Stół jadalniany #175",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p175/800/600",
+    "category": "table",
+    "price": 593,
+    "isOnWishList": false
+  },
+  {
+    "id": "p176",
+    "title": "Fotel #176",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p176/800/600",
+    "category": "chair",
+    "price": 649,
+    "isOnWishList": false
+  },
+  {
+    "id": "p177",
+    "title": "Łóżko platformowe #177",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p177/800/600",
+    "category": "bed",
+    "price": 640,
+    "isOnWishList": false
+  },
+  {
+    "id": "p178",
+    "title": "Sofa nowoczesna #178",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p178/800/600",
+    "category": "sofa",
+    "price": 598,
+    "isOnWishList": true
+  },
+  {
+    "id": "p179",
+    "title": "Dywan #179",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p179/800/600",
+    "category": "carpet",
+    "price": 623,
+    "isOnWishList": false
+  },
+  {
+    "id": "p180",
+    "title": "Lampa stojąca #180",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p180/800/600",
+    "category": "lamp",
+    "price": 688,
+    "isOnWishList": false
+  },
+  {
+    "id": "p181",
+    "title": "Stół jadalniany #181",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p181/800/600",
+    "category": "table",
+    "price": 679,
+    "isOnWishList": false
+  },
+  {
+    "id": "p182",
+    "title": "Fotel #182",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p182/800/600",
+    "category": "chair",
+    "price": 729,
+    "isOnWishList": false
+  },
+  {
+    "id": "p183",
+    "title": "Łóżko platformowe #183",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p183/800/600",
+    "category": "bed",
+    "price": 781,
+    "isOnWishList": false
+  },
+  {
+    "id": "p184",
+    "title": "Sofa nowoczesna #184",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p184/800/600",
+    "category": "sofa",
+    "price": 798,
+    "isOnWishList": false
+  },
+  {
+    "id": "p185",
+    "title": "Dywan #185",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p185/800/600",
+    "category": "carpet",
+    "price": 806,
+    "isOnWishList": false
+  },
+  {
+    "id": "p186",
+    "title": "Lampa stojąca #186",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p186/800/600",
+    "category": "lamp",
+    "price": 819,
+    "isOnWishList": true
+  },
+  {
+    "id": "p187",
+    "title": "Stół jadalniany #187",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p187/800/600",
+    "category": "table",
+    "price": 809,
+    "isOnWishList": false
+  },
+  {
+    "id": "p188",
+    "title": "Fotel #188",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p188/800/600",
+    "category": "chair",
+    "price": 847,
+    "isOnWishList": false
+  },
+  {
+    "id": "p189",
+    "title": "Łóżko platformowe #189",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p189/800/600",
+    "category": "bed",
+    "price": 897,
+    "isOnWishList": false
+  },
+  {
+    "id": "p190",
+    "title": "Sofa nowoczesna #190",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p190/800/600",
+    "category": "sofa",
+    "price": 849,
+    "isOnWishList": false
+  },
+  {
+    "id": "p191",
+    "title": "Dywan #191",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p191/800/600",
+    "category": "carpet",
+    "price": 939,
+    "isOnWishList": false
+  },
+  {
+    "id": "p192",
+    "title": "Lampa stojąca #192",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p192/800/600",
+    "category": "lamp",
+    "price": 922,
+    "isOnWishList": false
+  },
+  {
+    "id": "p193",
+    "title": "Stół jadalniany #193",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p193/800/600",
+    "category": "table",
+    "price": 955,
+    "isOnWishList": false
+  },
+  {
+    "id": "p194",
+    "title": "Fotel #194",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p194/800/600",
+    "category": "chair",
+    "price": 1002,
+    "isOnWishList": true
+  },
+  {
+    "id": "p195",
+    "title": "Łóżko platformowe #195",
+    "description": "Minimalistyczna rama łóżka z listwami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p195/800/600",
+    "category": "bed",
+    "price": 988,
+    "isOnWishList": false
+  },
+  {
+    "id": "p196",
+    "title": "Sofa nowoczesna #196",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "imageUrl": "https://picsum.photos/seed/pl-p196/800/600",
+    "category": "sofa",
+    "price": 988,
+    "isOnWishList": false
+  },
+  {
+    "id": "p197",
+    "title": "Dywan #197",
+    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "imageUrl": "https://picsum.photos/seed/pl-p197/800/600",
+    "category": "carpet",
+    "price": 1068,
+    "isOnWishList": false
+  },
+  {
+    "id": "p198",
+    "title": "Lampa stojąca #198",
+    "description": "Regulowana lampa z lnianym abażurem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p198/800/600",
+    "category": "lamp",
+    "price": 1067,
+    "isOnWishList": false
+  },
+  {
+    "id": "p199",
+    "title": "Stół jadalniany #199",
+    "description": "Solidny stół do rodzinnych posiłków.",
+    "imageUrl": "https://picsum.photos/seed/pl-p199/800/600",
+    "category": "table",
+    "price": 1076,
+    "isOnWishList": false
+  },
+  {
+    "id": "p200",
+    "title": "Fotel #200",
+    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "imageUrl": "https://picsum.photos/seed/pl-p200/800/600",
+    "category": "chair",
+    "price": 1079,
     "isOnWishList": false
   }
 ]
