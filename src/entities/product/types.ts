@@ -5,7 +5,10 @@ export type Product = {
   title: string;
   description: string;
   price: number;
+  discountedPrice?: number;
+  currency: string;
   category: Category;
-  imageUrl: string;
+  images: string[];
   isOnWishList: boolean;
+  isNew: boolean;
 };

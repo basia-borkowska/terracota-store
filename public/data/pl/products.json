@@ -3,1800 +3,3043 @@
     "id": "p001",
     "title": "Stół jadalniany #1",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p001/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 94,
+    "price": 101,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p002",
     "title": "Fotel #2",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p002/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 129,
+    "price": 116,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p003",
     "title": "Łóżko platformowe #3",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p003/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 178,
+    "price": 167,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p004",
     "title": "Sofa nowoczesna #4",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p004/800/600",
+    "images": [
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 154,
+    "price": 175,
+    "discountedPrice": 151.62,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p005",
     "title": "Dywan #5",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p005/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg"
+    ],
     "category": "carpet",
-    "price": 202,
+    "price": 186,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p006",
     "title": "Lampa stojąca #6",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p006/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 216,
+    "price": 206,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p007",
     "title": "Stół jadalniany #7",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p007/800/600",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 184,
+    "price": 177,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p008",
     "title": "Fotel #8",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p008/800/600",
+    "images": [
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp"
+    ],
     "category": "chair",
-    "price": 275,
+    "price": 228,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p009",
     "title": "Łóżko platformowe #9",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p009/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 228,
+    "price": 234,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p010",
     "title": "Sofa nowoczesna #10",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p010/800/600",
+    "images": [
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/8.webp"
+    ],
     "category": "sofa",
-    "price": 328,
+    "price": 238,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p011",
     "title": "Dywan #11",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p011/800/600",
+    "images": [
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 319,
+    "price": 268,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p012",
     "title": "Lampa stojąca #12",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p012/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 304,
-    "isOnWishList": true
+    "price": 277,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p013",
     "title": "Stół jadalniany #13",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p013/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 324,
+    "price": 378,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p014",
     "title": "Fotel #14",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p014/800/600",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 385,
-    "isOnWishList": false
+    "price": 357,
+    "discountedPrice": 329.44,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p015",
     "title": "Łóżko platformowe #15",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p015/800/600",
+    "images": [
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/4.webp"
+    ],
     "category": "bed",
-    "price": 370,
+    "price": 338,
+    "discountedPrice": 305.57,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p016",
     "title": "Sofa nowoczesna #16",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p016/800/600",
+    "images": [
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 369,
+    "price": 440,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p017",
     "title": "Dywan #17",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p017/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 408,
+    "price": 401,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p018",
     "title": "Lampa stojąca #18",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p018/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 412,
+    "price": 430,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p019",
     "title": "Stół jadalniany #19",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p019/800/600",
+    "images": [
+      "/images/samples/table/6.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
-    "price": 464,
+    "price": 483,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p020",
     "title": "Fotel #20",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p020/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 430,
-    "isOnWishList": false
+    "price": 485,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p021",
     "title": "Łóżko platformowe #21",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p021/800/600",
+    "images": [
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/2.webp"
+    ],
     "category": "bed",
-    "price": 470,
+    "price": 471,
+    "discountedPrice": 427.12,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p022",
     "title": "Sofa nowoczesna #22",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p022/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 557,
-    "isOnWishList": false
+    "price": 482,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p023",
     "title": "Dywan #23",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p023/800/600",
+    "images": [
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg"
+    ],
     "category": "carpet",
-    "price": 518,
-    "isOnWishList": false
+    "price": 491,
+    "discountedPrice": 463.6,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p024",
     "title": "Lampa stojąca #24",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p024/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 593,
+    "price": 594,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p025",
     "title": "Stół jadalniany #25",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p025/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 535,
+    "price": 557,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p026",
     "title": "Fotel #26",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p026/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 581,
+    "price": 629,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p027",
     "title": "Łóżko platformowe #27",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p027/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 646,
+    "price": 574,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p028",
     "title": "Sofa nowoczesna #28",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p028/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 682,
+    "price": 667,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p029",
     "title": "Dywan #29",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p029/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 685,
+    "price": 669,
+    "discountedPrice": 563.83,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p030",
     "title": "Lampa stojąca #30",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p030/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 682,
+    "price": 663,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p031",
     "title": "Stół jadalniany #31",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p031/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
-    "price": 653,
+    "price": 700,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p032",
     "title": "Fotel #32",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p032/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 718,
-    "isOnWishList": true
+    "price": 670,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p033",
     "title": "Łóżko platformowe #33",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p033/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/4.webp"
+    ],
     "category": "bed",
-    "price": 739,
+    "price": 695,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p034",
     "title": "Sofa nowoczesna #34",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p034/800/600",
+    "images": [
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp"
+    ],
     "category": "sofa",
-    "price": 767,
+    "price": 712,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p035",
     "title": "Dywan #35",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p035/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 756,
+    "price": 801,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p036",
     "title": "Lampa stojąca #36",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p036/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 840,
+    "price": 833,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p037",
     "title": "Stół jadalniany #37",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p037/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
     "price": 798,
-    "isOnWishList": false
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p038",
     "title": "Fotel #38",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p038/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 828,
+    "price": 846,
+    "currency": "PLN",
     "isOnWishList": true
   },
   {
     "id": "p039",
     "title": "Łóżko platformowe #39",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p039/800/600",
+    "images": [
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/1.webp"
+    ],
     "category": "bed",
-    "price": 826,
-    "isOnWishList": false
+    "price": 857,
+    "discountedPrice": 789.9,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p040",
     "title": "Sofa nowoczesna #40",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p040/800/600",
+    "images": [
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 882,
-    "isOnWishList": true
+    "price": 869,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p041",
     "title": "Dywan #41",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p041/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 871,
-    "isOnWishList": false
+    "price": 942,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p042",
     "title": "Lampa stojąca #42",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p042/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 942,
-    "isOnWishList": false
+    "price": 896,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p043",
     "title": "Stół jadalniany #43",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p043/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
-    "price": 957,
+    "price": 958,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p044",
     "title": "Fotel #44",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p044/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 981,
+    "price": 964,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p045",
     "title": "Łóżko platformowe #45",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p045/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 939,
+    "price": 985,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p046",
     "title": "Sofa nowoczesna #46",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p046/800/600",
+    "images": [
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 1042,
-    "isOnWishList": true
+    "price": 1015,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p047",
     "title": "Dywan #47",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p047/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 1051,
+    "price": 1025,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p048",
     "title": "Lampa stojąca #48",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p048/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 1045,
+    "price": 1026,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p049",
     "title": "Stół jadalniany #49",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p049/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 1056,
+    "price": 1031,
+    "discountedPrice": 906.55,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p050",
     "title": "Fotel #50",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p050/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 1069,
+    "price": 1088,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p051",
     "title": "Łóżko platformowe #51",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p051/800/600",
+    "images": [
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp"
+    ],
     "category": "bed",
-    "price": 95,
+    "price": 115,
+    "discountedPrice": 98.75,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p052",
     "title": "Sofa nowoczesna #52",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p052/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/4.webp"
+    ],
     "category": "sofa",
-    "price": 153,
+    "price": 118,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p053",
     "title": "Dywan #53",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p053/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/4.webp"
+    ],
     "category": "carpet",
-    "price": 108,
+    "price": 151,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p054",
     "title": "Lampa stojąca #54",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p054/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 154,
+    "price": 122,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p055",
     "title": "Stół jadalniany #55",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p055/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 159,
+    "price": 134,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p056",
     "title": "Fotel #56",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p056/800/600",
+    "images": [
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 191,
+    "price": 175,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p057",
     "title": "Łóżko platformowe #57",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p057/800/600",
+    "images": [
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/4.webp"
+    ],
     "category": "bed",
-    "price": 224,
+    "price": 219,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p058",
     "title": "Sofa nowoczesna #58",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p058/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/7.webp"
+    ],
     "category": "sofa",
-    "price": 290,
+    "price": 275,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p059",
     "title": "Dywan #59",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p059/800/600",
+    "images": [
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 290,
+    "price": 271,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p060",
     "title": "Lampa stojąca #60",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p060/800/600",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 310,
-    "isOnWishList": false
+    "price": 245,
+    "discountedPrice": 208.77,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p061",
     "title": "Stół jadalniany #61",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p061/800/600",
+    "images": [
+      "/images/samples/table/6.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 343,
+    "price": 300,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p062",
     "title": "Fotel #62",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p062/800/600",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp"
+    ],
     "category": "chair",
-    "price": 271,
+    "price": 336,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p063",
     "title": "Łóżko platformowe #63",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p063/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 313,
+    "price": 319,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p064",
     "title": "Sofa nowoczesna #64",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p064/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/6.webp"
+    ],
     "category": "sofa",
-    "price": 406,
+    "price": 314,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p065",
     "title": "Dywan #65",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p065/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 393,
+    "price": 405,
+    "discountedPrice": 332.24,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p066",
     "title": "Lampa stojąca #66",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p066/800/600",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 413,
+    "price": 383,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p067",
     "title": "Stół jadalniany #67",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p067/800/600",
+    "images": [
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 371,
+    "price": 378,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p068",
     "title": "Fotel #68",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p068/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 486,
-    "isOnWishList": true
+    "price": 442,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p069",
     "title": "Łóżko platformowe #69",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p069/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 491,
+    "price": 488,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p070",
     "title": "Sofa nowoczesna #70",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p070/800/600",
+    "images": [
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 464,
+    "price": 457,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p071",
     "title": "Dywan #71",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p071/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 496,
+    "price": 549,
+    "discountedPrice": 520.62,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p072",
     "title": "Lampa stojąca #72",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p072/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 539,
+    "price": 471,
+    "discountedPrice": 389.73,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p073",
     "title": "Stół jadalniany #73",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p073/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 576,
-    "isOnWishList": false
+    "price": 537,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p074",
     "title": "Fotel #74",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p074/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 573,
+    "price": 542,
+    "discountedPrice": 445.62,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p075",
     "title": "Łóżko platformowe #75",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p075/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/5.webp"
+    ],
     "category": "bed",
-    "price": 610,
-    "isOnWishList": true
+    "price": 565,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p076",
     "title": "Sofa nowoczesna #76",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p076/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/2.webp"
+    ],
     "category": "sofa",
-    "price": 611,
+    "price": 595,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p077",
     "title": "Dywan #77",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p077/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 661,
+    "price": 667,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p078",
     "title": "Lampa stojąca #78",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p078/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 679,
-    "isOnWishList": false
+    "price": 622,
+    "discountedPrice": 563.17,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p079",
     "title": "Stół jadalniany #79",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p079/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
     "category": "table",
-    "price": 622,
-    "isOnWishList": false
+    "price": 627,
+    "discountedPrice": 513.86,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p080",
     "title": "Fotel #80",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p080/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 664,
+    "price": 695,
+    "discountedPrice": 628.69,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p081",
     "title": "Łóżko platformowe #81",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p081/800/600",
+    "images": [
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 687,
+    "price": 654,
+    "discountedPrice": 563.8,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p082",
     "title": "Sofa nowoczesna #82",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p082/800/600",
+    "images": [
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/10.webp"
+    ],
     "category": "sofa",
-    "price": 757,
-    "isOnWishList": false
+    "price": 753,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p083",
     "title": "Dywan #83",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p083/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 738,
+    "price": 785,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p084",
     "title": "Lampa stojąca #84",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p084/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 719,
+    "price": 745,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p085",
     "title": "Stół jadalniany #85",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p085/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 743,
+    "price": 786,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p086",
     "title": "Fotel #86",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p086/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 837,
+    "price": 839,
+    "discountedPrice": 791.1,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p087",
     "title": "Łóżko platformowe #87",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p087/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 852,
-    "isOnWishList": true
+    "price": 774,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p088",
     "title": "Sofa nowoczesna #88",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p088/800/600",
+    "images": [
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 843,
+    "price": 875,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p089",
     "title": "Dywan #89",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p089/800/600",
+    "images": [
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 902,
+    "price": 900,
+    "discountedPrice": 794.9,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p090",
     "title": "Lampa stojąca #90",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p090/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 918,
+    "price": 930,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p091",
     "title": "Stół jadalniany #91",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p091/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 934,
+    "price": 941,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p092",
     "title": "Fotel #92",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p092/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 936,
+    "price": 938,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p093",
     "title": "Łóżko platformowe #93",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p093/800/600",
+    "images": [
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 906,
-    "isOnWishList": false
+    "price": 893,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p094",
     "title": "Sofa nowoczesna #94",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p094/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp"
+    ],
     "category": "sofa",
-    "price": 950,
+    "price": 941,
+    "discountedPrice": 835.78,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p095",
     "title": "Dywan #95",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p095/800/600",
+    "images": [
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 974,
-    "isOnWishList": false
+    "price": 960,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p096",
     "title": "Lampa stojąca #96",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p096/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 1009,
+    "price": 1041,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p097",
     "title": "Stół jadalniany #97",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p097/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 1066,
+    "price": 979,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p098",
     "title": "Fotel #98",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p098/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/4.webp"
+    ],
     "category": "chair",
-    "price": 1038,
+    "price": 1003,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p099",
     "title": "Łóżko platformowe #99",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p099/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 1030,
+    "price": 1026,
+    "discountedPrice": 902.68,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p100",
     "title": "Sofa nowoczesna #100",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p100/800/600",
+    "images": [
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 1093,
+    "price": 1065,
+    "discountedPrice": 926.32,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p101",
     "title": "Dywan #101",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p101/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 70,
+    "price": 111,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p102",
     "title": "Lampa stojąca #102",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p102/800/600",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/4.webp"
+    ],
     "category": "lamp",
-    "price": 89,
-    "isOnWishList": false
+    "price": 155,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p103",
     "title": "Stół jadalniany #103",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p103/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/5.webp"
+    ],
     "category": "table",
-    "price": 94,
+    "price": 176,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p104",
     "title": "Fotel #104",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p104/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 191,
+    "price": 173,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p105",
     "title": "Łóżko platformowe #105",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p105/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 196,
+    "price": 140,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p106",
     "title": "Sofa nowoczesna #106",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p106/800/600",
+    "images": [
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp"
+    ],
     "category": "sofa",
-    "price": 234,
-    "isOnWishList": true
+    "price": 240,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p107",
     "title": "Dywan #107",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p107/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 179,
+    "price": 236,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p108",
     "title": "Lampa stojąca #108",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p108/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 282,
+    "price": 234,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p109",
     "title": "Stół jadalniany #109",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p109/800/600",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 266,
+    "price": 232,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p110",
     "title": "Fotel #110",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p110/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 246,
+    "price": 304,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p111",
     "title": "Łóżko platformowe #111",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p111/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 311,
+    "price": 277,
+    "currency": "PLN",
     "isOnWishList": true
   },
   {
     "id": "p112",
     "title": "Sofa nowoczesna #112",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p112/800/600",
+    "images": [
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/7.webp"
+    ],
     "category": "sofa",
-    "price": 369,
+    "price": 319,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p113",
     "title": "Dywan #113",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p113/800/600",
+    "images": [
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 304,
+    "price": 319,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p114",
     "title": "Lampa stojąca #114",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p114/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 381,
+    "price": 340,
+    "discountedPrice": 312.27,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p115",
     "title": "Stół jadalniany #115",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p115/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 395,
+    "price": 363,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p116",
     "title": "Fotel #116",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p116/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 418,
-    "isOnWishList": true
+    "price": 375,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p117",
     "title": "Łóżko platformowe #117",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p117/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 442,
+    "price": 377,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p118",
     "title": "Sofa nowoczesna #118",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p118/800/600",
+    "images": [
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 398,
-    "isOnWishList": false
+    "price": 461,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p119",
     "title": "Dywan #119",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p119/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 505,
+    "price": 501,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p120",
     "title": "Lampa stojąca #120",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p120/800/600",
+    "images": [
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/4.webp"
+    ],
     "category": "lamp",
-    "price": 488,
+    "price": 522,
+    "discountedPrice": 453.07,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p121",
     "title": "Stół jadalniany #121",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p121/800/600",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
-    "price": 462,
+    "price": 504,
+    "currency": "PLN",
     "isOnWishList": true
   },
   {
     "id": "p122",
     "title": "Fotel #122",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p122/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp"
+    ],
     "category": "chair",
-    "price": 494,
+    "price": 479,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p123",
     "title": "Łóżko platformowe #123",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p123/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/5.webp"
+    ],
     "category": "bed",
-    "price": 534,
-    "isOnWishList": true
+    "price": 544,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p124",
     "title": "Sofa nowoczesna #124",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p124/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/1.webp"
+    ],
     "category": "sofa",
-    "price": 541,
+    "price": 514,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p125",
     "title": "Dywan #125",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p125/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 545,
+    "price": 624,
+    "discountedPrice": 531.87,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p126",
     "title": "Lampa stojąca #126",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p126/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 619,
+    "price": 634,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p127",
     "title": "Stół jadalniany #127",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p127/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/2.webp"
+    ],
     "category": "table",
-    "price": 628,
-    "isOnWishList": true
+    "price": 658,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p128",
     "title": "Fotel #128",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p128/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 688,
+    "price": 642,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p129",
     "title": "Łóżko platformowe #129",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p129/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 639,
+    "price": 654,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p130",
     "title": "Sofa nowoczesna #130",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p130/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 691,
+    "price": 727,
+    "discountedPrice": 623.95,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p131",
     "title": "Dywan #131",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p131/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp"
+    ],
     "category": "carpet",
-    "price": 688,
+    "price": 727,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p132",
     "title": "Lampa stojąca #132",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p132/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 696,
+    "price": 702,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p133",
     "title": "Stół jadalniany #133",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p133/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 752,
+    "price": 766,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p134",
     "title": "Fotel #134",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p134/800/600",
+    "images": [
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 727,
+    "price": 769,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p135",
     "title": "Łóżko platformowe #135",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p135/800/600",
+    "images": [
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 804,
-    "isOnWishList": true
+    "price": 808,
+    "discountedPrice": 751.9,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p136",
     "title": "Sofa nowoczesna #136",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p136/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/8.webp"
+    ],
     "category": "sofa",
-    "price": 773,
+    "price": 790,
+    "discountedPrice": 677.91,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p137",
     "title": "Dywan #137",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p137/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp"
+    ],
     "category": "carpet",
-    "price": 839,
+    "price": 844,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p138",
     "title": "Lampa stojąca #138",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p138/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 875,
-    "isOnWishList": false
+    "price": 848,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p139",
     "title": "Stół jadalniany #139",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p139/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/2.webp"
+    ],
     "category": "table",
-    "price": 835,
+    "price": 812,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p140",
     "title": "Fotel #140",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p140/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 839,
-    "isOnWishList": false
+    "price": 860,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p141",
     "title": "Łóżko platformowe #141",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p141/800/600",
+    "images": [
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/1.webp"
+    ],
     "category": "bed",
-    "price": 868,
+    "price": 924,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p142",
     "title": "Sofa nowoczesna #142",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p142/800/600",
+    "images": [
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 874,
-    "isOnWishList": false
+    "price": 884,
+    "discountedPrice": 733.2,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p143",
     "title": "Dywan #143",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p143/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/3.webp"
+    ],
     "category": "carpet",
-    "price": 901,
+    "price": 955,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p144",
     "title": "Lampa stojąca #144",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p144/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 1004,
+    "price": 995,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p145",
     "title": "Stół jadalniany #145",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p145/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 1025,
-    "isOnWishList": false
+    "price": 951,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p146",
     "title": "Fotel #146",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p146/800/600",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 1014,
+    "price": 968,
+    "discountedPrice": 790.9,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p147",
     "title": "Łóżko platformowe #147",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p147/800/600",
+    "images": [
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/5.webp"
+    ],
     "category": "bed",
-    "price": 995,
+    "price": 1004,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p148",
     "title": "Sofa nowoczesna #148",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p148/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/10.webp"
+    ],
     "category": "sofa",
-    "price": 1048,
+    "price": 1044,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p149",
     "title": "Dywan #149",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p149/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 1065,
+    "price": 1034,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p150",
     "title": "Lampa stojąca #150",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p150/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 1086,
+    "price": 1115,
+    "discountedPrice": 1018.6,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p151",
     "title": "Stół jadalniany #151",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p151/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/5.webp"
+    ],
     "category": "table",
-    "price": 120,
+    "price": 95,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p152",
     "title": "Fotel #152",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p152/800/600",
+    "images": [
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/4.webp"
+    ],
     "category": "chair",
-    "price": 112,
+    "price": 82,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p153",
     "title": "Łóżko platformowe #153",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p153/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 118,
+    "price": 140,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p154",
     "title": "Sofa nowoczesna #154",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p154/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp"
+    ],
     "category": "sofa",
-    "price": 149,
+    "price": 131,
+    "discountedPrice": 117.45,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p155",
     "title": "Dywan #155",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p155/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg"
+    ],
     "category": "carpet",
-    "price": 199,
-    "isOnWishList": true
+    "price": 222,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p156",
     "title": "Lampa stojąca #156",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p156/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 169,
+    "price": 165,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p157",
     "title": "Stół jadalniany #157",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p157/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 201,
-    "isOnWishList": true
+    "price": 191,
+    "discountedPrice": 165.02,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p158",
     "title": "Fotel #158",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p158/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 287,
+    "price": 246,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p159",
     "title": "Łóżko platformowe #159",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p159/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp"
+    ],
     "category": "bed",
-    "price": 212,
+    "price": 250,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p160",
     "title": "Sofa nowoczesna #160",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p160/800/600",
+    "images": [
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/1.webp"
+    ],
     "category": "sofa",
-    "price": 293,
+    "price": 260,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p161",
     "title": "Dywan #161",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p161/800/600",
+    "images": [
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 295,
-    "isOnWishList": true
+    "price": 267,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p162",
     "title": "Lampa stojąca #162",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p162/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/4.webp"
+    ],
     "category": "lamp",
-    "price": 353,
+    "price": 290,
+    "discountedPrice": 238.24,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p163",
     "title": "Stół jadalniany #163",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p163/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 321,
+    "price": 312,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p164",
     "title": "Fotel #164",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p164/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/3.webp"
+    ],
     "category": "chair",
-    "price": 347,
+    "price": 399,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p165",
     "title": "Łóżko platformowe #165",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p165/800/600",
+    "images": [
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 332,
+    "price": 389,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p166",
     "title": "Sofa nowoczesna #166",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p166/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/4.webp"
+    ],
     "category": "sofa",
-    "price": 366,
+    "price": 429,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p167",
     "title": "Dywan #167",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p167/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 373,
+    "price": 371,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p168",
     "title": "Lampa stojąca #168",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p168/800/600",
+    "images": [
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/5.webp"
+    ],
     "category": "lamp",
-    "price": 437,
+    "price": 466,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p169",
     "title": "Stół jadalniany #169",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p169/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 500,
+    "price": 427,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p170",
     "title": "Fotel #170",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p170/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 439,
+    "price": 442,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p171",
     "title": "Łóżko platformowe #171",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p171/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 541,
+    "price": 476,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p172",
     "title": "Sofa nowoczesna #172",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p172/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 475,
+    "price": 494,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p173",
     "title": "Dywan #173",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p173/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 506,
+    "price": 527,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p174",
     "title": "Lampa stojąca #174",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p174/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/5.webp"
+    ],
     "category": "lamp",
-    "price": 583,
+    "price": 566,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p175",
     "title": "Stół jadalniany #175",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p175/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 593,
+    "price": 607,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p176",
     "title": "Fotel #176",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p176/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/3.webp"
+    ],
     "category": "chair",
-    "price": 649,
-    "isOnWishList": false
+    "price": 631,
+    "discountedPrice": 552.06,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p177",
     "title": "Łóżko platformowe #177",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p177/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 640,
+    "price": 597,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p178",
     "title": "Sofa nowoczesna #178",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p178/800/600",
+    "images": [
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 598,
+    "price": 624,
+    "discountedPrice": 566.33,
+    "currency": "PLN",
     "isOnWishList": true
   },
   {
     "id": "p179",
     "title": "Dywan #179",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p179/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 623,
+    "price": 664,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p180",
     "title": "Lampa stojąca #180",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p180/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 688,
+    "price": 648,
+    "discountedPrice": 571.35,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p181",
     "title": "Stół jadalniany #181",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p181/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/2.webp"
+    ],
     "category": "table",
-    "price": 679,
+    "price": 686,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p182",
     "title": "Fotel #182",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p182/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 729,
+    "price": 704,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p183",
     "title": "Łóżko platformowe #183",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p183/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 781,
+    "price": 749,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p184",
     "title": "Sofa nowoczesna #184",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p184/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/2.webp"
+    ],
     "category": "sofa",
-    "price": 798,
+    "price": 786,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p185",
     "title": "Dywan #185",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p185/800/600",
+    "images": [
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp"
+    ],
     "category": "carpet",
-    "price": 806,
+    "price": 803,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p186",
     "title": "Lampa stojąca #186",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p186/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 819,
-    "isOnWishList": true
+    "price": 806,
+    "discountedPrice": 761.34,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p187",
     "title": "Stół jadalniany #187",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p187/800/600",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
-    "price": 809,
+    "price": 861,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p188",
     "title": "Fotel #188",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p188/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 847,
+    "price": 807,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p189",
     "title": "Łóżko platformowe #189",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p189/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 897,
-    "isOnWishList": false
+    "price": 833,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p190",
     "title": "Sofa nowoczesna #190",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p190/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 849,
+    "price": 830,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p191",
     "title": "Dywan #191",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p191/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 939,
-    "isOnWishList": false
+    "price": 907,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p192",
     "title": "Lampa stojąca #192",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p192/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 922,
-    "isOnWishList": false
+    "price": 936,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p193",
     "title": "Stół jadalniany #193",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p193/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 955,
+    "price": 904,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p194",
     "title": "Fotel #194",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p194/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 1002,
-    "isOnWishList": true
+    "price": 918,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p195",
     "title": "Łóżko platformowe #195",
     "description": "Minimalistyczna rama łóżka z listwami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p195/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/1.webp"
+    ],
     "category": "bed",
-    "price": 988,
+    "price": 998,
+    "discountedPrice": 888.57,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p196",
     "title": "Sofa nowoczesna #196",
     "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "imageUrl": "https://picsum.photos/seed/pl-p196/800/600",
+    "images": [
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 988,
+    "price": 952,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p197",
     "title": "Dywan #197",
     "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "imageUrl": "https://picsum.photos/seed/pl-p197/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/4.webp"
+    ],
     "category": "carpet",
-    "price": 1068,
+    "price": 985,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p198",
     "title": "Lampa stojąca #198",
     "description": "Regulowana lampa z lnianym abażurem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p198/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 1067,
-    "isOnWishList": false
+    "price": 1011,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p199",
     "title": "Stół jadalniany #199",
     "description": "Solidny stół do rodzinnych posiłków.",
-    "imageUrl": "https://picsum.photos/seed/pl-p199/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 1076,
-    "isOnWishList": false
+    "price": 1104,
+    "discountedPrice": 959.93,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p200",
     "title": "Fotel #200",
     "description": "Wygodne krzesło z miękkim siedziskiem.",
-    "imageUrl": "https://picsum.photos/seed/pl-p200/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 1079,
+    "price": 1031,
+    "discountedPrice": 883.78,
+    "currency": "PLN",
     "isOnWishList": false
   }
 ]

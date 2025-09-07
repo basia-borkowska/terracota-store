@@ -7,5 +7,13 @@
   "home": {
     "title": "For Every Season",
     "subtitle": "A tribute to the classics that are here to stay."
+  },
+  "atoms": {
+    "discountBadge": {
+      "title": "Sale"
+    },
+    "newInBadge": {
+      "title": "New In"
+    }
   }
 }

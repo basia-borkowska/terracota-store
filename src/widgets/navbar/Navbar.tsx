@@ -21,7 +21,7 @@ const Navbar = () => {
   return (
     <nav
       data-transparent={transparentNavbar ? 'true' : 'false'}
-      className="group/nav data-[transparent=true]:bg-transparent data-[transparent=false]:bg-blue-50 z-50 sticky top-0 transition-colors duration-700 left-0 h-14 py-4 px-8 w-full flex items-center justify-between"
+      className="group/nav data-[transparent=true]:bg-transparent data-[transparent=false]:bg-white z-50 sticky top-0 transition-colors duration-700 left-0 h-14 py-4 px-8 w-full flex items-center justify-between"
     >
       {/* TODO add logo */}
       <button
@@ -30,7 +30,7 @@ const Navbar = () => {
       >
         Terracota
       </button>
-      <div className="flex gap-10">
+      <div className="absolute left-1/2 -translate-x-1/2 flex gap-10">
         {/* TODO add links */}
         <NavbarLink to={pathnames.notFound}>{t('navbar.newIn')}</NavbarLink>
         <NavbarLink to={pathnames.products}>{t('navbar.products')}</NavbarLink>

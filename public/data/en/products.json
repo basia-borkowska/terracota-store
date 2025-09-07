@@ -3,1800 +3,3043 @@
     "id": "p001",
     "title": "Dining Table #1",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p001/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
     "price": 50,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p002",
     "title": "Accent Chair #2",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p002/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 141,
+    "price": 71,
+    "discountedPrice": 60.59,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p003",
     "title": "Platform Bed #3",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p003/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 121,
-    "isOnWishList": true
+    "price": 123,
+    "discountedPrice": 98.75,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p004",
     "title": "Modern Sofa #4",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p004/800/600",
+    "images": [
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 141,
+    "price": 182,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p005",
     "title": "Area Carpet #5",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p005/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg"
+    ],
     "category": "carpet",
-    "price": 148,
+    "price": 204,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p006",
     "title": "Floor Lamp #6",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p006/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 186,
-    "isOnWishList": false
+    "price": 213,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p007",
     "title": "Dining Table #7",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p007/800/600",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 181,
+    "price": 229,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p008",
     "title": "Accent Chair #8",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p008/800/600",
+    "images": [
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp"
+    ],
     "category": "chair",
-    "price": 248,
+    "price": 269,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p009",
     "title": "Platform Bed #9",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p009/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 217,
-    "isOnWishList": false
+    "price": 289,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p010",
     "title": "Modern Sofa #10",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p010/800/600",
+    "images": [
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/8.webp"
+    ],
     "category": "sofa",
-    "price": 239,
+    "price": 306,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p011",
     "title": "Area Carpet #11",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p011/800/600",
+    "images": [
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 277,
+    "price": 287,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p012",
     "title": "Floor Lamp #12",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p012/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 362,
+    "price": 291,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p013",
     "title": "Dining Table #13",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p013/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 322,
+    "price": 372,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p014",
     "title": "Accent Chair #14",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p014/800/600",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 378,
-    "isOnWishList": true
+    "price": 319,
+    "discountedPrice": 262.69,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p015",
     "title": "Platform Bed #15",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p015/800/600",
+    "images": [
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/4.webp"
+    ],
     "category": "bed",
-    "price": 355,
+    "price": 427,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p016",
     "title": "Modern Sofa #16",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p016/800/600",
+    "images": [
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 364,
-    "isOnWishList": true
+    "price": 405,
+    "discountedPrice": 351.09,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p017",
     "title": "Area Carpet #17",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p017/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 447,
+    "price": 372,
+    "discountedPrice": 330.7,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p018",
     "title": "Floor Lamp #18",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p018/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 406,
-    "isOnWishList": true
+    "price": 437,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p019",
     "title": "Dining Table #19",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p019/800/600",
+    "images": [
+      "/images/samples/table/6.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
-    "price": 447,
+    "price": 485,
+    "discountedPrice": 416.28,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p020",
     "title": "Accent Chair #20",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p020/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 506,
-    "isOnWishList": false
+    "price": 458,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p021",
     "title": "Platform Bed #21",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p021/800/600",
+    "images": [
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/2.webp"
+    ],
     "category": "bed",
-    "price": 533,
-    "isOnWishList": false
+    "price": 541,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p022",
     "title": "Modern Sofa #22",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p022/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 530,
+    "price": 534,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p023",
     "title": "Area Carpet #23",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p023/800/600",
+    "images": [
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg"
+    ],
     "category": "carpet",
-    "price": 499,
+    "price": 547,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p024",
     "title": "Floor Lamp #24",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p024/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 519,
+    "price": 585,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p025",
     "title": "Dining Table #25",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p025/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 615,
+    "price": 531,
+    "discountedPrice": 435.87,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p026",
     "title": "Accent Chair #26",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p026/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 558,
+    "price": 561,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p027",
     "title": "Platform Bed #27",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p027/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 648,
+    "price": 583,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p028",
     "title": "Modern Sofa #28",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p028/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 601,
+    "price": 612,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p029",
     "title": "Area Carpet #29",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p029/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 617,
+    "price": 645,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p030",
     "title": "Floor Lamp #30",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p030/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 681,
+    "price": 725,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p031",
     "title": "Dining Table #31",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p031/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
-    "price": 671,
+    "price": 684,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p032",
     "title": "Accent Chair #32",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p032/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 697,
+    "price": 671,
+    "discountedPrice": 613.3,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p033",
     "title": "Platform Bed #33",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p033/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/4.webp"
+    ],
     "category": "bed",
-    "price": 740,
+    "price": 705,
+    "discountedPrice": 665.12,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p034",
     "title": "Modern Sofa #34",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p034/800/600",
+    "images": [
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp"
+    ],
     "category": "sofa",
-    "price": 715,
+    "price": 755,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p035",
     "title": "Area Carpet #35",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p035/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 756,
+    "price": 790,
+    "discountedPrice": 644.14,
+    "currency": "PLN",
     "isOnWishList": true
   },
   {
     "id": "p036",
     "title": "Floor Lamp #36",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p036/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 821,
-    "isOnWishList": true
+    "price": 806,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p037",
     "title": "Dining Table #37",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p037/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 801,
+    "price": 857,
+    "discountedPrice": 775.16,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p038",
     "title": "Accent Chair #38",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p038/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 869,
-    "isOnWishList": true
+    "price": 834,
+    "discountedPrice": 771.21,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p039",
     "title": "Platform Bed #39",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p039/800/600",
+    "images": [
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/1.webp"
+    ],
     "category": "bed",
-    "price": 848,
+    "price": 885,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p040",
     "title": "Modern Sofa #40",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p040/800/600",
+    "images": [
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 897,
+    "price": 846,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p041",
     "title": "Area Carpet #41",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p041/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 871,
-    "isOnWishList": true
+    "price": 933,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p042",
     "title": "Floor Lamp #42",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p042/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 919,
+    "price": 886,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p043",
     "title": "Dining Table #43",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p043/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
-    "price": 957,
+    "price": 947,
+    "discountedPrice": 893.87,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p044",
     "title": "Accent Chair #44",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p044/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 935,
+    "price": 968,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p045",
     "title": "Platform Bed #45",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p045/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 1010,
+    "price": 989,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p046",
     "title": "Modern Sofa #46",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p046/800/600",
+    "images": [
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 991,
+    "price": 1026,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p047",
     "title": "Area Carpet #47",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p047/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 1059,
+    "price": 1067,
+    "discountedPrice": 1005.3,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p048",
     "title": "Floor Lamp #48",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p048/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 1029,
-    "isOnWishList": true
+    "price": 1015,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p049",
     "title": "Dining Table #49",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p049/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 1040,
+    "price": 1076,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p050",
     "title": "Accent Chair #50",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p050/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 1101,
+    "price": 1105,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p051",
     "title": "Platform Bed #51",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p051/800/600",
+    "images": [
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp"
+    ],
     "category": "bed",
-    "price": 88,
-    "isOnWishList": true
+    "price": 86,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p052",
     "title": "Modern Sofa #52",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p052/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/4.webp"
+    ],
     "category": "sofa",
-    "price": 106,
+    "price": 129,
+    "discountedPrice": 107.94,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p053",
     "title": "Area Carpet #53",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p053/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/4.webp"
+    ],
     "category": "carpet",
-    "price": 180,
+    "price": 185,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p054",
     "title": "Floor Lamp #54",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p054/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 162,
-    "isOnWishList": true
+    "price": 168,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p055",
     "title": "Dining Table #55",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p055/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 170,
+    "price": 201,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p056",
     "title": "Accent Chair #56",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p056/800/600",
+    "images": [
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 216,
+    "price": 165,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p057",
     "title": "Platform Bed #57",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p057/800/600",
+    "images": [
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/4.webp"
+    ],
     "category": "bed",
-    "price": 201,
+    "price": 209,
+    "discountedPrice": 195.69,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p058",
     "title": "Modern Sofa #58",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p058/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/7.webp"
+    ],
     "category": "sofa",
-    "price": 261,
+    "price": 221,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p059",
     "title": "Area Carpet #59",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p059/800/600",
+    "images": [
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 230,
-    "isOnWishList": false
+    "price": 280,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p060",
     "title": "Floor Lamp #60",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p060/800/600",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 294,
+    "price": 309,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p061",
     "title": "Dining Table #61",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p061/800/600",
+    "images": [
+      "/images/samples/table/6.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 274,
+    "price": 298,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p062",
     "title": "Accent Chair #62",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p062/800/600",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp"
+    ],
     "category": "chair",
-    "price": 315,
+    "price": 343,
+    "discountedPrice": 283.93,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p063",
     "title": "Platform Bed #63",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p063/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 388,
+    "price": 378,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p064",
     "title": "Modern Sofa #64",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p064/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/6.webp"
+    ],
     "category": "sofa",
-    "price": 331,
+    "price": 379,
+    "currency": "PLN",
     "isOnWishList": true
   },
   {
     "id": "p065",
     "title": "Area Carpet #65",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p065/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 349,
-    "isOnWishList": true
+    "price": 352,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p066",
     "title": "Floor Lamp #66",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p066/800/600",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 407,
-    "isOnWishList": true
+    "price": 375,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p067",
     "title": "Dining Table #67",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p067/800/600",
+    "images": [
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 410,
+    "price": 444,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p068",
     "title": "Accent Chair #68",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p068/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 463,
+    "price": 446,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p069",
     "title": "Platform Bed #69",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p069/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 497,
+    "price": 424,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p070",
     "title": "Modern Sofa #70",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p070/800/600",
+    "images": [
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 450,
+    "price": 446,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p071",
     "title": "Area Carpet #71",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p071/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 517,
+    "price": 497,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p072",
     "title": "Floor Lamp #72",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p072/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 483,
+    "price": 475,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p073",
     "title": "Dining Table #73",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p073/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 560,
-    "isOnWishList": true
+    "price": 558,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p074",
     "title": "Accent Chair #74",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p074/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 547,
+    "price": 515,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p075",
     "title": "Platform Bed #75",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p075/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/5.webp"
+    ],
     "category": "bed",
-    "price": 535,
+    "price": 533,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p076",
     "title": "Modern Sofa #76",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p076/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/2.webp"
+    ],
     "category": "sofa",
-    "price": 622,
+    "price": 585,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p077",
     "title": "Area Carpet #77",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p077/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 608,
+    "price": 579,
+    "discountedPrice": 541.77,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p078",
     "title": "Floor Lamp #78",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p078/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 590,
+    "price": 603,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p079",
     "title": "Dining Table #79",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p079/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
     "category": "table",
-    "price": 709,
+    "price": 641,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p080",
     "title": "Accent Chair #80",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p080/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 706,
+    "price": 696,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p081",
     "title": "Platform Bed #81",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p081/800/600",
+    "images": [
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 684,
-    "isOnWishList": false
+    "price": 667,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p082",
     "title": "Modern Sofa #82",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p082/800/600",
+    "images": [
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/10.webp"
+    ],
     "category": "sofa",
-    "price": 700,
+    "price": 678,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p083",
     "title": "Area Carpet #83",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p083/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 703,
+    "price": 733,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p084",
     "title": "Floor Lamp #84",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p084/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 760,
+    "price": 715,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p085",
     "title": "Dining Table #85",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p085/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 745,
+    "price": 746,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p086",
     "title": "Accent Chair #86",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p086/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
     "category": "chair",
-    "price": 768,
+    "price": 823,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p087",
     "title": "Platform Bed #87",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p087/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
     "price": 836,
-    "isOnWishList": true
+    "discountedPrice": 677.26,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p088",
     "title": "Modern Sofa #88",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p088/800/600",
+    "images": [
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 879,
+    "price": 849,
+    "discountedPrice": 722.3,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p089",
     "title": "Area Carpet #89",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p089/800/600",
+    "images": [
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 814,
+    "price": 820,
+    "discountedPrice": 700.96,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p090",
     "title": "Floor Lamp #90",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p090/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 912,
-    "isOnWishList": false
+    "price": 889,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p091",
     "title": "Dining Table #91",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p091/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 865,
+    "price": 886,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p092",
     "title": "Accent Chair #92",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p092/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 889,
+    "price": 906,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p093",
     "title": "Platform Bed #93",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p093/800/600",
+    "images": [
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 900,
+    "price": 951,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p094",
     "title": "Modern Sofa #94",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p094/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp"
+    ],
     "category": "sofa",
-    "price": 957,
-    "isOnWishList": false
+    "price": 984,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p095",
     "title": "Area Carpet #95",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p095/800/600",
+    "images": [
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 992,
+    "price": 962,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p096",
     "title": "Floor Lamp #96",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p096/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 997,
-    "isOnWishList": false
+    "price": 985,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p097",
     "title": "Dining Table #97",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p097/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 994,
+    "price": 1055,
+    "discountedPrice": 866.86,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p098",
     "title": "Accent Chair #98",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p098/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/4.webp"
+    ],
     "category": "chair",
-    "price": 1076,
-    "isOnWishList": true
+    "price": 1013,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p099",
     "title": "Platform Bed #99",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p099/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 1092,
+    "price": 1068,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p100",
     "title": "Modern Sofa #100",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p100/800/600",
+    "images": [
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 1066,
+    "price": 1098,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p101",
     "title": "Area Carpet #101",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p101/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 139,
+    "price": 82,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p102",
     "title": "Floor Lamp #102",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p102/800/600",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/4.webp"
+    ],
     "category": "lamp",
-    "price": 99,
+    "price": 71,
+    "discountedPrice": 66.18,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p103",
     "title": "Dining Table #103",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p103/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/5.webp"
+    ],
     "category": "table",
-    "price": 172,
+    "price": 135,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p104",
     "title": "Accent Chair #104",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p104/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 185,
+    "price": 117,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p105",
     "title": "Platform Bed #105",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p105/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 206,
-    "isOnWishList": true
+    "price": 159,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p106",
     "title": "Modern Sofa #106",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p106/800/600",
+    "images": [
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp"
+    ],
     "category": "sofa",
-    "price": 189,
-    "isOnWishList": true
+    "price": 184,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p107",
     "title": "Area Carpet #107",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p107/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 261,
+    "price": 222,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p108",
     "title": "Floor Lamp #108",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p108/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/7.webp"
+    ],
     "category": "lamp",
-    "price": 213,
+    "price": 214,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p109",
     "title": "Dining Table #109",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p109/800/600",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 276,
+    "price": 224,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p110",
     "title": "Accent Chair #110",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p110/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 253,
+    "price": 265,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p111",
     "title": "Platform Bed #111",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p111/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 301,
-    "isOnWishList": true
+    "price": 255,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p112",
     "title": "Modern Sofa #112",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p112/800/600",
+    "images": [
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/7.webp"
+    ],
     "category": "sofa",
-    "price": 290,
+    "price": 332,
+    "discountedPrice": 293.46,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p113",
     "title": "Area Carpet #113",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p113/800/600",
+    "images": [
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 303,
+    "price": 342,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p114",
     "title": "Floor Lamp #114",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p114/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 314,
+    "price": 397,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p115",
     "title": "Dining Table #115",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p115/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 355,
+    "price": 414,
+    "discountedPrice": 353.77,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p116",
     "title": "Accent Chair #116",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p116/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 413,
-    "isOnWishList": true
+    "price": 393,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p117",
     "title": "Platform Bed #117",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p117/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 411,
+    "price": 425,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p118",
     "title": "Modern Sofa #118",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p118/800/600",
+    "images": [
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 442,
+    "price": 400,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p119",
     "title": "Area Carpet #119",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p119/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 476,
+    "price": 432,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p120",
     "title": "Floor Lamp #120",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p120/800/600",
+    "images": [
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/4.webp"
+    ],
     "category": "lamp",
-    "price": 465,
+    "price": 522,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p121",
     "title": "Dining Table #121",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p121/800/600",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
-    "price": 542,
+    "price": 456,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p122",
     "title": "Accent Chair #122",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p122/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp"
+    ],
     "category": "chair",
-    "price": 569,
+    "price": 525,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p123",
     "title": "Platform Bed #123",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p123/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/5.webp"
+    ],
     "category": "bed",
-    "price": 576,
+    "price": 544,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p124",
     "title": "Modern Sofa #124",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p124/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/1.webp"
+    ],
     "category": "sofa",
-    "price": 599,
+    "price": 559,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p125",
     "title": "Area Carpet #125",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p125/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 540,
+    "price": 602,
+    "discountedPrice": 570.25,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p126",
     "title": "Floor Lamp #126",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p126/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp"
+    ],
     "category": "lamp",
-    "price": 604,
+    "price": 648,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p127",
     "title": "Dining Table #127",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p127/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/2.webp"
+    ],
     "category": "table",
-    "price": 643,
+    "price": 589,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p128",
     "title": "Accent Chair #128",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p128/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 628,
+    "price": 673,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p129",
     "title": "Platform Bed #129",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p129/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 653,
+    "price": 695,
+    "discountedPrice": 590.14,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p130",
     "title": "Modern Sofa #130",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p130/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 662,
+    "price": 645,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p131",
     "title": "Area Carpet #131",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p131/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/3.webp"
+    ],
     "category": "carpet",
-    "price": 739,
+    "price": 680,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p132",
     "title": "Floor Lamp #132",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p132/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 746,
+    "price": 683,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p133",
     "title": "Dining Table #133",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p133/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 710,
-    "isOnWishList": true
+    "price": 755,
+    "discountedPrice": 618.13,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p134",
     "title": "Accent Chair #134",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p134/800/600",
+    "images": [
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 728,
+    "price": 735,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p135",
     "title": "Platform Bed #135",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p135/800/600",
+    "images": [
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 789,
+    "price": 781,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p136",
     "title": "Modern Sofa #136",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p136/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/8.webp"
+    ],
     "category": "sofa",
-    "price": 761,
+    "price": 787,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p137",
     "title": "Area Carpet #137",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p137/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp"
+    ],
     "category": "carpet",
-    "price": 782,
+    "price": 791,
+    "discountedPrice": 671.37,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p138",
     "title": "Floor Lamp #138",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p138/800/600",
+    "images": [
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 793,
+    "price": 868,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p139",
     "title": "Dining Table #139",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p139/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/2.webp"
+    ],
     "category": "table",
-    "price": 873,
+    "price": 834,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p140",
     "title": "Accent Chair #140",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p140/800/600",
+    "images": [
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 897,
+    "price": 839,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p141",
     "title": "Platform Bed #141",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p141/800/600",
+    "images": [
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/1.webp"
+    ],
     "category": "bed",
-    "price": 945,
-    "isOnWishList": false
+    "price": 890,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p142",
     "title": "Modern Sofa #142",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p142/800/600",
+    "images": [
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 910,
+    "price": 963,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p143",
     "title": "Area Carpet #143",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p143/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/3.webp"
+    ],
     "category": "carpet",
-    "price": 974,
+    "price": 953,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p144",
     "title": "Floor Lamp #144",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p144/800/600",
+    "images": [
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 977,
+    "price": 991,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p145",
     "title": "Dining Table #145",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p145/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 1006,
+    "price": 962,
+    "discountedPrice": 858.08,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p146",
     "title": "Accent Chair #146",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p146/800/600",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 1027,
+    "price": 1035,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p147",
     "title": "Platform Bed #147",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p147/800/600",
+    "images": [
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/5.webp"
+    ],
     "category": "bed",
-    "price": 986,
+    "price": 1044,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p148",
     "title": "Modern Sofa #148",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p148/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/10.webp"
+    ],
     "category": "sofa",
-    "price": 1015,
+    "price": 1084,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p149",
     "title": "Area Carpet #149",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p149/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 1085,
+    "price": 1039,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p150",
     "title": "Floor Lamp #150",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p150/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 1106,
+    "price": 1076,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p151",
     "title": "Dining Table #151",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p151/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/5.webp"
+    ],
     "category": "table",
-    "price": 62,
+    "price": 146,
+    "discountedPrice": 124.12,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p152",
     "title": "Accent Chair #152",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p152/800/600",
+    "images": [
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/4.webp"
+    ],
     "category": "chair",
-    "price": 159,
+    "price": 130,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p153",
     "title": "Platform Bed #153",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p153/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 187,
+    "price": 114,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p154",
     "title": "Modern Sofa #154",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p154/800/600",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp"
+    ],
     "category": "sofa",
-    "price": 154,
+    "price": 129,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p155",
     "title": "Area Carpet #155",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p155/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/2.jpg"
+    ],
     "category": "carpet",
-    "price": 153,
+    "price": 200,
+    "discountedPrice": 178.07,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p156",
     "title": "Floor Lamp #156",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p156/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 239,
+    "price": 160,
+    "discountedPrice": 129.37,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p157",
     "title": "Dining Table #157",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p157/800/600",
+    "images": [
+      "/images/samples/table/5.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 174,
+    "price": 213,
+    "discountedPrice": 187.41,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p158",
     "title": "Accent Chair #158",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p158/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 258,
+    "price": 203,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p159",
     "title": "Platform Bed #159",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p159/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp"
+    ],
     "category": "bed",
-    "price": 281,
-    "isOnWishList": true
+    "price": 279,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p160",
     "title": "Modern Sofa #160",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p160/800/600",
+    "images": [
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/1.webp"
+    ],
     "category": "sofa",
-    "price": 287,
+    "price": 311,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p161",
     "title": "Area Carpet #161",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p161/800/600",
+    "images": [
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp"
+    ],
     "category": "carpet",
-    "price": 270,
+    "price": 323,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p162",
     "title": "Floor Lamp #162",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p162/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/4.webp"
+    ],
     "category": "lamp",
-    "price": 305,
+    "price": 352,
+    "discountedPrice": 317.4,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p163",
     "title": "Dining Table #163",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p163/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 345,
+    "price": 322,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p164",
     "title": "Accent Chair #164",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p164/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/3.webp"
+    ],
     "category": "chair",
-    "price": 398,
+    "price": 329,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p165",
     "title": "Platform Bed #165",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p165/800/600",
+    "images": [
+      "/images/samples/bed/7.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/3.webp"
+    ],
     "category": "bed",
-    "price": 414,
+    "price": 338,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p166",
     "title": "Modern Sofa #166",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p166/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/4.webp"
+    ],
     "category": "sofa",
-    "price": 441,
-    "isOnWishList": true
+    "price": 392,
+    "currency": "PLN",
+    "isOnWishList": false
   },
   {
     "id": "p167",
     "title": "Area Carpet #167",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p167/800/600",
+    "images": [
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 440,
+    "price": 437,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p168",
     "title": "Floor Lamp #168",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p168/800/600",
+    "images": [
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/5.webp"
+    ],
     "category": "lamp",
-    "price": 476,
+    "price": 459,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p169",
     "title": "Dining Table #169",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p169/800/600",
+    "images": [
+      "/images/samples/table/2.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 495,
+    "price": 468,
+    "discountedPrice": 417.81,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p170",
     "title": "Accent Chair #170",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p170/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp"
+    ],
     "category": "chair",
-    "price": 511,
+    "price": 524,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p171",
     "title": "Platform Bed #171",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p171/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 499,
+    "price": 467,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p172",
     "title": "Modern Sofa #172",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p172/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 495,
+    "price": 533,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p173",
     "title": "Area Carpet #173",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p173/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 569,
+    "price": 529,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p174",
     "title": "Floor Lamp #174",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p174/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/5.webp"
+    ],
     "category": "lamp",
-    "price": 545,
+    "price": 572,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p175",
     "title": "Dining Table #175",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p175/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp"
+    ],
     "category": "table",
-    "price": 607,
+    "price": 594,
+    "discountedPrice": 516.74,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p176",
     "title": "Accent Chair #176",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p176/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/3.webp"
+    ],
     "category": "chair",
-    "price": 551,
-    "isOnWishList": false
+    "price": 577,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p177",
     "title": "Platform Bed #177",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p177/800/600",
+    "images": [
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp"
+    ],
     "category": "bed",
-    "price": 604,
+    "price": 615,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p178",
     "title": "Modern Sofa #178",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p178/800/600",
+    "images": [
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/9.webp"
+    ],
     "category": "sofa",
-    "price": 636,
-    "isOnWishList": false
+    "price": 599,
+    "discountedPrice": 540.15,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p179",
     "title": "Area Carpet #179",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p179/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp"
+    ],
     "category": "carpet",
-    "price": 669,
+    "price": 642,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p180",
     "title": "Floor Lamp #180",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p180/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/3.webp"
+    ],
     "category": "lamp",
-    "price": 713,
+    "price": 694,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p181",
     "title": "Dining Table #181",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p181/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/2.webp"
+    ],
     "category": "table",
-    "price": 735,
+    "price": 698,
+    "discountedPrice": 582.87,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p182",
     "title": "Accent Chair #182",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p182/800/600",
+    "images": [
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 679,
+    "price": 742,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p183",
     "title": "Platform Bed #183",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p183/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 699,
-    "isOnWishList": false
+    "price": 753,
+    "currency": "PLN",
+    "isOnWishList": true
   },
   {
     "id": "p184",
     "title": "Modern Sofa #184",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p184/800/600",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/2.webp"
+    ],
     "category": "sofa",
-    "price": 785,
+    "price": 796,
+    "discountedPrice": 710.61,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p185",
     "title": "Area Carpet #185",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p185/800/600",
+    "images": [
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp"
+    ],
     "category": "carpet",
-    "price": 738,
+    "price": 814,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p186",
     "title": "Floor Lamp #186",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p186/800/600",
+    "images": [
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/6.webp"
+    ],
     "category": "lamp",
-    "price": 769,
+    "price": 828,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p187",
     "title": "Dining Table #187",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p187/800/600",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp"
+    ],
     "category": "table",
     "price": 841,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p188",
     "title": "Accent Chair #188",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p188/800/600",
+    "images": [
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp"
+    ],
     "category": "chair",
-    "price": 815,
+    "price": 835,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p189",
     "title": "Platform Bed #189",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p189/800/600",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
     "category": "bed",
-    "price": 895,
+    "price": 883,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p190",
     "title": "Modern Sofa #190",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p190/800/600",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/3.webp"
+    ],
     "category": "sofa",
-    "price": 894,
+    "price": 920,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p191",
     "title": "Area Carpet #191",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p191/800/600",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp"
+    ],
     "category": "carpet",
-    "price": 880,
+    "price": 912,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p192",
     "title": "Floor Lamp #192",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p192/800/600",
+    "images": [
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 875,
+    "price": 927,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p193",
     "title": "Dining Table #193",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p193/800/600",
+    "images": [
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/6.webp"
+    ],
     "category": "table",
-    "price": 954,
+    "price": 956,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p194",
     "title": "Accent Chair #194",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p194/800/600",
+    "images": [
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 990,
+    "price": 974,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p195",
     "title": "Platform Bed #195",
     "description": "Minimalist bed frame with slats.",
-    "imageUrl": "https://picsum.photos/seed/en-p195/800/600",
+    "images": [
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/1.webp"
+    ],
     "category": "bed",
-    "price": 953,
+    "price": 949,
+    "discountedPrice": 894.7,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p196",
     "title": "Modern Sofa #196",
     "description": "3-seater sofa with deep cushions.",
-    "imageUrl": "https://picsum.photos/seed/en-p196/800/600",
+    "images": [
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/5.webp"
+    ],
     "category": "sofa",
-    "price": 963,
+    "price": 1007,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p197",
     "title": "Area Carpet #197",
     "description": "Soft woven carpet, easy to clean.",
-    "imageUrl": "https://picsum.photos/seed/en-p197/800/600",
+    "images": [
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/4.webp"
+    ],
     "category": "carpet",
-    "price": 974,
+    "price": 1060,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p198",
     "title": "Floor Lamp #198",
     "description": "Adjustable lamp with linen shade.",
-    "imageUrl": "https://picsum.photos/seed/en-p198/800/600",
+    "images": [
+      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/1.webp"
+    ],
     "category": "lamp",
-    "price": 1041,
+    "price": 1072,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p199",
     "title": "Dining Table #199",
     "description": "Sturdy table for family meals.",
-    "imageUrl": "https://picsum.photos/seed/en-p199/800/600",
+    "images": [
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp"
+    ],
     "category": "table",
-    "price": 1097,
+    "price": 1030,
+    "discountedPrice": 876.78,
+    "currency": "PLN",
     "isOnWishList": false
   },
   {
     "id": "p200",
     "title": "Accent Chair #200",
     "description": "Comfortable chair with padded seat.",
-    "imageUrl": "https://picsum.photos/seed/en-p200/800/600",
+    "images": [
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp"
+    ],
     "category": "chair",
-    "price": 1128,
+    "price": 1102,
+    "currency": "PLN",
     "isOnWishList": false
   }
 ]

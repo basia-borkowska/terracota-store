@@ -7,5 +7,13 @@
   "home": {
     "title": "Na każdą porę roku",
     "subtitle": "Hołd dla klasyki, która pozostaje na zawsze."
+  },
+  "atoms": {
+    "discountBadge": {
+      "title": "Wyprzedaż"
+    },
+    "newInBadge": {
+      "title": "Nowość"
+    }
   }
 }

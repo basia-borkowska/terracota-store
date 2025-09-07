@@ -1,16 +1,10 @@
 import { useCallback } from 'react';
 import { useInfiniteQuery } from '@tanstack/react-query';
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from '../../shared/ui/atoms/Card';
 import { PageWrapper } from '../../shared/ui/layout/PageWrapper';
 import { useTranslation } from 'react-i18next';
 import { fetchProductsPaginated } from '../../entities/product/api';
 import { useIntersection } from '../../shared/hooks/useIntersection';
+import ProductList from '../../widgets/ProductList';
 
 const PAGE_SIZE = 30;
 
@@ -47,27 +41,7 @@ const Products = () => {
 
   return (
     <PageWrapper>
-      <div className="grid md:grid-cols-2 grid-cols-1 lg:grid-cols-3 gap-6">
-        {products.map((product) => (
-          <Card key={product.id}>
-            <img
-              src={product.imageUrl}
-              alt={product.title}
-              className="w-full object-cover rounded-t-md"
-            />
-            <CardHeader className="text-xl font-medium">
-              <CardTitle>{product.title}</CardTitle>
-              <CardDescription>{product.description}</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <p className="text-gray-600">{product.category}</p>
-              <p className="text-lg font-semibold mt-2">
-                ${product.price.toFixed(2)}
-              </p>
-            </CardContent>
-          </Card>
-        ))}
-      </div>
+      <ProductList products={products} />
 
       <div ref={sentinelRef} className="h-10" />
       {q.hasNextPage && (
