@@ -1,0 +1,272 @@
+[
+  {
+    "id": "p001",
+    "title": "Dębowy stół jadalniany",
+    "description": "Solidny stół dębowy dla 6 osób ze sfazowanymi krawędziami.",
+    "imageUrl": "https://picsum.photos/seed/oak-dining-table/800/600",
+    "category": "table",
+    "price": 899.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p002",
+    "title": "Nowoczesna sofa z tkaniny",
+    "description": "Sofa trzyosobowa z głębokimi poduszkami i zdejmowanymi pokrowcami.",
+    "imageUrl": "https://picsum.photos/seed/modern-fabric-sofa/800/600",
+    "category": "sofa",
+    "price": 1199.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p003",
+    "title": "Ergonomiczne krzesło biurowe",
+    "description": "Regulowane podparcie lędźwiowe i oddychające oparcie z siatki.",
+    "imageUrl": "https://picsum.photos/seed/ergo-office-chair/800/600",
+    "category": "chair",
+    "price": 259.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p004",
+    "title": "Stolik kawowy z orzecha",
+    "description": "Niski stolik z półką na przechowywanie.",
+    "imageUrl": "https://picsum.photos/seed/walnut-coffee-table/800/600",
+    "category": "table",
+    "price": 349.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p005",
+    "title": "Łóżko platformowe Queen",
+    "description": "Minimalistyczna rama z listwami, bez potrzeby stosowania boxspringa.",
+    "imageUrl": "https://picsum.photos/seed/queen-platform-bed/800/600",
+    "category": "bed",
+    "price": 799.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p006",
+    "title": "Dywan wełniany ręcznie tkany",
+    "description": "Subtelny geometryczny wzór, 200×300 cm.",
+    "imageUrl": "https://picsum.photos/seed/wool-carpet/800/600",
+    "category": "carpet",
+    "price": 429.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p007",
+    "title": "Lampa podłogowa łukowa",
+    "description": "Czarna matowa lampa łukowa z lnianym kloszem.",
+    "imageUrl": "https://picsum.photos/seed/arc-floor-lamp/800/600",
+    "category": "lamp",
+    "price": 199.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p008",
+    "title": "Fotel welurowy",
+    "description": "Zaokrąglone oparcie i metalowe nogi.",
+    "imageUrl": "https://picsum.photos/seed/velvet-accent-chair/800/600",
+    "category": "chair",
+    "price": 329.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p009",
+    "title": "Stół jadalniany rozkładany",
+    "description": "Mieści 4–8 osób dzięki ukrytej wkładce.",
+    "imageUrl": "https://picsum.photos/seed/extendable-dining-table/800/600",
+    "category": "table",
+    "price": 989.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p010",
+    "title": "Sofa skandynawska",
+    "description": "Drewniane nogi i twardsze poduszki dla prawidłowej postawy.",
+    "imageUrl": "https://picsum.photos/seed/scandi-sofa/800/600",
+    "category": "sofa",
+    "price": 1049.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p011",
+    "title": "Łóżko King tapicerowane",
+    "description": "Wezgłowie typu wingback obite lnianą tkaniną.",
+    "imageUrl": "https://picsum.photos/seed/king-upholstered-bed/800/600",
+    "category": "bed",
+    "price": 1099.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p012",
+    "title": "Dywan jutowy",
+    "description": "Dywan z naturalnych włókien, 160×230 cm.",
+    "imageUrl": "https://picsum.photos/seed/jute-area-rug/800/600",
+    "category": "carpet",
+    "price": 189.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p013",
+    "title": "Lampa stołowa trójnóg",
+    "description": "Drewniany trójnóg z bawełnianym kloszem.",
+    "imageUrl": "https://picsum.photos/seed/tripod-table-lamp/800/600",
+    "category": "lamp",
+    "price": 89.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p014",
+    "title": "Skórzany fotel wypoczynkowy",
+    "description": "Skóra anilinowa z ergonomicznym odchyleniem.",
+    "imageUrl": "https://picsum.photos/seed/leather-lounge-chair/800/600",
+    "category": "chair",
+    "price": 649.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p015",
+    "title": "Stolik bistro okrągły",
+    "description": "Kompaktowy stolik okrągły do małych przestrzeni.",
+    "imageUrl": "https://picsum.photos/seed/round-bistro-table/800/600",
+    "category": "table",
+    "price": 219.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p016",
+    "title": "Sofa modułowa",
+    "description": "Przestawne sekcje z otomaną.",
+    "imageUrl": "https://picsum.photos/seed/modular-sectional-sofa/800/600",
+    "category": "sofa",
+    "price": 1799.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p017",
+    "title": "Łóżko platformowe ze schowkiem",
+    "description": "Szuflady pod łóżkiem zapewniają dodatkowe miejsce.",
+    "imageUrl": "https://picsum.photos/seed/storage-platform-bed/800/600",
+    "category": "bed",
+    "price": 949.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p018",
+    "title": "Dywan berberyjski",
+    "description": "Miękki włos, odporny na plamy.",
+    "imageUrl": "https://picsum.photos/seed/berber-pattern-carpet/800/600",
+    "category": "carpet",
+    "price": 379.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p019",
+    "title": "Lampa wisząca podwójna",
+    "description": "Dwupunktowa lampa nad wyspę kuchenną.",
+    "imageUrl": "https://picsum.photos/seed/pendant-lamp-duo/800/600",
+    "category": "lamp",
+    "price": 159.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p020",
+    "title": "Krzesło rattanowe",
+    "description": "Ręcznie plecione siedzisko z rattanu na stalowej ramie.",
+    "imageUrl": "https://picsum.photos/seed/rattan-dining-chair/800/600",
+    "category": "chair",
+    "price": 149.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p021",
+    "title": "Stolik kawowy ze szkłem",
+    "description": "Hartowane szkło z dębową podstawą krzyżową.",
+    "imageUrl": "https://picsum.photos/seed/glass-coffee-table/800/600",
+    "category": "table",
+    "price": 289.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p022",
+    "title": "Sofa rozkładana",
+    "description": "Mechanizm rozkładania na podwójne łóżko.",
+    "imageUrl": "https://picsum.photos/seed/sleeper-sofa/800/600",
+    "category": "sofa",
+    "price": 1399.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p023",
+    "title": "Minimalistyczna rama łóżka",
+    "description": "Rama stalowa malowana proszkowo, rozmiar Queen.",
+    "imageUrl": "https://picsum.photos/seed/minimalist-bed/800/600",
+    "category": "bed",
+    "price": 579.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p024",
+    "title": "Dywan shaggy",
+    "description": "Bardzo miękki, wysoki włos, 200×250 cm.",
+    "imageUrl": "https://picsum.photos/seed/shaggy-carpet/800/600",
+    "category": "carpet",
+    "price": 299.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p025",
+    "title": "Lampa biurkowa industrialna",
+    "description": "Regulowane ramię, ciepła żarówka LED w zestawie.",
+    "imageUrl": "https://picsum.photos/seed/industrial-desk-lamp/800/600",
+    "category": "lamp",
+    "price": 69.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p026",
+    "title": "Krzesło kubełkowe",
+    "description": "Zaokrąglona skorupa z polipropylenu z drewnianymi nogami.",
+    "imageUrl": "https://picsum.photos/seed/bucket-dining-chair/800/600",
+    "category": "chair",
+    "price": 119.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p027",
+    "title": "Zestaw stolików nocnych",
+    "description": "Komplet dwóch stolików oszczędzających miejsce.",
+    "imageUrl": "https://picsum.photos/seed/nesting-side-tables/800/600",
+    "category": "table",
+    "price": 179.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p028",
+    "title": "Sofa rozkładana z reclinerem",
+    "description": "Podwójny mechanizm rozkładania z uchwytami na kubki.",
+    "imageUrl": "https://picsum.photos/seed/recliner-sofa/800/600",
+    "category": "sofa",
+    "price": 1699.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p029",
+    "title": "Łóżko baldachim",
+    "description": "Rama Queen z eleganckimi słupkami.",
+    "imageUrl": "https://picsum.photos/seed/canopy-bed/800/600",
+    "category": "bed",
+    "price": 999.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p030",
+    "title": "Dywan w motyw marmuru",
+    "description": "Niski włos z marmurowym wzorem, 160×240 cm.",
+    "imageUrl": "https://picsum.photos/seed/marble-carpet/800/600",
+    "category": "carpet",
+    "price": 349.0,
+    "isOnWishList": false
+  }
+]

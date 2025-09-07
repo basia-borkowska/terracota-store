@@ -3,7 +3,6 @@ import { useTranslation } from 'react-i18next';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { pathnames } from '../../shared/lib/pathnames';
 import { useScrollY } from '../../shared/hooks/useScrollY';
-import { cn } from '../../shared/lib/utils';
 import NavbarLink from './NavbarLink';
 import NavbarAction from './NavbarAction';
 import NavbarLanguageSwitch from './NavbarLanguageSwitch';

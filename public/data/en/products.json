@@ -1,0 +1,272 @@
+[
+  {
+    "id": "p001",
+    "title": "Oak Dining Table",
+    "description": "Solid oak 6-seater dining table with beveled edges.",
+    "imageUrl": "https://picsum.photos/seed/oak-dining-table/800/600",
+    "category": "table",
+    "price": 899.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p002",
+    "title": "Modern Fabric Sofa",
+    "description": "3-seater sofa with deep cushions and removable covers.",
+    "imageUrl": "https://picsum.photos/seed/modern-fabric-sofa/800/600",
+    "category": "sofa",
+    "price": 1199.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p003",
+    "title": "Ergo Office Chair",
+    "description": "Adjustable lumbar support and breathable mesh back.",
+    "imageUrl": "https://picsum.photos/seed/ergo-office-chair/800/600",
+    "category": "chair",
+    "price": 259.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p004",
+    "title": "Walnut Coffee Table",
+    "description": "Low profile table with storage shelf.",
+    "imageUrl": "https://picsum.photos/seed/walnut-coffee-table/800/600",
+    "category": "table",
+    "price": 349.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p005",
+    "title": "Queen Platform Bed",
+    "description": "Minimalist frame with slatted base, no box spring needed.",
+    "imageUrl": "https://picsum.photos/seed/queen-platform-bed/800/600",
+    "category": "bed",
+    "price": 799.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p006",
+    "title": "Hand-woven Wool Carpet",
+    "description": "Subtle geometric pattern, 200×300 cm.",
+    "imageUrl": "https://picsum.photos/seed/wool-carpet/800/600",
+    "category": "carpet",
+    "price": 429.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p007",
+    "title": "Arc Floor Lamp",
+    "description": "Matte black arc lamp with linen shade.",
+    "imageUrl": "https://picsum.photos/seed/arc-floor-lamp/800/600",
+    "category": "lamp",
+    "price": 199.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p008",
+    "title": "Velvet Accent Chair",
+    "description": "Curved backrest and metal legs.",
+    "imageUrl": "https://picsum.photos/seed/velvet-accent-chair/800/600",
+    "category": "chair",
+    "price": 329.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p009",
+    "title": "Extendable Dining Table",
+    "description": "Seats 4–8 with hidden leaf.",
+    "imageUrl": "https://picsum.photos/seed/extendable-dining-table/800/600",
+    "category": "table",
+    "price": 989.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p010",
+    "title": "Scandinavian Sofa",
+    "description": "Timber legs and firm cushions for proper posture.",
+    "imageUrl": "https://picsum.photos/seed/scandi-sofa/800/600",
+    "category": "sofa",
+    "price": 1049.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p011",
+    "title": "King Upholstered Bed",
+    "description": "Wingback headboard with soft linen fabric.",
+    "imageUrl": "https://picsum.photos/seed/king-upholstered-bed/800/600",
+    "category": "bed",
+    "price": 1099.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p012",
+    "title": "Jute Area Rug",
+    "description": "Natural fiber rug, 160×230 cm.",
+    "imageUrl": "https://picsum.photos/seed/jute-area-rug/800/600",
+    "category": "carpet",
+    "price": 189.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p013",
+    "title": "Tripod Table Lamp",
+    "description": "Wooden tripod with cotton shade.",
+    "imageUrl": "https://picsum.photos/seed/tripod-table-lamp/800/600",
+    "category": "lamp",
+    "price": 89.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p014",
+    "title": "Leather Lounge Chair",
+    "description": "Aniline leather with ergonomic tilt.",
+    "imageUrl": "https://picsum.photos/seed/leather-lounge-chair/800/600",
+    "category": "chair",
+    "price": 649.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p015",
+    "title": "Round Bistro Table",
+    "description": "Compact round table for small spaces.",
+    "imageUrl": "https://picsum.photos/seed/round-bistro-table/800/600",
+    "category": "table",
+    "price": 219.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p016",
+    "title": "Modular Sectional Sofa",
+    "description": "Reconfigurable sections with ottoman.",
+    "imageUrl": "https://picsum.photos/seed/modular-sectional-sofa/800/600",
+    "category": "sofa",
+    "price": 1799.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p017",
+    "title": "Storage Platform Bed",
+    "description": "Under-bed drawers for extra storage.",
+    "imageUrl": "https://picsum.photos/seed/storage-platform-bed/800/600",
+    "category": "bed",
+    "price": 949.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p018",
+    "title": "Berber Pattern Carpet",
+    "description": "Soft pile, stain-resistant.",
+    "imageUrl": "https://picsum.photos/seed/berber-pattern-carpet/800/600",
+    "category": "carpet",
+    "price": 379.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p019",
+    "title": "Pendant Lamp Duo",
+    "description": "Two-light pendant for kitchen islands.",
+    "imageUrl": "https://picsum.photos/seed/pendant-lamp-duo/800/600",
+    "category": "lamp",
+    "price": 159.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p020",
+    "title": "Rattan Dining Chair",
+    "description": "Handwoven rattan seat with steel frame.",
+    "imageUrl": "https://picsum.photos/seed/rattan-dining-chair/800/600",
+    "category": "chair",
+    "price": 149.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p021",
+    "title": "Glass Top Coffee Table",
+    "description": "Tempered glass with oak cross base.",
+    "imageUrl": "https://picsum.photos/seed/glass-coffee-table/800/600",
+    "category": "table",
+    "price": 289.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p022",
+    "title": "Sleeper Sofa",
+    "description": "Pull-out double bed mechanism.",
+    "imageUrl": "https://picsum.photos/seed/sleeper-sofa/800/600",
+    "category": "sofa",
+    "price": 1399.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p023",
+    "title": "Minimalist Bed Frame",
+    "description": "Powder-coated steel frame, queen.",
+    "imageUrl": "https://picsum.photos/seed/minimalist-bed/800/600",
+    "category": "bed",
+    "price": 579.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p024",
+    "title": "Shaggy Carpet",
+    "description": "Ultra-soft high pile, 200×250 cm.",
+    "imageUrl": "https://picsum.photos/seed/shaggy-carpet/800/600",
+    "category": "carpet",
+    "price": 299.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p025",
+    "title": "Industrial Desk Lamp",
+    "description": "Adjustable arm, warm LED bulb included.",
+    "imageUrl": "https://picsum.photos/seed/industrial-desk-lamp/800/600",
+    "category": "lamp",
+    "price": 69.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p026",
+    "title": "Bucket Dining Chair",
+    "description": "Curved polypropylene shell with wood legs.",
+    "imageUrl": "https://picsum.photos/seed/bucket-dining-chair/800/600",
+    "category": "chair",
+    "price": 119.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p027",
+    "title": "Nesting Side Tables",
+    "description": "Set of two space-saving side tables.",
+    "imageUrl": "https://picsum.photos/seed/nesting-side-tables/800/600",
+    "category": "table",
+    "price": 179.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p028",
+    "title": "Recliner Sofa",
+    "description": "Dual-recline mechanism with cup holders.",
+    "imageUrl": "https://picsum.photos/seed/recliner-sofa/800/600",
+    "category": "sofa",
+    "price": 1699.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p029",
+    "title": "Canopy Bed",
+    "description": "Queen canopy frame with sleek posts.",
+    "imageUrl": "https://picsum.photos/seed/canopy-bed/800/600",
+    "category": "bed",
+    "price": 999.0,
+    "isOnWishList": false
+  },
+  {
+    "id": "p030",
+    "title": "Marble Pattern Carpet",
+    "description": "Low-pile rug with marble motif, 160×240 cm.",
+    "imageUrl": "https://picsum.photos/seed/marble-carpet/800/600",
+    "category": "carpet",
+    "price": 349.0,
+    "isOnWishList": false
+  }
+]
