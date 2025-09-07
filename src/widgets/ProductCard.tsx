@@ -52,7 +52,7 @@ const ProductCard = ({ product }: { product: Product }) => {
       <Button
         variant="unstyled"
         size="icon"
-        className="group-hover/card:flex hidden absolute top-1 right-1 z-10"
+        className="absolute top-1 right-1 z-10"
         onClick={(e) => {
           e.stopPropagation();
           alert('Implement add to wishlist');
