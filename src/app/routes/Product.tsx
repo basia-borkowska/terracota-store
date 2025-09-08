@@ -5,6 +5,9 @@ import type { Product as ProductType } from '../../entities/product/types';
 import { fetchProductById } from '../../entities/product/api';
 import { Gallery } from '../../shared/ui/molecules/Gallery';
 import ProductDetails from '../../widgets/ProductDetails';
+import { Carousel } from '../../shared/ui/molecules/Carousel';
+import SimilarProductsCarousel from '../../widgets/carousels/SimilarProductsCarousel';
+import { PageWrapper } from '../../shared/ui/layout/PageWrapper';
 
 const Product = () => {
   const { id } = useParams<{ id: string }>();
@@ -42,10 +45,9 @@ const Product = () => {
         </aside>
       </div>
 
-      {/* TODO: similar products carousel */}
-      <div className="h-[1000px] bg-slate-200/60 grid place-items-center text-sm text-slate-600">
-        TODO: Similar products carousel
-      </div>
+      <PageWrapper>
+        <SimilarProductsCarousel productId={product.id} />
+      </PageWrapper>
     </div>
   );
 };

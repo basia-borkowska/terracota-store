@@ -24,9 +24,11 @@ export const handlers = [
     const limit = Math.max(1, Number(url.searchParams.get('limit') ?? '30'));
 
     const all = await loadProducts(lang);
-    let filtered = all;
-    if (category) filtered = filtered.filter((p) => p.category === category);
-    if (isNewParam === 'true') filtered = filtered.filter((p) => p.isNew);
+    const onSale = url.searchParams.get('onSale') === 'true';
+    let filtered = category ? all.filter((p) => p.category === category) : all;
+    if (url.searchParams.get('isNew') === 'true')
+      filtered = filtered.filter((p) => p.isNew);
+    if (onSale) filtered = filtered.filter((p) => p.discountedPrice != null);
 
     const total = filtered.length;
     const start = (page - 1) * limit;
@@ -65,5 +67,28 @@ export const handlers = [
     }
 
     return HttpResponse.json(product);
+  }),
+
+  // GET /api/products/:id/similar?lang=en&limit=12
+  http.get('/api/products/:id/similar', async ({ params, request }) => {
+    const { id } = params as { id: string };
+    const url = new URL(request.url);
+    const lang = url.searchParams.get('lang') ?? 'en';
+    const limit = Number(url.searchParams.get('limit') ?? '12');
+
+    // load all
+    let res = await fetch(`/data/${lang}/products.json`);
+    if (!res.ok && lang !== 'en') res = await fetch(`/data/en/products.json`);
+    if (!res.ok) return HttpResponse.json([], { status: 200 });
+
+    const all = (await res.json()) as any[];
+    const current = all.find((p) => p.id === id);
+    if (!current) return HttpResponse.json([], { status: 200 });
+
+    const similar = all
+      .filter((p) => p.category === current.category && p.id !== id)
+      .slice(0, limit);
+
+    return HttpResponse.json(similar);
   }),
 ];

@@ -32,6 +32,11 @@
   "widgets": {
     "productDetails": {
       "addToCart": "Add to Cart"
+    },
+    "carousels": {
+      "discountedProducts": "Shop the sales",
+      "newProducts": "New Arrivals",
+      "similarProducts": "You may also like"
     }
   },
   "atoms": {

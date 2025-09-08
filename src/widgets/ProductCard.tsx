@@ -14,8 +14,13 @@ import { useEffect, useState } from 'react';
 interface ProductCardProps {
   product: Product;
   showNewBadge?: boolean;
+  showDiscountBadge?: boolean;
 }
-const ProductCard = ({ product, showNewBadge = true }: ProductCardProps) => {
+const ProductCard = ({
+  product,
+  showNewBadge = true,
+  showDiscountBadge = true,
+}: ProductCardProps) => {
   const navigate = useNavigate();
   const [hovered, setHovered] = useState(false);
 
@@ -49,7 +54,9 @@ const ProductCard = ({ product, showNewBadge = true }: ProductCardProps) => {
       onMouseLeave={() => setHovered(false)}
     >
       <div className="absolute top-2 left-2 w-fit flex flex-col gap-2 z-10">
-        {discountedPrice && <DiscountBadge className="w-fit" />}
+        {discountedPrice && showDiscountBadge && (
+          <DiscountBadge className="w-fit" />
+        )}
         {isNew && showNewBadge && <NewInBadge className="w-fit" />}
       </div>
 

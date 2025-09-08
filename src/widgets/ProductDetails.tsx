@@ -48,7 +48,7 @@ const ProductDetails = ({
 
       <div className="mt-8 flex items-center gap-2">
         <Button className="flex-1" onClick={() => onAddToCart(id)}>
-          {t('productDetails.addToCart')}
+          {t('widgets.productDetails.addToCart')}
         </Button>
 
         {/* TODO create Icon button */}
@@ -56,7 +56,7 @@ const ProductDetails = ({
           variant="secondary"
           size="icon"
           className="min-w-9"
-          onClick={() => alert('Implement adding to wish list')}
+          onClick={() => onToggleWishlist(id)}
           aria-pressed={isOnWishList}
         >
           <Heart

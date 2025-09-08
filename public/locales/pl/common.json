@@ -49,6 +49,11 @@
   "widgets": {
     "productDetails": {
       "addToCart": "Dodaj do koszyka"
+    },
+    "carousels": {
+      "discountedProducts": "Skorzystaj z wyprzedaży",
+      "newProducts": "Nowości",
+      "similarProducts": "Może Ci się spodobać"
     }
   },
   "atoms": {
