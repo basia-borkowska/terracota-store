@@ -10,9 +10,10 @@
       "/images/samples/table/1.webp"
     ],
     "category": "table",
-    "price": 101,
+    "price": 127,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p002",
@@ -26,9 +27,10 @@
       "/images/samples/chair/1.webp"
     ],
     "category": "chair",
-    "price": 116,
+    "price": 76,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p003",
@@ -40,9 +42,10 @@
       "/images/samples/bed/6.webp"
     ],
     "category": "bed",
-    "price": 167,
+    "price": 149,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p004",
@@ -55,10 +58,11 @@
       "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 175,
-    "discountedPrice": 151.62,
+    "price": 118,
+    "discountedPrice": 94.54,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p005",
@@ -72,9 +76,10 @@
       "/images/samples/carpet/2.jpg"
     ],
     "category": "carpet",
-    "price": 186,
+    "price": 134,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p006",
@@ -86,9 +91,10 @@
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 206,
+    "price": 222,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p007",
@@ -101,9 +107,10 @@
       "/images/samples/table/3.webp"
     ],
     "category": "table",
-    "price": 177,
+    "price": 202,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p008",
@@ -117,9 +124,10 @@
       "/images/samples/chair/6.webp"
     ],
     "category": "chair",
-    "price": 228,
+    "price": 234,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p009",
@@ -131,9 +139,11 @@
       "/images/samples/bed/6.webp"
     ],
     "category": "bed",
-    "price": 234,
+    "price": 298,
+    "discountedPrice": 248.17,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p010",
@@ -146,9 +156,10 @@
       "/images/samples/sofa/8.webp"
     ],
     "category": "sofa",
-    "price": 238,
+    "price": 272,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p011",
@@ -163,8 +174,10 @@
     ],
     "category": "carpet",
     "price": 268,
+    "discountedPrice": 250.94,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p012",
@@ -176,9 +189,11 @@
       "/images/samples/lamp/3.webp"
     ],
     "category": "lamp",
-    "price": 277,
+    "price": 321,
+    "discountedPrice": 268.67,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p013",
@@ -191,9 +206,10 @@
       "/images/samples/table/1.webp"
     ],
     "category": "table",
-    "price": 378,
+    "price": 306,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p014",
@@ -207,10 +223,10 @@
       "/images/samples/chair/7.webp"
     ],
     "category": "chair",
-    "price": 357,
-    "discountedPrice": 329.44,
+    "price": 321,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p015",
@@ -222,10 +238,10 @@
       "/images/samples/bed/4.webp"
     ],
     "category": "bed",
-    "price": 338,
-    "discountedPrice": 305.57,
+    "price": 375,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p016",
@@ -238,9 +254,10 @@
       "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 440,
+    "price": 450,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p017",
@@ -254,9 +271,10 @@
       "/images/samples/carpet/6.webp"
     ],
     "category": "carpet",
-    "price": 401,
+    "price": 406,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p018",
@@ -268,9 +286,11 @@
       "/images/samples/lamp/1.webp"
     ],
     "category": "lamp",
-    "price": 430,
+    "price": 433,
+    "discountedPrice": 396,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p019",
@@ -283,9 +303,10 @@
       "/images/samples/table/4.webp"
     ],
     "category": "table",
-    "price": 483,
+    "price": 445,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p020",
@@ -299,9 +320,10 @@
       "/images/samples/chair/1.webp"
     ],
     "category": "chair",
-    "price": 485,
+    "price": 465,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p021",
@@ -313,10 +335,10 @@
       "/images/samples/bed/2.webp"
     ],
     "category": "bed",
-    "price": 471,
-    "discountedPrice": 427.12,
+    "price": 517,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p022",
@@ -329,9 +351,10 @@
       "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 482,
+    "price": 474,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p023",
@@ -345,10 +368,10 @@
       "/images/samples/carpet/2.jpg"
     ],
     "category": "carpet",
-    "price": 491,
-    "discountedPrice": 463.6,
+    "price": 582,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p024",
@@ -360,9 +383,10 @@
       "/images/samples/lamp/2.webp"
     ],
     "category": "lamp",
-    "price": 594,
+    "price": 531,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p025",
@@ -375,9 +399,11 @@
       "/images/samples/table/6.webp"
     ],
     "category": "table",
-    "price": 557,
+    "price": 607,
+    "discountedPrice": 525.47,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p026",
@@ -391,9 +417,10 @@
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 629,
+    "price": 598,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p027",
@@ -405,9 +432,10 @@
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 574,
+    "price": 651,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p028",
@@ -420,9 +448,10 @@
       "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 667,
+    "price": 645,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p029",
@@ -436,10 +465,10 @@
       "/images/samples/carpet/1.webp"
     ],
     "category": "carpet",
-    "price": 669,
-    "discountedPrice": 563.83,
+    "price": 663,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p030",
@@ -451,9 +480,10 @@
       "/images/samples/lamp/1.webp"
     ],
     "category": "lamp",
-    "price": 663,
+    "price": 710,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p031",
@@ -466,9 +496,10 @@
       "/images/samples/table/4.webp"
     ],
     "category": "table",
-    "price": 700,
+    "price": 739,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p032",
@@ -482,9 +513,10 @@
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 670,
+    "price": 674,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p033",
@@ -496,9 +528,10 @@
       "/images/samples/bed/4.webp"
     ],
     "category": "bed",
-    "price": 695,
+    "price": 767,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p034",
@@ -511,9 +544,10 @@
       "/images/samples/sofa/8.webp"
     ],
     "category": "sofa",
-    "price": 712,
+    "price": 718,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p035",
@@ -527,9 +561,10 @@
       "/images/samples/carpet/6.webp"
     ],
     "category": "carpet",
-    "price": 801,
+    "price": 823,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p036",
@@ -541,9 +576,10 @@
       "/images/samples/lamp/2.webp"
     ],
     "category": "lamp",
-    "price": 833,
+    "price": 831,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p037",
@@ -557,8 +593,10 @@
     ],
     "category": "table",
     "price": 798,
+    "discountedPrice": 730.03,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p038",
@@ -572,9 +610,11 @@
       "/images/samples/chair/7.webp"
     ],
     "category": "chair",
-    "price": 846,
+    "price": 835,
+    "discountedPrice": 751.15,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p039",
@@ -586,10 +626,10 @@
       "/images/samples/bed/1.webp"
     ],
     "category": "bed",
-    "price": 857,
-    "discountedPrice": 789.9,
+    "price": 849,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p040",
@@ -602,9 +642,10 @@
       "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 869,
+    "price": 870,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p041",
@@ -618,9 +659,10 @@
       "/images/samples/carpet/5.webp"
     ],
     "category": "carpet",
-    "price": 942,
+    "price": 872,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p042",
@@ -632,9 +674,10 @@
       "/images/samples/lamp/6.webp"
     ],
     "category": "lamp",
-    "price": 896,
+    "price": 902,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p043",
@@ -647,9 +690,10 @@
       "/images/samples/table/4.webp"
     ],
     "category": "table",
-    "price": 958,
+    "price": 912,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p044",
@@ -663,9 +707,10 @@
       "/images/samples/chair/7.webp"
     ],
     "category": "chair",
-    "price": 964,
+    "price": 968,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p045",
@@ -677,9 +722,10 @@
       "/images/samples/bed/3.webp"
     ],
     "category": "bed",
-    "price": 985,
+    "price": 1010,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p046",
@@ -692,9 +738,10 @@
       "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 1015,
+    "price": 1006,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p047",
@@ -708,9 +755,10 @@
       "/images/samples/carpet/5.webp"
     ],
     "category": "carpet",
-    "price": 1025,
+    "price": 1062,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p048",
@@ -722,9 +770,10 @@
       "/images/samples/lamp/3.webp"
     ],
     "category": "lamp",
-    "price": 1026,
+    "price": 1000,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p049",
@@ -737,10 +786,10 @@
       "/images/samples/table/6.webp"
     ],
     "category": "table",
-    "price": 1031,
-    "discountedPrice": 906.55,
+    "price": 1077,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p050",
@@ -754,9 +803,11 @@
       "/images/samples/chair/5.webp"
     ],
     "category": "chair",
-    "price": 1088,
+    "price": 1050,
+    "discountedPrice": 922.4,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p051",
@@ -768,10 +819,11 @@
       "/images/samples/bed/2.webp"
     ],
     "category": "bed",
-    "price": 115,
-    "discountedPrice": 98.75,
+    "price": 141,
+    "discountedPrice": 117.74,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p052",
@@ -784,9 +836,10 @@
       "/images/samples/sofa/4.webp"
     ],
     "category": "sofa",
-    "price": 118,
+    "price": 98,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p053",
@@ -800,9 +853,11 @@
       "/images/samples/carpet/4.webp"
     ],
     "category": "carpet",
-    "price": 151,
+    "price": 160,
+    "discountedPrice": 130.15,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p054",
@@ -814,9 +869,10 @@
       "/images/samples/lamp/2.webp"
     ],
     "category": "lamp",
-    "price": 122,
+    "price": 113,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p055",
@@ -829,9 +885,11 @@
       "/images/samples/table/3.webp"
     ],
     "category": "table",
-    "price": 134,
+    "price": 130,
+    "discountedPrice": 111.7,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p056",
@@ -845,9 +903,10 @@
       "/images/samples/chair/5.webp"
     ],
     "category": "chair",
-    "price": 175,
+    "price": 213,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p057",
@@ -859,9 +918,11 @@
       "/images/samples/bed/4.webp"
     ],
     "category": "bed",
-    "price": 219,
+    "price": 213,
+    "discountedPrice": 191.85,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p058",
@@ -874,9 +935,11 @@
       "/images/samples/sofa/7.webp"
     ],
     "category": "sofa",
-    "price": 275,
+    "price": 248,
+    "discountedPrice": 203.18,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p059",
@@ -890,9 +953,10 @@
       "/images/samples/carpet/5.webp"
     ],
     "category": "carpet",
-    "price": 271,
+    "price": 251,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p060",
@@ -904,10 +968,11 @@
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 245,
-    "discountedPrice": 208.77,
+    "price": 298,
+    "discountedPrice": 273.83,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p061",
@@ -920,9 +985,10 @@
       "/images/samples/table/3.webp"
     ],
     "category": "table",
-    "price": 300,
+    "price": 343,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p062",
@@ -936,9 +1002,10 @@
       "/images/samples/chair/4.webp"
     ],
     "category": "chair",
-    "price": 336,
+    "price": 272,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p063",
@@ -950,9 +1017,10 @@
       "/images/samples/bed/6.webp"
     ],
     "category": "bed",
-    "price": 319,
+    "price": 320,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p064",
@@ -965,9 +1033,10 @@
       "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 314,
+    "price": 410,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p065",
@@ -981,10 +1050,10 @@
       "/images/samples/carpet/6.webp"
     ],
     "category": "carpet",
-    "price": 405,
-    "discountedPrice": 332.24,
+    "price": 343,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p066",
@@ -996,9 +1065,10 @@
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 383,
+    "price": 430,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p067",
@@ -1011,9 +1081,10 @@
       "/images/samples/table/3.webp"
     ],
     "category": "table",
-    "price": 378,
+    "price": 395,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p068",
@@ -1027,9 +1098,10 @@
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 442,
+    "price": 482,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p069",
@@ -1041,9 +1113,10 @@
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 488,
+    "price": 501,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p070",
@@ -1056,9 +1129,11 @@
       "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 457,
+    "price": 484,
+    "discountedPrice": 425.17,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p071",
@@ -1072,10 +1147,10 @@
       "/images/samples/carpet/1.webp"
     ],
     "category": "carpet",
-    "price": 549,
-    "discountedPrice": 520.62,
+    "price": 525,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p072",
@@ -1087,10 +1162,11 @@
       "/images/samples/lamp/2.webp"
     ],
     "category": "lamp",
-    "price": 471,
-    "discountedPrice": 389.73,
+    "price": 478,
+    "discountedPrice": 411.41,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p073",
@@ -1103,9 +1179,11 @@
       "/images/samples/table/6.webp"
     ],
     "category": "table",
-    "price": 537,
+    "price": 496,
+    "discountedPrice": 413.78,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p074",
@@ -1119,10 +1197,10 @@
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 542,
-    "discountedPrice": 445.62,
+    "price": 559,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p075",
@@ -1134,9 +1212,10 @@
       "/images/samples/bed/5.webp"
     ],
     "category": "bed",
-    "price": 565,
+    "price": 590,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p076",
@@ -1149,9 +1228,11 @@
       "/images/samples/sofa/2.webp"
     ],
     "category": "sofa",
-    "price": 595,
+    "price": 628,
+    "discountedPrice": 540.76,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p077",
@@ -1165,9 +1246,10 @@
       "/images/samples/carpet/5.webp"
     ],
     "category": "carpet",
-    "price": 667,
+    "price": 575,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p078",
@@ -1179,10 +1261,10 @@
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 622,
-    "discountedPrice": 563.17,
+    "price": 685,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p079",
@@ -1195,10 +1277,10 @@
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 627,
-    "discountedPrice": 513.86,
+    "price": 617,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p080",
@@ -1212,10 +1294,11 @@
       "/images/samples/chair/1.webp"
     ],
     "category": "chair",
-    "price": 695,
-    "discountedPrice": 628.69,
+    "price": 726,
+    "discountedPrice": 686.66,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p081",
@@ -1227,10 +1310,10 @@
       "/images/samples/bed/3.webp"
     ],
     "category": "bed",
-    "price": 654,
-    "discountedPrice": 563.8,
+    "price": 744,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p082",
@@ -1243,9 +1326,11 @@
       "/images/samples/sofa/10.webp"
     ],
     "category": "sofa",
-    "price": 753,
+    "price": 679,
+    "discountedPrice": 622.53,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p083",
@@ -1259,9 +1344,10 @@
       "/images/samples/carpet/6.webp"
     ],
     "category": "carpet",
-    "price": 785,
+    "price": 696,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p084",
@@ -1273,9 +1359,10 @@
       "/images/samples/lamp/6.webp"
     ],
     "category": "lamp",
-    "price": 745,
+    "price": 801,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p085",
@@ -1288,9 +1375,11 @@
       "/images/samples/table/1.webp"
     ],
     "category": "table",
-    "price": 786,
+    "price": 769,
+    "discountedPrice": 646.51,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p086",
@@ -1304,10 +1393,10 @@
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 839,
-    "discountedPrice": 791.1,
+    "price": 815,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p087",
@@ -1319,9 +1408,10 @@
       "/images/samples/bed/6.webp"
     ],
     "category": "bed",
-    "price": 774,
+    "price": 799,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p088",
@@ -1334,9 +1424,10 @@
       "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 875,
+    "price": 871,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p089",
@@ -1350,10 +1441,10 @@
       "/images/samples/carpet/6.webp"
     ],
     "category": "carpet",
-    "price": 900,
-    "discountedPrice": 794.9,
+    "price": 858,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p090",
@@ -1365,9 +1456,11 @@
       "/images/samples/lamp/2.webp"
     ],
     "category": "lamp",
-    "price": 930,
+    "price": 880,
+    "discountedPrice": 758.44,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p091",
@@ -1380,9 +1473,10 @@
       "/images/samples/table/1.webp"
     ],
     "category": "table",
-    "price": 941,
+    "price": 898,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p092",
@@ -1396,9 +1490,10 @@
       "/images/samples/chair/5.webp"
     ],
     "category": "chair",
-    "price": 938,
+    "price": 961,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p093",
@@ -1410,9 +1505,10 @@
       "/images/samples/bed/6.webp"
     ],
     "category": "bed",
-    "price": 893,
+    "price": 942,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p094",
@@ -1425,10 +1521,10 @@
       "/images/samples/sofa/1.webp"
     ],
     "category": "sofa",
-    "price": 941,
-    "discountedPrice": 835.78,
+    "price": 999,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p095",
@@ -1442,9 +1538,11 @@
       "/images/samples/carpet/1.webp"
     ],
     "category": "carpet",
-    "price": 960,
+    "price": 1026,
+    "discountedPrice": 850.91,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p096",
@@ -1456,9 +1554,10 @@
       "/images/samples/lamp/3.webp"
     ],
     "category": "lamp",
-    "price": 1041,
+    "price": 1033,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p097",
@@ -1471,9 +1570,10 @@
       "/images/samples/table/3.webp"
     ],
     "category": "table",
-    "price": 979,
+    "price": 1024,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p098",
@@ -1487,9 +1587,10 @@
       "/images/samples/chair/4.webp"
     ],
     "category": "chair",
-    "price": 1003,
+    "price": 1027,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p099",
@@ -1501,10 +1602,11 @@
       "/images/samples/bed/3.webp"
     ],
     "category": "bed",
-    "price": 1026,
-    "discountedPrice": 902.68,
+    "price": 1035,
+    "discountedPrice": 948.56,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p100",
@@ -1517,10 +1619,11 @@
       "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 1065,
-    "discountedPrice": 926.32,
+    "price": 1088,
+    "discountedPrice": 897.49,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p101",
@@ -1534,9 +1637,10 @@
       "/images/samples/carpet/6.webp"
     ],
     "category": "carpet",
-    "price": 111,
+    "price": 104,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p102",
@@ -1548,9 +1652,10 @@
       "/images/samples/lamp/4.webp"
     ],
     "category": "lamp",
-    "price": 155,
+    "price": 119,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p103",
@@ -1563,9 +1668,10 @@
       "/images/samples/table/5.webp"
     ],
     "category": "table",
-    "price": 176,
+    "price": 99,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p104",
@@ -1579,9 +1685,10 @@
       "/images/samples/chair/1.webp"
     ],
     "category": "chair",
-    "price": 173,
+    "price": 169,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p105",
@@ -1593,9 +1700,10 @@
       "/images/samples/bed/3.webp"
     ],
     "category": "bed",
-    "price": 140,
+    "price": 131,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p106",
@@ -1608,9 +1716,10 @@
       "/images/samples/sofa/10.webp"
     ],
     "category": "sofa",
-    "price": 240,
+    "price": 195,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p107",
@@ -1624,9 +1733,10 @@
       "/images/samples/carpet/6.webp"
     ],
     "category": "carpet",
-    "price": 236,
+    "price": 192,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p108",
@@ -1638,9 +1748,10 @@
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 234,
+    "price": 202,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p109",
@@ -1653,9 +1764,10 @@
       "/images/samples/table/6.webp"
     ],
     "category": "table",
-    "price": 232,
+    "price": 248,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p110",
@@ -1669,9 +1781,11 @@
       "/images/samples/chair/7.webp"
     ],
     "category": "chair",
-    "price": 304,
+    "price": 302,
+    "discountedPrice": 257.06,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p111",
@@ -1683,9 +1797,11 @@
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 277,
+    "price": 301,
+    "discountedPrice": 242.11,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p112",
@@ -1698,9 +1814,11 @@
       "/images/samples/sofa/7.webp"
     ],
     "category": "sofa",
-    "price": 319,
+    "price": 299,
+    "discountedPrice": 252.86,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p113",
@@ -1714,9 +1832,11 @@
       "/images/samples/carpet/6.webp"
     ],
     "category": "carpet",
-    "price": 319,
+    "price": 351,
+    "discountedPrice": 305.73,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p114",
@@ -1728,10 +1848,10 @@
       "/images/samples/lamp/3.webp"
     ],
     "category": "lamp",
-    "price": 340,
-    "discountedPrice": 312.27,
+    "price": 374,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p115",
@@ -1744,9 +1864,10 @@
       "/images/samples/table/6.webp"
     ],
     "category": "table",
-    "price": 363,
+    "price": 403,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p116",
@@ -1760,9 +1881,10 @@
       "/images/samples/chair/1.webp"
     ],
     "category": "chair",
-    "price": 375,
+    "price": 354,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p117",
@@ -1774,9 +1896,10 @@
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 377,
+    "price": 400,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p118",
@@ -1789,9 +1912,10 @@
       "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 461,
+    "price": 467,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p119",
@@ -1805,9 +1929,11 @@
       "/images/samples/carpet/1.webp"
     ],
     "category": "carpet",
-    "price": 501,
+    "price": 417,
+    "discountedPrice": 341.55,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p120",
@@ -1819,10 +1945,11 @@
       "/images/samples/lamp/4.webp"
     ],
     "category": "lamp",
-    "price": 522,
-    "discountedPrice": 453.07,
+    "price": 457,
+    "discountedPrice": 403.93,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p121",
@@ -1835,9 +1962,11 @@
       "/images/samples/table/4.webp"
     ],
     "category": "table",
-    "price": 504,
+    "price": 524,
+    "discountedPrice": 478.73,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p122",
@@ -1851,9 +1980,10 @@
       "/images/samples/chair/3.webp"
     ],
     "category": "chair",
-    "price": 479,
+    "price": 488,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p123",
@@ -1865,9 +1995,11 @@
       "/images/samples/bed/5.webp"
     ],
     "category": "bed",
-    "price": 544,
+    "price": 574,
+    "discountedPrice": 494.3,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p124",
@@ -1880,9 +2012,10 @@
       "/images/samples/sofa/1.webp"
     ],
     "category": "sofa",
-    "price": 514,
+    "price": 595,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p125",
@@ -1896,10 +2029,11 @@
       "/images/samples/carpet/1.webp"
     ],
     "category": "carpet",
-    "price": 624,
-    "discountedPrice": 531.87,
+    "price": 619,
+    "discountedPrice": 501.81,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p126",
@@ -1911,9 +2045,11 @@
       "/images/samples/lamp/2.webp"
     ],
     "category": "lamp",
-    "price": 634,
+    "price": 569,
+    "discountedPrice": 487.44,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p127",
@@ -1926,9 +2062,10 @@
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 658,
+    "price": 587,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p128",
@@ -1942,9 +2079,10 @@
       "/images/samples/chair/1.webp"
     ],
     "category": "chair",
-    "price": 642,
+    "price": 645,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p129",
@@ -1956,9 +2094,10 @@
       "/images/samples/bed/3.webp"
     ],
     "category": "bed",
-    "price": 654,
+    "price": 645,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p130",
@@ -1971,10 +2110,10 @@
       "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 727,
-    "discountedPrice": 623.95,
+    "price": 724,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p131",
@@ -1988,9 +2127,10 @@
       "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 727,
+    "price": 732,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p132",
@@ -2002,9 +2142,10 @@
       "/images/samples/lamp/1.webp"
     ],
     "category": "lamp",
-    "price": 702,
+    "price": 757,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p133",
@@ -2017,9 +2158,10 @@
       "/images/samples/table/3.webp"
     ],
     "category": "table",
-    "price": 766,
+    "price": 712,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p134",
@@ -2033,9 +2175,10 @@
       "/images/samples/chair/5.webp"
     ],
     "category": "chair",
-    "price": 769,
+    "price": 744,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p135",
@@ -2047,10 +2190,10 @@
       "/images/samples/bed/6.webp"
     ],
     "category": "bed",
-    "price": 808,
-    "discountedPrice": 751.9,
+    "price": 739,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p136",
@@ -2063,10 +2206,11 @@
       "/images/samples/sofa/8.webp"
     ],
     "category": "sofa",
-    "price": 790,
-    "discountedPrice": 677.91,
+    "price": 821,
+    "discountedPrice": 752.57,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p137",
@@ -2080,9 +2224,10 @@
       "/images/samples/carpet/4.webp"
     ],
     "category": "carpet",
-    "price": 844,
+    "price": 779,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p138",
@@ -2094,9 +2239,10 @@
       "/images/samples/lamp/6.webp"
     ],
     "category": "lamp",
-    "price": 848,
+    "price": 791,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p139",
@@ -2109,9 +2255,10 @@
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 812,
+    "price": 906,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": true
   },
   {
     "id": "p140",
@@ -2125,9 +2272,10 @@
       "/images/samples/chair/1.webp"
     ],
     "category": "chair",
-    "price": 860,
+    "price": 831,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p141",
@@ -2139,9 +2287,11 @@
       "/images/samples/bed/1.webp"
     ],
     "category": "bed",
-    "price": 924,
+    "price": 880,
+    "discountedPrice": 772.05,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p142",
@@ -2154,10 +2304,10 @@
       "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 884,
-    "discountedPrice": 733.2,
+    "price": 892,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p143",
@@ -2171,9 +2321,10 @@
       "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 955,
+    "price": 895,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p144",
@@ -2185,9 +2336,10 @@
       "/images/samples/lamp/1.webp"
     ],
     "category": "lamp",
-    "price": 995,
+    "price": 948,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p145",
@@ -2200,9 +2352,10 @@
       "/images/samples/table/1.webp"
     ],
     "category": "table",
-    "price": 951,
+    "price": 983,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p146",
@@ -2216,10 +2369,10 @@
       "/images/samples/chair/5.webp"
     ],
     "category": "chair",
-    "price": 968,
-    "discountedPrice": 790.9,
+    "price": 980,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p147",
@@ -2231,9 +2384,11 @@
       "/images/samples/bed/5.webp"
     ],
     "category": "bed",
-    "price": 1004,
+    "price": 1050,
+    "discountedPrice": 853.56,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p148",
@@ -2246,9 +2401,10 @@
       "/images/samples/sofa/10.webp"
     ],
     "category": "sofa",
-    "price": 1044,
+    "price": 1026,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p149",
@@ -2262,9 +2418,10 @@
       "/images/samples/carpet/1.webp"
     ],
     "category": "carpet",
-    "price": 1034,
+    "price": 1091,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p150",
@@ -2276,10 +2433,11 @@
       "/images/samples/lamp/6.webp"
     ],
     "category": "lamp",
-    "price": 1115,
-    "discountedPrice": 1018.6,
+    "price": 1096,
+    "discountedPrice": 911.08,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p151",
@@ -2292,9 +2450,10 @@
       "/images/samples/table/5.webp"
     ],
     "category": "table",
-    "price": 95,
+    "price": 54,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p152",
@@ -2308,9 +2467,10 @@
       "/images/samples/chair/4.webp"
     ],
     "category": "chair",
-    "price": 82,
+    "price": 124,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p153",
@@ -2322,9 +2482,10 @@
       "/images/samples/bed/3.webp"
     ],
     "category": "bed",
-    "price": 140,
+    "price": 111,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p154",
@@ -2337,10 +2498,10 @@
       "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 131,
-    "discountedPrice": 117.45,
+    "price": 182,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p155",
@@ -2354,9 +2515,10 @@
       "/images/samples/carpet/2.jpg"
     ],
     "category": "carpet",
-    "price": 222,
+    "price": 224,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p156",
@@ -2368,9 +2530,11 @@
       "/images/samples/lamp/1.webp"
     ],
     "category": "lamp",
-    "price": 165,
+    "price": 234,
+    "discountedPrice": 196.69,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p157",
@@ -2383,10 +2547,10 @@
       "/images/samples/table/1.webp"
     ],
     "category": "table",
-    "price": 191,
-    "discountedPrice": 165.02,
+    "price": 245,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p158",
@@ -2400,9 +2564,11 @@
       "/images/samples/chair/5.webp"
     ],
     "category": "chair",
-    "price": 246,
+    "price": 208,
+    "discountedPrice": 171.57,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p159",
@@ -2414,9 +2580,10 @@
       "/images/samples/bed/4.webp"
     ],
     "category": "bed",
-    "price": 250,
+    "price": 291,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p160",
@@ -2429,9 +2596,10 @@
       "/images/samples/sofa/1.webp"
     ],
     "category": "sofa",
-    "price": 260,
+    "price": 278,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p161",
@@ -2445,9 +2613,11 @@
       "/images/samples/carpet/1.webp"
     ],
     "category": "carpet",
-    "price": 267,
+    "price": 291,
+    "discountedPrice": 239.59,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p162",
@@ -2459,10 +2629,11 @@
       "/images/samples/lamp/4.webp"
     ],
     "category": "lamp",
-    "price": 290,
-    "discountedPrice": 238.24,
+    "price": 297,
+    "discountedPrice": 278.26,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p163",
@@ -2475,9 +2646,10 @@
       "/images/samples/table/6.webp"
     ],
     "category": "table",
-    "price": 312,
+    "price": 375,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p164",
@@ -2491,9 +2663,10 @@
       "/images/samples/chair/3.webp"
     ],
     "category": "chair",
-    "price": 399,
+    "price": 310,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p165",
@@ -2505,9 +2678,10 @@
       "/images/samples/bed/3.webp"
     ],
     "category": "bed",
-    "price": 389,
+    "price": 344,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p166",
@@ -2520,9 +2694,11 @@
       "/images/samples/sofa/4.webp"
     ],
     "category": "sofa",
-    "price": 429,
+    "price": 365,
+    "discountedPrice": 345.6,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p167",
@@ -2536,9 +2712,10 @@
       "/images/samples/carpet/5.webp"
     ],
     "category": "carpet",
-    "price": 371,
+    "price": 460,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p168",
@@ -2550,9 +2727,11 @@
       "/images/samples/lamp/5.webp"
     ],
     "category": "lamp",
-    "price": 466,
+    "price": 481,
+    "discountedPrice": 402.28,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p169",
@@ -2565,9 +2744,10 @@
       "/images/samples/table/3.webp"
     ],
     "category": "table",
-    "price": 427,
+    "price": 510,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p170",
@@ -2581,9 +2761,10 @@
       "/images/samples/chair/5.webp"
     ],
     "category": "chair",
-    "price": 442,
+    "price": 466,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p171",
@@ -2595,9 +2776,11 @@
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 476,
+    "price": 484,
+    "discountedPrice": 454.24,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p172",
@@ -2610,9 +2793,11 @@
       "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 494,
+    "price": 569,
+    "discountedPrice": 472.83,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p173",
@@ -2626,9 +2811,10 @@
       "/images/samples/carpet/5.webp"
     ],
     "category": "carpet",
-    "price": 527,
+    "price": 564,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p174",
@@ -2640,9 +2826,10 @@
       "/images/samples/lamp/5.webp"
     ],
     "category": "lamp",
-    "price": 566,
+    "price": 604,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p175",
@@ -2655,9 +2842,11 @@
       "/images/samples/table/1.webp"
     ],
     "category": "table",
-    "price": 607,
+    "price": 581,
+    "discountedPrice": 467.23,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p176",
@@ -2671,10 +2860,10 @@
       "/images/samples/chair/3.webp"
     ],
     "category": "chair",
-    "price": 631,
-    "discountedPrice": 552.06,
+    "price": 636,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p177",
@@ -2686,9 +2875,11 @@
       "/images/samples/bed/6.webp"
     ],
     "category": "bed",
-    "price": 597,
+    "price": 669,
+    "discountedPrice": 547.8,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p178",
@@ -2701,10 +2892,10 @@
       "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 624,
-    "discountedPrice": 566.33,
+    "price": 641,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p179",
@@ -2718,9 +2909,10 @@
       "/images/samples/carpet/5.webp"
     ],
     "category": "carpet",
-    "price": 664,
+    "price": 709,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p180",
@@ -2732,10 +2924,11 @@
       "/images/samples/lamp/3.webp"
     ],
     "category": "lamp",
-    "price": 648,
-    "discountedPrice": 571.35,
+    "price": 644,
+    "discountedPrice": 519.37,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p181",
@@ -2748,9 +2941,10 @@
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 686,
+    "price": 678,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p182",
@@ -2764,9 +2958,10 @@
       "/images/samples/chair/7.webp"
     ],
     "category": "chair",
-    "price": 704,
+    "price": 681,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p183",
@@ -2778,9 +2973,10 @@
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 749,
+    "price": 785,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p184",
@@ -2793,9 +2989,10 @@
       "/images/samples/sofa/2.webp"
     ],
     "category": "sofa",
-    "price": 786,
+    "price": 746,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": true
   },
   {
     "id": "p185",
@@ -2809,9 +3006,10 @@
       "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 803,
+    "price": 755,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p186",
@@ -2823,10 +3021,10 @@
       "/images/samples/lamp/6.webp"
     ],
     "category": "lamp",
-    "price": 806,
-    "discountedPrice": 761.34,
+    "price": 786,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p187",
@@ -2839,9 +3037,11 @@
       "/images/samples/table/4.webp"
     ],
     "category": "table",
-    "price": 861,
+    "price": 778,
+    "discountedPrice": 677.08,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p188",
@@ -2855,9 +3055,10 @@
       "/images/samples/chair/7.webp"
     ],
     "category": "chair",
-    "price": 807,
+    "price": 839,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p189",
@@ -2869,9 +3070,10 @@
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 833,
+    "price": 855,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p190",
@@ -2884,9 +3086,11 @@
       "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 830,
+    "price": 859,
+    "discountedPrice": 772.63,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p191",
@@ -2900,9 +3104,11 @@
       "/images/samples/carpet/6.webp"
     ],
     "category": "carpet",
-    "price": 907,
+    "price": 895,
+    "discountedPrice": 743.16,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p192",
@@ -2914,9 +3120,10 @@
       "/images/samples/lamp/1.webp"
     ],
     "category": "lamp",
-    "price": 936,
+    "price": 876,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p193",
@@ -2929,9 +3136,10 @@
       "/images/samples/table/6.webp"
     ],
     "category": "table",
-    "price": 904,
+    "price": 984,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p194",
@@ -2945,9 +3153,10 @@
       "/images/samples/chair/1.webp"
     ],
     "category": "chair",
-    "price": 918,
+    "price": 933,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p195",
@@ -2959,10 +3168,10 @@
       "/images/samples/bed/1.webp"
     ],
     "category": "bed",
-    "price": 998,
-    "discountedPrice": 888.57,
+    "price": 938,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p196",
@@ -2975,9 +3184,11 @@
       "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 952,
+    "price": 1042,
+    "discountedPrice": 965.19,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p197",
@@ -2991,9 +3202,10 @@
       "/images/samples/carpet/4.webp"
     ],
     "category": "carpet",
-    "price": 985,
+    "price": 1011,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p198",
@@ -3005,9 +3217,10 @@
       "/images/samples/lamp/1.webp"
     ],
     "category": "lamp",
-    "price": 1011,
+    "price": 1081,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p199",
@@ -3020,10 +3233,10 @@
       "/images/samples/table/3.webp"
     ],
     "category": "table",
-    "price": 1104,
-    "discountedPrice": 959.93,
+    "price": 1035,
     "currency": "PLN",
-    "isOnWishList": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p200",
@@ -3037,9 +3250,9 @@
       "/images/samples/chair/1.webp"
     ],
     "category": "chair",
-    "price": 1031,
-    "discountedPrice": 883.78,
+    "price": 1083,
     "currency": "PLN",
-    "isOnWishList": false
+    "isOnWishList": true,
+    "isNew": false
   }
 ]

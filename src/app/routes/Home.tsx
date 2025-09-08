@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
       <img className="-mt-14" src="/images/hero.png" alt="Hero" />
-      <img className="" src="/images/home_banner.png" alt="Hero" />
+      <img className="w-full" src="/images/home_banner.png" alt="Hero" />
 
       <PageWrapper className="h-screen flex flex-col mt-8 gap-8">
         <h1 className="scroll-m-20 text-center text-4xl font-extrabold tracking-tight text-balance">

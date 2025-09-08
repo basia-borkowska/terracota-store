@@ -4,22 +4,33 @@ import ProductCard from './ProductCard';
 import { useInfiniteQuery } from '@tanstack/react-query';
 import { useTranslation } from 'react-i18next';
 import { fetchProducts } from '../entities/product/api';
-import { useCategoryFilter } from '../features/catalog-filters/model/useCategoryFilter';
+import type { Product } from '../entities/product/types';
+import { SlidersHorizontal } from 'lucide-react';
 
 const PAGE_SIZE = 30;
 
-const ProductList = () => {
+interface ProductListProps {
+  filters?: { category?: Product['category']; isNew?: boolean };
+  showNewBadge?: boolean;
+}
+const ProductList = ({ filters, showNewBadge }: ProductListProps) => {
   const { i18n } = useTranslation();
   const { t } = useTranslation();
-  const { selected } = useCategoryFilter();
 
   const q = useInfiniteQuery({
-    queryKey: ['products', i18n.language, PAGE_SIZE, selected],
+    queryKey: [
+      'products',
+      i18n.language,
+      PAGE_SIZE,
+      filters?.category,
+      !!filters?.isNew,
+    ],
     queryFn: ({ pageParam = 1 }) =>
       fetchProducts({
         page: pageParam as number,
         limit: PAGE_SIZE,
-        category: selected ?? undefined,
+        category: filters?.category,
+        isNew: filters?.isNew,
         lang: i18n.language,
       }),
     getNextPageParam: (last, all) =>
@@ -47,13 +58,23 @@ const ProductList = () => {
   if (q.status === 'pending') return <div className="p-6">Loading...</div>; // TODO add better loading state
 
   return (
-    <div className="flex flex-col gap-2">
-      <span>
-        {t('common.products')} ({products.length})
-      </span>
+    <div className="flex flex-col gap-3">
+      <div className="flex justify-between">
+        <SlidersHorizontal
+          className="size-5 cursor-pointer"
+          onClick={() => alert('Implement filtering')}
+        />
+        <span className="text-sm self-end">
+          {products.length} {t('common.products').toLocaleLowerCase()}
+        </span>
+      </div>
       <div className="grid gap-6 grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
         {products.map((product) => (
-          <ProductCard key={product.id} product={product} />
+          <ProductCard
+            key={product.id}
+            product={product}
+            showNewBadge={showNewBadge}
+          />
         ))}
       </div>
 

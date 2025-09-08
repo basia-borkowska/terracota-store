@@ -1,4 +1,4 @@
-import { NavLink } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { pathnames } from '../../lib/pathnames';
 import { cn } from '../../lib/utils';
 import { useTranslation } from 'react-i18next';
@@ -14,6 +14,7 @@ type BreadcrumbsProps = {
 };
 
 export const Breadcrumbs = ({ trail, className }: BreadcrumbsProps) => {
+  const navigate = useNavigate();
   const { t } = useTranslation();
   const base: Crumb[] = [
     { label: t('common.home'), to: pathnames.home },
@@ -32,12 +33,16 @@ export const Breadcrumbs = ({ trail, className }: BreadcrumbsProps) => {
         return (
           <span key={index} className="flex items-center gap-2">
             {crumb.to && !isLast ? (
-              <NavLink
-                to={crumb.to}
-                className="hover:underline hover:text-interactive"
+              <span
+                className="hover:underline hover:text-interactive cursor-pointer"
+                onClick={() => {
+                  navigate(crumb.to!);
+                  //   TODO figure out a better way to refresh the page after navigation
+                  setTimeout(() => window.location.reload(), 0);
+                }}
               >
                 {crumb.label}
-              </NavLink>
+              </span>
             ) : (
               <span className={isLast ? 'font-medium text-dark' : ''}>
                 {crumb.label}

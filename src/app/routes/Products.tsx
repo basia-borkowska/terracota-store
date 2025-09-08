@@ -25,7 +25,7 @@ const Products = () => {
     <PageWrapper>
       <Breadcrumbs className="mb-2" trail={trail} />
       <CategoryFilterCards />
-      <ProductList />
+      <ProductList filters={{ category: selected ?? undefined }} />
     </PageWrapper>
   );
 };

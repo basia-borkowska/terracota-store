@@ -17,15 +17,16 @@ export const handlers = [
   // GET /api/products?lang=en&category=sofa&page=1&limit=30
   http.get('/api/products', async ({ request }) => {
     const url = new URL(request.url);
+    const isNewParam = url.searchParams.get('isNew');
     const lang = url.searchParams.get('lang') ?? 'en';
     const category = url.searchParams.get('category') as Category | null;
     const page = Math.max(1, Number(url.searchParams.get('page') ?? '1'));
     const limit = Math.max(1, Number(url.searchParams.get('limit') ?? '30'));
 
     const all = await loadProducts(lang);
-    const filtered = category
-      ? all.filter((p) => p.category === category)
-      : all;
+    let filtered = all;
+    if (category) filtered = filtered.filter((p) => p.category === category);
+    if (isNewParam === 'true') filtered = filtered.filter((p) => p.isNew);
 
     const total = filtered.length;
     const start = (page - 1) * limit;

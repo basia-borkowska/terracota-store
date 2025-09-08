@@ -97,6 +97,7 @@ function makeProduct(i: number, lang: 'en' | 'pl') {
   }
 
   const isOnWishList = Math.random() < 0.1;
+  const isNew = Math.random() < 0.1;
   const images = makeImages(id, category, lang);
 
   return {
@@ -109,6 +110,7 @@ function makeProduct(i: number, lang: 'en' | 'pl') {
     discountedPrice,
     currency: 'PLN',
     isOnWishList,
+    isNew,
   };
 }
 

@@ -11,7 +11,11 @@ import { Heart } from 'lucide-react';
 import { pathnames } from '../shared/lib/pathnames';
 import { useEffect, useState } from 'react';
 
-const ProductCard = ({ product }: { product: Product }) => {
+interface ProductCardProps {
+  product: Product;
+  showNewBadge?: boolean;
+}
+const ProductCard = ({ product, showNewBadge = true }: ProductCardProps) => {
   const navigate = useNavigate();
   const [hovered, setHovered] = useState(false);
 
@@ -46,7 +50,7 @@ const ProductCard = ({ product }: { product: Product }) => {
     >
       <div className="absolute top-2 left-2 w-fit flex flex-col gap-2 z-10">
         {discountedPrice && <DiscountBadge className="w-fit" />}
-        {isNew && <NewInBadge className="w-fit" />}
+        {isNew && showNewBadge && <NewInBadge className="w-fit" />}
       </div>
 
       <Button

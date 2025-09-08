@@ -4,6 +4,7 @@ export const pathnames = {
   product: '/products/:id',
   compare: '/compare',
   wishList: '/wish-list',
+  newProducts: '/new-products',
   checkout: {
     root: '/checkout',
     shipping: '/checkout/shipping',

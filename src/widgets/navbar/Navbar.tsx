@@ -31,9 +31,9 @@ const Navbar = () => {
         onClick={() => navigate(pathnames.home)}
       />
       <div className="absolute left-1/2 -translate-x-1/2 flex gap-10">
-        {/* TODO add links */}
-        <NavbarLink to={pathnames.notFound}>{t('navbar.newIn')}</NavbarLink>
+        <NavbarLink to={pathnames.newProducts}>{t('navbar.newIn')}</NavbarLink>
         <NavbarLink to={pathnames.products}>{t('common.products')}</NavbarLink>
+        {/* TODO add link */}
         <NavbarLink to={pathnames.notFound}>
           {t('navbar.inspirations')}
         </NavbarLink>
