@@ -2,15 +2,20 @@
   {
     "id": "p001",
     "title": "Stół jadalniany #1",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/3.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 127,
+    "price": 79,
+    "discountedPrice": 64.28,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -18,31 +23,41 @@
   {
     "id": "p002",
     "title": "Fotel #2",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/3.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 76,
+    "price": 95,
+    "discountedPrice": 85.43,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p003",
     "title": "Łóżko platformowe #3",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 149,
+    "price": 152,
+    "discountedPrice": 124.78,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -50,16 +65,20 @@
   {
     "id": "p004",
     "title": "Sofa nowoczesna #4",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/10.webp",
       "/images/samples/sofa/8.webp",
       "/images/samples/sofa/9.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/7.webp"
     ],
     "category": "sofa",
-    "price": 118,
-    "discountedPrice": 94.54,
+    "price": 189,
+    "discountedPrice": 178.87,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -67,16 +86,20 @@
   {
     "id": "p005",
     "title": "Dywan #5",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/2.jpg"
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 134,
+    "price": 182,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -84,47 +107,59 @@
   {
     "id": "p006",
     "title": "Lampa stojąca #6",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 222,
+    "price": 185,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": true
+  },
+  {
+    "id": "p007",
+    "title": "Stół jadalniany #7",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 237,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
   },
   {
-    "id": "p007",
-    "title": "Stół jadalniany #7",
-    "description": "Solidny stół do rodzinnych posiłków.",
-    "images": [
-      "/images/samples/table/1.webp",
-      "/images/samples/table/6.webp",
-      "/images/samples/table/4.webp",
-      "/images/samples/table/3.webp"
-    ],
-    "category": "table",
-    "price": 202,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
     "id": "p008",
     "title": "Fotel #8",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/3.webp",
       "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
-      "/images/samples/chair/6.webp"
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 234,
+    "price": 207,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -132,15 +167,18 @@
   {
     "id": "p009",
     "title": "Łóżko platformowe #9",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/4.webp",
       "/images/samples/bed/1.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 298,
-    "discountedPrice": 248.17,
+    "price": 261,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -148,15 +186,19 @@
   {
     "id": "p010",
     "title": "Sofa nowoczesna #10",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/1.webp",
       "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/8.webp"
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 272,
+    "price": 268,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -164,33 +206,39 @@
   {
     "id": "p011",
     "title": "Dywan #11",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 268,
-    "discountedPrice": 250.94,
+    "price": 325,
     "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p012",
     "title": "Lampa stojąca #12",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/3.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 321,
-    "discountedPrice": 268.67,
+    "price": 276,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -198,32 +246,41 @@
   {
     "id": "p013",
     "title": "Stół jadalniany #13",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 306,
+    "price": 368,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p014",
     "title": "Fotel #14",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 321,
+    "price": 322,
+    "discountedPrice": 269,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -231,14 +288,18 @@
   {
     "id": "p015",
     "title": "Łóżko platformowe #15",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/3.webp",
       "/images/samples/bed/1.webp",
-      "/images/samples/bed/4.webp"
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 375,
+    "price": 360,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -246,15 +307,20 @@
   {
     "id": "p016",
     "title": "Sofa nowoczesna #16",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/3.webp",
       "/images/samples/sofa/8.webp",
       "/images/samples/sofa/6.webp",
-      "/images/samples/sofa/5.webp"
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 450,
+    "price": 358,
+    "discountedPrice": 301.13,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -262,32 +328,39 @@
   {
     "id": "p017",
     "title": "Dywan #17",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 406,
+    "price": 371,
     "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p018",
     "title": "Lampa stojąca #18",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 433,
-    "discountedPrice": 396,
+    "price": 398,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -295,32 +368,41 @@
   {
     "id": "p019",
     "title": "Stół jadalniany #19",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/6.webp",
-      "/images/samples/table/3.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 445,
+    "price": 451,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p020",
     "title": "Fotel #20",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 465,
+    "price": 460,
+    "discountedPrice": 387.64,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -328,14 +410,18 @@
   {
     "id": "p021",
     "title": "Łóżko platformowe #21",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
       "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/2.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 517,
+    "price": 519,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -343,15 +429,19 @@
   {
     "id": "p022",
     "title": "Sofa nowoczesna #22",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/1.webp"
     ],
     "category": "sofa",
-    "price": 474,
+    "price": 546,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -359,31 +449,40 @@
   {
     "id": "p023",
     "title": "Dywan #23",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/6.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/2.jpg"
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 582,
+    "price": 556,
+    "discountedPrice": 459.37,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p024",
     "title": "Lampa stojąca #24",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 531,
+    "price": 569,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -391,33 +490,41 @@
   {
     "id": "p025",
     "title": "Stół jadalniany #25",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/4.webp",
       "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 607,
-    "discountedPrice": 525.47,
+    "price": 576,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p026",
     "title": "Fotel #26",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/4.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 598,
+    "price": 562,
+    "discountedPrice": 525.76,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -425,14 +532,18 @@
   {
     "id": "p027",
     "title": "Łóżko platformowe #27",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/4.webp",
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 651,
+    "price": 596,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -440,15 +551,19 @@
   {
     "id": "p028",
     "title": "Sofa nowoczesna #28",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/3.webp",
       "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/9.webp"
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp"
     ],
     "category": "sofa",
-    "price": 645,
+    "price": 652,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -456,16 +571,20 @@
   {
     "id": "p029",
     "title": "Dywan #29",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 663,
+    "price": 662,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -473,14 +592,18 @@
   {
     "id": "p030",
     "title": "Lampa stojąca #30",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 710,
+    "price": 660,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -488,15 +611,20 @@
   {
     "id": "p031",
     "title": "Stół jadalniany #31",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/5.webp",
-      "/images/samples/table/3.webp",
       "/images/samples/table/1.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 739,
+    "price": 665,
+    "discountedPrice": 550.78,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -504,16 +632,20 @@
   {
     "id": "p032",
     "title": "Fotel #32",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 674,
+    "price": 719,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -521,14 +653,18 @@
   {
     "id": "p033",
     "title": "Łóżko platformowe #33",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/4.webp"
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 767,
+    "price": 691,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -536,15 +672,20 @@
   {
     "id": "p034",
     "title": "Sofa nowoczesna #34",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/1.webp",
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/8.webp"
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 718,
+    "price": 748,
+    "discountedPrice": 651.68,
     "currency": "PLN",
     "isOnWishList": true,
     "isNew": false
@@ -552,16 +693,20 @@
   {
     "id": "p035",
     "title": "Dywan #35",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 823,
+    "price": 756,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -569,14 +714,18 @@
   {
     "id": "p036",
     "title": "Lampa stojąca #36",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 831,
+    "price": 839,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -584,16 +733,19 @@
   {
     "id": "p037",
     "title": "Stół jadalniany #37",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 798,
-    "discountedPrice": 730.03,
+    "price": 824,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -601,17 +753,20 @@
   {
     "id": "p038",
     "title": "Fotel #38",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 835,
-    "discountedPrice": 751.15,
+    "price": 876,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -619,14 +774,18 @@
   {
     "id": "p039",
     "title": "Łóżko platformowe #39",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/6.webp",
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
-      "/images/samples/bed/1.webp"
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 849,
+    "price": 861,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -634,47 +793,60 @@
   {
     "id": "p040",
     "title": "Sofa nowoczesna #40",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/8.webp",
       "/images/samples/sofa/6.webp",
       "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp"
     ],
     "category": "sofa",
-    "price": 870,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p041",
-    "title": "Dywan #41",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "images": [
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp"
-    ],
-    "category": "carpet",
-    "price": 872,
+    "price": 849,
+    "discountedPrice": 721.86,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
   },
   {
+    "id": "p041",
+    "title": "Dywan #41",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 949,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": true
+  },
+  {
     "id": "p042",
     "title": "Lampa stojąca #42",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/6.webp"
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 902,
+    "price": 874,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -682,15 +854,20 @@
   {
     "id": "p043",
     "title": "Stół jadalniany #43",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/3.webp",
       "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 912,
+    "price": 985,
+    "discountedPrice": 904.99,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -698,16 +875,20 @@
   {
     "id": "p044",
     "title": "Fotel #44",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/5.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 968,
+    "price": 915,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -715,30 +896,38 @@
   {
     "id": "p045",
     "title": "Łóżko platformowe #45",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 1010,
+    "price": 985,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p046",
     "title": "Sofa nowoczesna #46",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/1.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/9.webp"
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 1006,
+    "price": 965,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -746,47 +935,59 @@
   {
     "id": "p047",
     "title": "Dywan #47",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 1062,
+    "price": 1029,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p048",
     "title": "Lampa stojąca #48",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
       "/images/samples/lamp/6.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/3.webp"
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 1000,
+    "price": 1042,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p049",
     "title": "Stół jadalniany #49",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/3.webp",
-      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 1077,
+    "price": 1044,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -794,33 +995,39 @@
   {
     "id": "p050",
     "title": "Fotel #50",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/3.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 1050,
-    "discountedPrice": 922.4,
+    "price": 1065,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p051",
     "title": "Łóżko platformowe #51",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/3.webp",
       "/images/samples/bed/1.webp",
-      "/images/samples/bed/2.webp"
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 141,
-    "discountedPrice": 117.74,
+    "price": 101,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -828,15 +1035,19 @@
   {
     "id": "p052",
     "title": "Sofa nowoczesna #52",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/4.webp"
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/8.webp"
     ],
     "category": "sofa",
-    "price": 98,
+    "price": 121,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -844,17 +1055,20 @@
   {
     "id": "p053",
     "title": "Dywan #53",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/4.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
     "price": 160,
-    "discountedPrice": 130.15,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -862,14 +1076,18 @@
   {
     "id": "p054",
     "title": "Lampa stojąca #54",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 113,
+    "price": 192,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -877,16 +1095,20 @@
   {
     "id": "p055",
     "title": "Stół jadalniany #55",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/2.webp",
       "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 130,
-    "discountedPrice": 111.7,
+    "price": 214,
+    "discountedPrice": 196.92,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -894,32 +1116,40 @@
   {
     "id": "p056",
     "title": "Fotel #56",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 213,
+    "price": 236,
+    "discountedPrice": 208.86,
     "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
+    "isOnWishList": true,
+    "isNew": true
   },
   {
     "id": "p057",
     "title": "Łóżko platformowe #57",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/4.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 213,
-    "discountedPrice": 191.85,
+    "price": 195,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -927,16 +1157,19 @@
   {
     "id": "p058",
     "title": "Sofa nowoczesna #58",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/10.webp",
-      "/images/samples/sofa/7.webp"
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp"
     ],
     "category": "sofa",
-    "price": 248,
-    "discountedPrice": 203.18,
+    "price": 284,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -944,16 +1177,20 @@
   {
     "id": "p059",
     "title": "Dywan #59",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 251,
+    "price": 287,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -961,15 +1198,19 @@
   {
     "id": "p060",
     "title": "Lampa stojąca #60",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
       "/images/samples/lamp/1.webp",
       "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 298,
-    "discountedPrice": 273.83,
+    "price": 244,
+    "discountedPrice": 195.21,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -977,32 +1218,40 @@
   {
     "id": "p061",
     "title": "Stół jadalniany #61",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 343,
+    "price": 294,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p062",
     "title": "Fotel #62",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/7.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
-      "/images/samples/chair/4.webp"
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 272,
+    "price": 312,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1010,14 +1259,18 @@
   {
     "id": "p063",
     "title": "Łóżko platformowe #63",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/4.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
       "/images/samples/bed/3.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 320,
+    "price": 311,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1025,47 +1278,61 @@
   {
     "id": "p064",
     "title": "Sofa nowoczesna #64",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/1.webp",
-      "/images/samples/sofa/6.webp"
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/4.webp"
     ],
     "category": "sofa",
-    "price": 410,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
-  },
-  {
-    "id": "p065",
-    "title": "Dywan #65",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
-    "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp"
-    ],
-    "category": "carpet",
-    "price": 343,
+    "price": 348,
+    "discountedPrice": 289.4,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
   },
   {
+    "id": "p065",
+    "title": "Dywan #65",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 420,
+    "discountedPrice": 383.66,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": true
+  },
+  {
     "id": "p066",
     "title": "Lampa stojąca #66",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
       "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 430,
+    "price": 382,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1073,15 +1340,19 @@
   {
     "id": "p067",
     "title": "Stół jadalniany #67",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
       "/images/samples/table/1.webp",
-      "/images/samples/table/5.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 395,
+    "price": 415,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1089,16 +1360,20 @@
   {
     "id": "p068",
     "title": "Fotel #68",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
       "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 482,
+    "price": 448,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1106,14 +1381,18 @@
   {
     "id": "p069",
     "title": "Łóżko platformowe #69",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 501,
+    "price": 419,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1121,16 +1400,19 @@
   {
     "id": "p070",
     "title": "Sofa nowoczesna #70",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/6.webp",
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/5.webp"
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 484,
-    "discountedPrice": 425.17,
+    "price": 518,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1138,16 +1420,20 @@
   {
     "id": "p071",
     "title": "Dywan #71",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 525,
+    "price": 456,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1155,32 +1441,39 @@
   {
     "id": "p072",
     "title": "Lampa stojąca #72",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 478,
-    "discountedPrice": 411.41,
+    "price": 477,
+    "discountedPrice": 419.1,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p073",
     "title": "Stół jadalniany #73",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/5.webp",
       "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 496,
-    "discountedPrice": 413.78,
+    "price": 588,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1188,31 +1481,40 @@
   {
     "id": "p074",
     "title": "Fotel #74",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/5.webp",
       "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 559,
+    "price": 563,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p075",
     "title": "Łóżko platformowe #75",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
       "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
-      "/images/samples/bed/5.webp"
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 590,
+    "price": 572,
+    "discountedPrice": 474.3,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1220,33 +1522,41 @@
   {
     "id": "p076",
     "title": "Sofa nowoczesna #76",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/2.webp"
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 628,
-    "discountedPrice": 540.76,
+    "price": 594,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p077",
     "title": "Dywan #77",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 575,
+    "price": 589,
+    "discountedPrice": 511.36,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1254,48 +1564,59 @@
   {
     "id": "p078",
     "title": "Lampa stojąca #78",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 685,
+    "price": 659,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p079",
     "title": "Stół jadalniany #79",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
       "/images/samples/table/1.webp",
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 617,
+    "price": 647,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p080",
     "title": "Fotel #80",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
-      "/images/samples/chair/3.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 726,
-    "discountedPrice": 686.66,
+    "price": 729,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1303,48 +1624,59 @@
   {
     "id": "p081",
     "title": "Łóżko platformowe #81",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/6.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 744,
+    "price": 731,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p082",
     "title": "Sofa nowoczesna #82",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/3.webp",
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/6.webp",
-      "/images/samples/sofa/10.webp"
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/8.webp"
     ],
     "category": "sofa",
-    "price": 679,
-    "discountedPrice": 622.53,
+    "price": 681,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p083",
     "title": "Dywan #83",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 696,
+    "price": 690,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1352,14 +1684,18 @@
   {
     "id": "p084",
     "title": "Lampa stojąca #84",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/1.webp",
       "/images/samples/lamp/2.webp",
-      "/images/samples/lamp/6.webp"
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 801,
+    "price": 741,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1367,16 +1703,19 @@
   {
     "id": "p085",
     "title": "Stół jadalniany #85",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 769,
-    "discountedPrice": 646.51,
+    "price": 802,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1384,16 +1723,21 @@
   {
     "id": "p086",
     "title": "Fotel #86",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
       "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 815,
+    "price": 809,
+    "discountedPrice": 763.42,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1401,14 +1745,19 @@
   {
     "id": "p087",
     "title": "Łóżko platformowe #87",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/4.webp",
       "/images/samples/bed/1.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 799,
+    "price": 825,
+    "discountedPrice": 675.52,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1416,32 +1765,41 @@
   {
     "id": "p088",
     "title": "Sofa nowoczesna #88",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/1.webp",
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/5.webp"
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 871,
+    "price": 837,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p089",
     "title": "Dywan #89",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 858,
+    "price": 851,
+    "discountedPrice": 741.44,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1449,15 +1807,18 @@
   {
     "id": "p090",
     "title": "Lampa stojąca #90",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 880,
-    "discountedPrice": 758.44,
+    "price": 868,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1465,32 +1826,40 @@
   {
     "id": "p091",
     "title": "Stół jadalniany #91",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/3.webp",
-      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 898,
+    "price": 899,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p092",
     "title": "Fotel #92",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/6.webp",
       "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 961,
+    "price": 918,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1498,30 +1867,39 @@
   {
     "id": "p093",
     "title": "Łóżko platformowe #93",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/7.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 942,
+    "price": 896,
+    "discountedPrice": 732.08,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p094",
     "title": "Sofa nowoczesna #94",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/1.webp"
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 999,
+    "price": 992,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1529,17 +1907,20 @@
   {
     "id": "p095",
     "title": "Dywan #95",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 1026,
-    "discountedPrice": 850.91,
+    "price": 961,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1547,14 +1928,18 @@
   {
     "id": "p096",
     "title": "Lampa stojąca #96",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp",
       "/images/samples/lamp/2.webp",
-      "/images/samples/lamp/3.webp"
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 1033,
+    "price": 1038,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1562,15 +1947,19 @@
   {
     "id": "p097",
     "title": "Stół jadalniany #97",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/5.webp",
       "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 1024,
+    "price": 1013,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1578,16 +1967,20 @@
   {
     "id": "p098",
     "title": "Fotel #98",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/4.webp"
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 1027,
+    "price": 998,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1595,15 +1988,19 @@
   {
     "id": "p099",
     "title": "Łóżko platformowe #99",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 1035,
-    "discountedPrice": 948.56,
+    "price": 1081,
+    "discountedPrice": 988.45,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1611,16 +2008,19 @@
   {
     "id": "p100",
     "title": "Sofa nowoczesna #100",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/5.webp"
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/1.webp"
     ],
     "category": "sofa",
-    "price": 1088,
-    "discountedPrice": 897.49,
+    "price": 1116,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1628,16 +2028,20 @@
   {
     "id": "p101",
     "title": "Dywan #101",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 104,
+    "price": 128,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1645,30 +2049,39 @@
   {
     "id": "p102",
     "title": "Lampa stojąca #102",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/4.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 119,
+    "price": 167,
+    "discountedPrice": 154.7,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p103",
     "title": "Stół jadalniany #103",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/5.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 99,
+    "price": 142,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1676,16 +2089,20 @@
   {
     "id": "p104",
     "title": "Fotel #104",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 169,
+    "price": 189,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1693,47 +2110,59 @@
   {
     "id": "p105",
     "title": "Łóżko platformowe #105",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 131,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p106",
-    "title": "Sofa nowoczesna #106",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "images": [
-      "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/9.webp",
-      "/images/samples/sofa/5.webp",
-      "/images/samples/sofa/10.webp"
-    ],
-    "category": "sofa",
-    "price": 195,
+    "price": 211,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
   },
   {
+    "id": "p106",
+    "title": "Sofa nowoczesna #106",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
+    "images": [
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/6.webp"
+    ],
+    "category": "sofa",
+    "price": 200,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": true
+  },
+  {
     "id": "p107",
     "title": "Dywan #107",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 192,
+    "price": 202,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1741,14 +2170,18 @@
   {
     "id": "p108",
     "title": "Lampa stojąca #108",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 202,
+    "price": 263,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1756,33 +2189,40 @@
   {
     "id": "p109",
     "title": "Stół jadalniany #109",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
       "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 248,
+    "price": 260,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p110",
     "title": "Fotel #110",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 302,
-    "discountedPrice": 257.06,
+    "price": 291,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1790,15 +2230,19 @@
   {
     "id": "p111",
     "title": "Łóżko platformowe #111",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 301,
-    "discountedPrice": 242.11,
+    "price": 284,
+    "discountedPrice": 234.3,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1806,16 +2250,19 @@
   {
     "id": "p112",
     "title": "Sofa nowoczesna #112",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/6.webp",
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/7.webp"
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/4.webp"
     ],
     "category": "sofa",
-    "price": 299,
-    "discountedPrice": 252.86,
+    "price": 367,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1823,17 +2270,20 @@
   {
     "id": "p113",
     "title": "Dywan #113",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 351,
-    "discountedPrice": 305.73,
+    "price": 352,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1841,30 +2291,38 @@
   {
     "id": "p114",
     "title": "Lampa stojąca #114",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/1.webp",
       "/images/samples/lamp/2.webp",
-      "/images/samples/lamp/3.webp"
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 374,
+    "price": 400,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p115",
     "title": "Stół jadalniany #115",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/4.webp",
       "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 403,
+    "price": 369,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1872,16 +2330,20 @@
   {
     "id": "p116",
     "title": "Fotel #116",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
-      "/images/samples/chair/5.webp",
-      "/images/samples/chair/7.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 354,
+    "price": 428,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1889,14 +2351,18 @@
   {
     "id": "p117",
     "title": "Łóżko platformowe #117",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 400,
+    "price": 376,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1904,15 +2370,19 @@
   {
     "id": "p118",
     "title": "Sofa nowoczesna #118",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/10.webp",
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/6.webp",
-      "/images/samples/sofa/9.webp"
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/1.webp"
     ],
     "category": "sofa",
-    "price": 467,
+    "price": 473,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1920,17 +2390,20 @@
   {
     "id": "p119",
     "title": "Dywan #119",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 417,
-    "discountedPrice": 341.55,
+    "price": 411,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1938,15 +2411,18 @@
   {
     "id": "p120",
     "title": "Lampa stojąca #120",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/4.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 457,
-    "discountedPrice": 403.93,
+    "price": 478,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1954,33 +2430,41 @@
   {
     "id": "p121",
     "title": "Stół jadalniany #121",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
       "/images/samples/table/1.webp",
-      "/images/samples/table/3.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 524,
-    "discountedPrice": 478.73,
+    "price": 483,
+    "discountedPrice": 412,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p122",
     "title": "Fotel #122",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/3.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 488,
+    "price": 504,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1988,31 +2472,38 @@
   {
     "id": "p123",
     "title": "Łóżko platformowe #123",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/5.webp"
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 574,
-    "discountedPrice": 494.3,
+    "price": 519,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p124",
     "title": "Sofa nowoczesna #124",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/1.webp"
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 595,
+    "price": 516,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2020,33 +2511,39 @@
   {
     "id": "p125",
     "title": "Dywan #125",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 619,
-    "discountedPrice": 501.81,
+    "price": 544,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p126",
     "title": "Lampa stojąca #126",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/5.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 569,
-    "discountedPrice": 487.44,
+    "price": 589,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2054,32 +2551,41 @@
   {
     "id": "p127",
     "title": "Stół jadalniany #127",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/5.webp",
-      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 587,
+    "price": 573,
+    "discountedPrice": 494.4,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p128",
     "title": "Fotel #128",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 645,
+    "price": 608,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2087,14 +2593,19 @@
   {
     "id": "p129",
     "title": "Łóżko platformowe #129",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 645,
+    "price": 699,
+    "discountedPrice": 627.47,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2102,15 +2613,20 @@
   {
     "id": "p130",
     "title": "Sofa nowoczesna #130",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/1.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 724,
+    "price": 715,
+    "discountedPrice": 636.7,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2118,16 +2634,21 @@
   {
     "id": "p131",
     "title": "Dywan #131",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 732,
+    "price": 673,
+    "discountedPrice": 570.47,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2135,14 +2656,18 @@
   {
     "id": "p132",
     "title": "Lampa stojąca #132",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
       "/images/samples/lamp/6.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 757,
+    "price": 758,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2150,15 +2675,20 @@
   {
     "id": "p133",
     "title": "Stół jadalniany #133",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 712,
+    "price": 771,
+    "discountedPrice": 628.67,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2166,13 +2696,17 @@
   {
     "id": "p134",
     "title": "Fotel #134",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/2.webp",
       "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
     "price": 744,
@@ -2183,63 +2717,79 @@
   {
     "id": "p135",
     "title": "Łóżko platformowe #135",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/7.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 739,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p136",
-    "title": "Sofa nowoczesna #136",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
-    "images": [
-      "/images/samples/sofa/5.webp",
-      "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/8.webp"
-    ],
-    "category": "sofa",
-    "price": 821,
-    "discountedPrice": 752.57,
+    "price": 779,
+    "discountedPrice": 720.68,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
   },
   {
-    "id": "p137",
-    "title": "Dywan #137",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "id": "p136",
+    "title": "Sofa nowoczesna #136",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/4.webp"
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/9.webp"
     ],
-    "category": "carpet",
-    "price": 779,
+    "category": "sofa",
+    "price": 771,
     "currency": "PLN",
     "isOnWishList": true,
     "isNew": false
   },
   {
+    "id": "p137",
+    "title": "Dywan #137",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 849,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
     "id": "p138",
     "title": "Lampa stojąca #138",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/6.webp"
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 791,
+    "price": 813,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2247,32 +2797,40 @@
   {
     "id": "p139",
     "title": "Stół jadalniany #139",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
-      "/images/samples/table/6.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 906,
+    "price": 827,
     "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p140",
     "title": "Fotel #140",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 831,
+    "price": 900,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2280,31 +2838,38 @@
   {
     "id": "p141",
     "title": "Łóżko platformowe #141",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
       "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
-      "/images/samples/bed/1.webp"
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 880,
-    "discountedPrice": 772.05,
+    "price": 886,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p142",
     "title": "Sofa nowoczesna #142",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/10.webp",
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/5.webp"
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/7.webp"
     ],
     "category": "sofa",
-    "price": 892,
+    "price": 874,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2312,16 +2877,21 @@
   {
     "id": "p143",
     "title": "Dywan #143",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 895,
+    "price": 905,
+    "discountedPrice": 798.3,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2329,47 +2899,59 @@
   {
     "id": "p144",
     "title": "Lampa stojąca #144",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
       "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 948,
+    "price": 957,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p145",
     "title": "Stół jadalniany #145",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/4.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 983,
+    "price": 938,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p146",
     "title": "Fotel #146",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
       "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
-      "/images/samples/chair/6.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 980,
+    "price": 984,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2377,31 +2959,38 @@
   {
     "id": "p147",
     "title": "Łóżko platformowe #147",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/5.webp"
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 1050,
-    "discountedPrice": 853.56,
+    "price": 973,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p148",
     "title": "Sofa nowoczesna #148",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/1.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/10.webp"
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 1026,
+    "price": 1041,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2409,16 +2998,20 @@
   {
     "id": "p149",
     "title": "Dywan #149",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 1091,
+    "price": 1094,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2426,79 +3019,98 @@
   {
     "id": "p150",
     "title": "Lampa stojąca #150",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/6.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 1096,
-    "discountedPrice": 911.08,
+    "price": 1123,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p151",
     "title": "Stół jadalniany #151",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/5.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 54,
+    "price": 150,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p152",
     "title": "Fotel #152",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/5.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/4.webp"
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 124,
+    "price": 142,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p153",
     "title": "Łóżko platformowe #153",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 111,
+    "price": 144,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p154",
     "title": "Sofa nowoczesna #154",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/6.webp"
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 182,
+    "price": 209,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2506,48 +3118,61 @@
   {
     "id": "p155",
     "title": "Dywan #155",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/2.jpg"
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 224,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p156",
-    "title": "Lampa stojąca #156",
-    "description": "Regulowana lampa z lnianym abażurem.",
-    "images": [
-      "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/1.webp"
-    ],
-    "category": "lamp",
-    "price": 234,
-    "discountedPrice": 196.69,
+    "price": 220,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": true
   },
   {
+    "id": "p156",
+    "title": "Lampa stojąca #156",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 214,
+    "discountedPrice": 201.23,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
     "id": "p157",
     "title": "Stół jadalniany #157",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 245,
+    "price": 243,
+    "discountedPrice": 225.32,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2555,17 +3180,20 @@
   {
     "id": "p158",
     "title": "Fotel #158",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/6.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 208,
-    "discountedPrice": 171.57,
+    "price": 209,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2573,14 +3201,19 @@
   {
     "id": "p159",
     "title": "Łóżko platformowe #159",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
       "/images/samples/bed/3.webp",
-      "/images/samples/bed/4.webp"
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 291,
+    "price": 293,
+    "discountedPrice": 239.73,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2588,33 +3221,41 @@
   {
     "id": "p160",
     "title": "Sofa nowoczesna #160",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/8.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/1.webp"
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 278,
+    "price": 301,
+    "discountedPrice": 256.04,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p161",
     "title": "Dywan #161",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 291,
-    "discountedPrice": 239.59,
+    "price": 271,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2622,48 +3263,60 @@
   {
     "id": "p162",
     "title": "Lampa stojąca #162",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/7.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/4.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 297,
-    "discountedPrice": 278.26,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p163",
-    "title": "Stół jadalniany #163",
-    "description": "Solidny stół do rodzinnych posiłków.",
-    "images": [
-      "/images/samples/table/3.webp",
-      "/images/samples/table/5.webp",
-      "/images/samples/table/2.webp",
-      "/images/samples/table/6.webp"
-    ],
-    "category": "table",
-    "price": 375,
+    "price": 281,
+    "discountedPrice": 253.99,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
   },
   {
+    "id": "p163",
+    "title": "Stół jadalniany #163",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 364,
+    "currency": "PLN",
+    "isOnWishList": true,
+    "isNew": false
+  },
+  {
     "id": "p164",
     "title": "Fotel #164",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/3.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 310,
+    "price": 390,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2671,31 +3324,38 @@
   {
     "id": "p165",
     "title": "Łóżko platformowe #165",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
-      "/images/samples/bed/7.webp",
       "/images/samples/bed/1.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 344,
+    "price": 354,
     "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p166",
     "title": "Sofa nowoczesna #166",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/6.webp",
-      "/images/samples/sofa/4.webp"
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 365,
-    "discountedPrice": 345.6,
+    "price": 374,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2703,16 +3363,20 @@
   {
     "id": "p167",
     "title": "Dywan #167",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 460,
+    "price": 388,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2720,15 +3384,18 @@
   {
     "id": "p168",
     "title": "Lampa stojąca #168",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
       "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/5.webp"
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 481,
-    "discountedPrice": 402.28,
+    "price": 452,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2736,15 +3403,19 @@
   {
     "id": "p169",
     "title": "Stół jadalniany #169",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
-      "/images/samples/table/2.webp",
       "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 510,
+    "price": 431,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2752,32 +3423,39 @@
   {
     "id": "p170",
     "title": "Fotel #170",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 466,
+    "price": 524,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p171",
     "title": "Łóżko platformowe #171",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 484,
-    "discountedPrice": 454.24,
+    "price": 521,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2785,16 +3463,19 @@
   {
     "id": "p172",
     "title": "Sofa nowoczesna #172",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/9.webp"
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/8.webp"
     ],
     "category": "sofa",
-    "price": 569,
-    "discountedPrice": 472.83,
+    "price": 544,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2802,31 +3483,39 @@
   {
     "id": "p173",
     "title": "Dywan #173",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 564,
+    "price": 490,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p174",
     "title": "Lampa stojąca #174",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
       "/images/samples/lamp/6.webp",
-      "/images/samples/lamp/5.webp"
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 604,
+    "price": 568,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2834,33 +3523,41 @@
   {
     "id": "p175",
     "title": "Stół jadalniany #175",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 581,
-    "discountedPrice": 467.23,
+    "price": 551,
+    "discountedPrice": 457.15,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p176",
     "title": "Fotel #176",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/6.webp",
       "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/3.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 636,
+    "price": 622,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2868,15 +3565,18 @@
   {
     "id": "p177",
     "title": "Łóżko platformowe #177",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 669,
-    "discountedPrice": 547.8,
+    "price": 593,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2884,15 +3584,19 @@
   {
     "id": "p178",
     "title": "Sofa nowoczesna #178",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/7.webp",
-      "/images/samples/sofa/9.webp"
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 641,
+    "price": 667,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2900,16 +3604,20 @@
   {
     "id": "p179",
     "title": "Dywan #179",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 709,
+    "price": 652,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2917,15 +3625,18 @@
   {
     "id": "p180",
     "title": "Lampa stojąca #180",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/7.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/3.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 644,
-    "discountedPrice": 519.37,
+    "price": 643,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2933,15 +3644,19 @@
   {
     "id": "p181",
     "title": "Stół jadalniany #181",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 678,
+    "price": 680,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2949,16 +3664,20 @@
   {
     "id": "p182",
     "title": "Fotel #182",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/4.webp",
       "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 681,
+    "price": 757,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2966,14 +3685,19 @@
   {
     "id": "p183",
     "title": "Łóżko platformowe #183",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 785,
+    "price": 695,
+    "discountedPrice": 615.68,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2981,47 +3705,60 @@
   {
     "id": "p184",
     "title": "Sofa nowoczesna #184",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/7.webp",
-      "/images/samples/sofa/2.webp"
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/10.webp"
     ],
     "category": "sofa",
-    "price": 746,
+    "price": 800,
+    "discountedPrice": 641.5,
     "currency": "PLN",
     "isOnWishList": true,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p185",
     "title": "Dywan #185",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
       "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 755,
+    "price": 814,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p186",
     "title": "Lampa stojąca #186",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/6.webp"
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 786,
+    "price": 828,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3029,16 +3766,19 @@
   {
     "id": "p187",
     "title": "Stół jadalniany #187",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
       "/images/samples/table/1.webp",
-      "/images/samples/table/6.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 778,
-    "discountedPrice": 677.08,
+    "price": 806,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3046,16 +3786,20 @@
   {
     "id": "p188",
     "title": "Fotel #188",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
-      "/images/samples/chair/5.webp",
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 839,
+    "price": 809,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3063,14 +3807,19 @@
   {
     "id": "p189",
     "title": "Łóżko platformowe #189",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 855,
+    "price": 820,
+    "discountedPrice": 694.02,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3078,34 +3827,41 @@
   {
     "id": "p190",
     "title": "Sofa nowoczesna #190",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/8.webp",
       "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/10.webp"
     ],
     "category": "sofa",
-    "price": 859,
-    "discountedPrice": 772.63,
+    "price": 876,
+    "discountedPrice": 731.25,
     "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p191",
     "title": "Dywan #191",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
       "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 895,
-    "discountedPrice": 743.16,
+    "price": 901,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3113,14 +3869,19 @@
   {
     "id": "p192",
     "title": "Lampa stojąca #192",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp",
       "/images/samples/lamp/2.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 876,
+    "price": 904,
+    "discountedPrice": 852.26,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3128,15 +3889,19 @@
   {
     "id": "p193",
     "title": "Stół jadalniany #193",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
-      "/images/samples/table/2.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 984,
+    "price": 901,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3144,31 +3909,39 @@
   {
     "id": "p194",
     "title": "Fotel #194",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 933,
+    "price": 961,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p195",
     "title": "Łóżko platformowe #195",
-    "description": "Minimalistyczna rama łóżka z listwami.",
+    "description": "Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
       "/images/samples/bed/3.webp",
-      "/images/samples/bed/1.webp"
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 938,
+    "price": 976,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3176,16 +3949,19 @@
   {
     "id": "p196",
     "title": "Sofa nowoczesna #196",
-    "description": "Sofa trzyosobowa z głębokimi poduszkami.",
+    "description": "Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.",
     "images": [
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/1.webp",
-      "/images/samples/sofa/5.webp"
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 1042,
-    "discountedPrice": 965.19,
+    "price": 964,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3193,16 +3969,20 @@
   {
     "id": "p197",
     "title": "Dywan #197",
-    "description": "Miękki tkany dywan, łatwy w czyszczeniu.",
+    "description": "Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.",
     "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/4.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 1011,
+    "price": 992,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3210,14 +3990,18 @@
   {
     "id": "p198",
     "title": "Lampa stojąca #198",
-    "description": "Regulowana lampa z lnianym abażurem.",
+    "description": "Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.",
     "images": [
-      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 1081,
+    "price": 1001,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3225,15 +4009,19 @@
   {
     "id": "p199",
     "title": "Stół jadalniany #199",
-    "description": "Solidny stół do rodzinnych posiłków.",
+    "description": "Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
-      "/images/samples/table/2.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 1035,
+    "price": 1055,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3241,16 +4029,20 @@
   {
     "id": "p200",
     "title": "Fotel #200",
-    "description": "Wygodne krzesło z miękkim siedziskiem.",
+    "description": "Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
-      "/images/samples/chair/3.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 1083,
+    "price": 1060,
     "currency": "PLN",
     "isOnWishList": true,
     "isNew": false

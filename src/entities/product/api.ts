@@ -26,3 +26,13 @@ export async function fetchProducts(params: {
   if (!res.ok) throw new Error(`Failed /api/products: ${res.status}`);
   return res.json();
 }
+
+export async function fetchProductById(
+  id: string,
+  lang: string = i18n.language
+): Promise<Product> {
+  const q = new URLSearchParams({ lang });
+  const res = await fetch(`/api/products/${id}?${q.toString()}`);
+  if (!res.ok) throw new Error(`Failed to fetch product ${id}`);
+  return res.json() as Promise<Product>;
+}

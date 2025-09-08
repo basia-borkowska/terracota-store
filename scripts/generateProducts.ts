@@ -43,7 +43,7 @@ function pickImages(pool: string[], n: number, seed: number): string[] {
 function makeImages(id: string, category: Category, lang: 'en' | 'pl') {
   const pool = loadCategoryPool(category);
   const numeric = parseInt(id.slice(1), 10); // p001 -> 1
-  const count = 3 + (numeric % 3); // 3,4,5
+  const count = 7 + (numeric % 3); // 7, 8, or 9 images
   return pickImages(pool, count, numeric);
 }
 
@@ -61,12 +61,15 @@ function makeProduct(i: number, lang: 'en' | 'pl') {
   }[category];
 
   const descEn = {
-    table: 'Sturdy table for family meals.',
-    chair: 'Comfortable chair with padded seat.',
-    bed: 'Minimalist bed frame with slats.',
-    sofa: '3-seater sofa with deep cushions.',
-    carpet: 'Soft woven carpet, easy to clean.',
-    lamp: 'Adjustable lamp with linen shade.',
+    table:
+      'A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.',
+    chair:
+      'A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.',
+    bed: 'A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.',
+    sofa: 'A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.',
+    carpet:
+      'A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.',
+    lamp: 'An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.',
   }[category];
 
   const titlePl = {
@@ -79,12 +82,15 @@ function makeProduct(i: number, lang: 'en' | 'pl') {
   }[category];
 
   const descPl = {
-    table: 'Solidny stół do rodzinnych posiłków.',
-    chair: 'Wygodne krzesło z miękkim siedziskiem.',
-    bed: 'Minimalistyczna rama łóżka z listwami.',
-    sofa: 'Sofa trzyosobowa z głębokimi poduszkami.',
-    carpet: 'Miękki tkany dywan, łatwy w czyszczeniu.',
-    lamp: 'Regulowana lampa z lnianym abażurem.',
+    table:
+      'Solidny stół jadalniany wykonany z wytrzymałego drewna, zaprojektowany tak, aby wygodnie pomieścić całą rodzinę. Ponadczasowe wykończenie pasuje do nowoczesnych i klasycznych wnętrz.',
+    chair:
+      'Wygodne krzesło z delikatnie wyprofilowanym oparciem i miękkim siedziskiem, zapewniające ergonomiczną postawę. Uniwersalny design sprawdzi się zarówno w jadalni, jak i w domowym biurze.',
+    bed: 'Minimalistyczna rama łóżka z solidnymi listwami, gwarantująca trwałość i odpowiednie podparcie materaca. Prosty design doskonale komponuje się z nowoczesnymi i tradycyjnymi sypialniami.',
+    sofa: 'Przestronna sofa 3-osobowa z głębokimi poduchami, zapewniająca maksymalny komfort. Obita miękką i trwałą tkaniną, łatwą w pielęgnacji, tworzy idealne miejsce do relaksu lub spotkań z bliskimi.',
+    carpet:
+      'Miękki tkany dywan o subtelnej fakturze, który ociepla i uzupełnia wystrój wnętrza. Łatwy w czyszczeniu i odporny na zużycie, doda przytulności zarówno salonowi, jak i sypialni.',
+    lamp: 'Elegancka lampa z regulowanym ramieniem i lnianym abażurem, który rozprasza ciepłe, przyjemne światło. Idealna jako lampka nocna lub akcent dekoracyjny, wnosząca funkcjonalność i subtelny urok.',
   }[category];
 
   const price = Math.round(50 + (i % 50) * 20 + Math.random() * 100);

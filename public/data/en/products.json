@@ -2,49 +2,59 @@
   {
     "id": "p001",
     "title": "Dining Table #1",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/3.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 119,
-    "discountedPrice": 111.16,
+    "price": 70,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p002",
     "title": "Accent Chair #2",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/3.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 148,
+    "price": 102,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p003",
     "title": "Platform Bed #3",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 167,
-    "discountedPrice": 148.76,
+    "price": 98,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -52,16 +62,19 @@
   {
     "id": "p004",
     "title": "Modern Sofa #4",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/10.webp",
       "/images/samples/sofa/8.webp",
       "/images/samples/sofa/9.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/7.webp"
     ],
     "category": "sofa",
-    "price": 168,
-    "discountedPrice": 138.24,
+    "price": 163,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -69,16 +82,20 @@
   {
     "id": "p005",
     "title": "Area Carpet #5",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/2.jpg"
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 139,
+    "price": 221,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -86,14 +103,18 @@
   {
     "id": "p006",
     "title": "Floor Lamp #6",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 176,
+    "price": 200,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -101,16 +122,20 @@
   {
     "id": "p007",
     "title": "Dining Table #7",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
       "/images/samples/table/1.webp",
-      "/images/samples/table/6.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 258,
-    "discountedPrice": 231.27,
+    "price": 180,
+    "discountedPrice": 168.39,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -118,16 +143,20 @@
   {
     "id": "p008",
     "title": "Accent Chair #8",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/3.webp",
       "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
-      "/images/samples/chair/6.webp"
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 208,
+    "price": 282,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -135,15 +164,18 @@
   {
     "id": "p009",
     "title": "Platform Bed #9",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
-      "/images/samples/bed/4.webp",
       "/images/samples/bed/1.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 305,
-    "discountedPrice": 244.31,
+    "price": 286,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -151,15 +183,19 @@
   {
     "id": "p010",
     "title": "Modern Sofa #10",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/1.webp",
       "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/8.webp"
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 274,
+    "price": 288,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -167,50 +203,61 @@
   {
     "id": "p011",
     "title": "Area Carpet #11",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 311,
-    "discountedPrice": 290.5,
+    "price": 332,
+    "discountedPrice": 283.58,
     "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
+    "isOnWishList": true,
+    "isNew": true
   },
   {
     "id": "p012",
     "title": "Floor Lamp #12",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/3.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 363,
-    "discountedPrice": 309.48,
+    "price": 331,
+    "discountedPrice": 311.79,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p013",
     "title": "Dining Table #13",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 367,
-    "discountedPrice": 335.72,
+    "price": 388,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -218,66 +265,80 @@
   {
     "id": "p014",
     "title": "Accent Chair #14",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 326,
-    "discountedPrice": 288.54,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p015",
-    "title": "Platform Bed #15",
-    "description": "Minimalist bed frame with slats.",
-    "images": [
-      "/images/samples/bed/3.webp",
-      "/images/samples/bed/1.webp",
-      "/images/samples/bed/4.webp"
-    ],
-    "category": "bed",
-    "price": 378,
-    "discountedPrice": 345.49,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p016",
-    "title": "Modern Sofa #16",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/6.webp",
-      "/images/samples/sofa/5.webp"
-    ],
-    "category": "sofa",
-    "price": 353,
+    "price": 360,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": true
   },
   {
+    "id": "p015",
+    "title": "Platform Bed #15",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
+    "category": "bed",
+    "price": 397,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p016",
+    "title": "Modern Sofa #16",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/9.webp"
+    ],
+    "category": "sofa",
+    "price": 360,
+    "currency": "PLN",
+    "isOnWishList": true,
+    "isNew": true
+  },
+  {
     "id": "p017",
     "title": "Area Carpet #17",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 379,
+    "price": 406,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -285,30 +346,38 @@
   {
     "id": "p018",
     "title": "Floor Lamp #18",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 466,
+    "price": 447,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p019",
     "title": "Dining Table #19",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/6.webp",
-      "/images/samples/table/3.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 473,
+    "price": 412,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -316,31 +385,39 @@
   {
     "id": "p020",
     "title": "Accent Chair #20",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 447,
+    "price": 442,
     "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
+    "isOnWishList": true,
+    "isNew": false
   },
   {
     "id": "p021",
     "title": "Platform Bed #21",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
       "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/2.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 503,
+    "price": 481,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -348,32 +425,40 @@
   {
     "id": "p022",
     "title": "Modern Sofa #22",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/1.webp"
     ],
     "category": "sofa",
-    "price": 492,
+    "price": 513,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p023",
     "title": "Area Carpet #23",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/6.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/2.jpg"
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 547,
+    "price": 512,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -381,14 +466,18 @@
   {
     "id": "p024",
     "title": "Floor Lamp #24",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 535,
+    "price": 534,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -396,16 +485,19 @@
   {
     "id": "p025",
     "title": "Dining Table #25",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/4.webp",
       "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 583,
-    "discountedPrice": 510.16,
+    "price": 546,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -413,31 +505,39 @@
   {
     "id": "p026",
     "title": "Accent Chair #26",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/4.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/5.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 606,
+    "price": 578,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p027",
     "title": "Platform Bed #27",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
-      "/images/samples/bed/4.webp",
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 639,
+    "price": 618,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -445,33 +545,40 @@
   {
     "id": "p028",
     "title": "Modern Sofa #28",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/3.webp",
       "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/9.webp"
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp"
     ],
     "category": "sofa",
-    "price": 630,
-    "discountedPrice": 504.82,
+    "price": 613,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p029",
     "title": "Area Carpet #29",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 708,
+    "price": 675,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": true
@@ -479,31 +586,38 @@
   {
     "id": "p030",
     "title": "Floor Lamp #30",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 697,
+    "price": 699,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p031",
     "title": "Dining Table #31",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/5.webp",
-      "/images/samples/table/3.webp",
       "/images/samples/table/1.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 679,
-    "discountedPrice": 638.63,
+    "price": 686,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -511,32 +625,40 @@
   {
     "id": "p032",
     "title": "Accent Chair #32",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 726,
+    "price": 753,
+    "discountedPrice": 679.42,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p033",
     "title": "Platform Bed #33",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/4.webp"
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 752,
-    "discountedPrice": 618,
+    "price": 713,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -544,15 +666,20 @@
   {
     "id": "p034",
     "title": "Modern Sofa #34",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/1.webp",
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/8.webp"
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 726,
+    "price": 758,
+    "discountedPrice": 712.67,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -560,17 +687,20 @@
   {
     "id": "p035",
     "title": "Area Carpet #35",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 814,
-    "discountedPrice": 655.52,
+    "price": 768,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -578,15 +708,18 @@
   {
     "id": "p036",
     "title": "Floor Lamp #36",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 847,
-    "discountedPrice": 682.4,
+    "price": 817,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -594,47 +727,61 @@
   {
     "id": "p037",
     "title": "Dining Table #37",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 806,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p038",
-    "title": "Accent Chair #38",
-    "description": "Comfortable chair with padded seat.",
-    "images": [
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/5.webp",
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/7.webp"
-    ],
-    "category": "chair",
-    "price": 805,
+    "price": 838,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
   },
   {
+    "id": "p038",
+    "title": "Accent Chair #38",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
+    "category": "chair",
+    "price": 834,
+    "discountedPrice": 741.49,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": true
+  },
+  {
     "id": "p039",
     "title": "Platform Bed #39",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
-      "/images/samples/bed/6.webp",
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
-      "/images/samples/bed/1.webp"
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 851,
+    "price": 864,
+    "discountedPrice": 778.94,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -642,15 +789,20 @@
   {
     "id": "p040",
     "title": "Modern Sofa #40",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/8.webp",
       "/images/samples/sofa/6.webp",
       "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp"
     ],
     "category": "sofa",
-    "price": 880,
+    "price": 914,
+    "discountedPrice": 769.95,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -658,16 +810,21 @@
   {
     "id": "p041",
     "title": "Area Carpet #41",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 928,
+    "price": 922,
+    "discountedPrice": 792.2,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -675,15 +832,18 @@
   {
     "id": "p042",
     "title": "Floor Lamp #42",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/6.webp"
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 958,
-    "discountedPrice": 909.27,
+    "price": 931,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -691,15 +851,19 @@
   {
     "id": "p043",
     "title": "Dining Table #43",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/3.webp",
       "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 943,
+    "price": 895,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -707,32 +871,40 @@
   {
     "id": "p044",
     "title": "Accent Chair #44",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/5.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 999,
+    "price": 922,
+    "discountedPrice": 873.09,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p045",
     "title": "Platform Bed #45",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 960,
-    "discountedPrice": 848.16,
+    "price": 942,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -740,49 +912,60 @@
   {
     "id": "p046",
     "title": "Modern Sofa #46",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/1.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/9.webp"
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 1008,
-    "discountedPrice": 820.83,
+    "price": 968,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p047",
+    "title": "Area Carpet #47",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 1021,
+    "discountedPrice": 824.92,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": true
   },
   {
-    "id": "p047",
-    "title": "Area Carpet #47",
-    "description": "Soft woven carpet, easy to clean.",
-    "images": [
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp"
-    ],
-    "category": "carpet",
-    "price": 1065,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
     "id": "p048",
     "title": "Floor Lamp #48",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
       "/images/samples/lamp/6.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/3.webp"
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 1045,
-    "discountedPrice": 894.49,
+    "price": 1068,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -790,15 +973,19 @@
   {
     "id": "p049",
     "title": "Dining Table #49",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/3.webp",
-      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 1070,
+    "price": 1096,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -806,16 +993,21 @@
   {
     "id": "p050",
     "title": "Accent Chair #50",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/3.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 1124,
+    "price": 1066,
+    "discountedPrice": 991.72,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -823,14 +1015,18 @@
   {
     "id": "p051",
     "title": "Platform Bed #51",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
-      "/images/samples/bed/3.webp",
       "/images/samples/bed/1.webp",
-      "/images/samples/bed/2.webp"
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 88,
+    "price": 136,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -838,15 +1034,19 @@
   {
     "id": "p052",
     "title": "Modern Sofa #52",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/4.webp"
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/8.webp"
     ],
     "category": "sofa",
-    "price": 164,
+    "price": 130,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -854,17 +1054,21 @@
   {
     "id": "p053",
     "title": "Area Carpet #53",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/4.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 95,
-    "discountedPrice": 77.13,
+    "price": 166,
+    "discountedPrice": 138.29,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -872,11 +1076,987 @@
   {
     "id": "p054",
     "title": "Floor Lamp #54",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 116,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p055",
+    "title": "Dining Table #55",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 162,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p056",
+    "title": "Accent Chair #56",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
+    "category": "chair",
+    "price": 247,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p057",
+    "title": "Platform Bed #57",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
+    "category": "bed",
+    "price": 195,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p058",
+    "title": "Modern Sofa #58",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp"
+    ],
+    "category": "sofa",
+    "price": 235,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p059",
+    "title": "Area Carpet #59",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 248,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p060",
+    "title": "Floor Lamp #60",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 286,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p061",
+    "title": "Dining Table #61",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 307,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p062",
+    "title": "Accent Chair #62",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
+    "category": "chair",
+    "price": 367,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p063",
+    "title": "Platform Bed #63",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
+    "category": "bed",
+    "price": 309,
+    "discountedPrice": 272.51,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p064",
+    "title": "Modern Sofa #64",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/4.webp"
+    ],
+    "category": "sofa",
+    "price": 314,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p065",
+    "title": "Area Carpet #65",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 361,
+    "discountedPrice": 294.27,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p066",
+    "title": "Floor Lamp #66",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 411,
+    "currency": "PLN",
+    "isOnWishList": true,
+    "isNew": false
+  },
+  {
+    "id": "p067",
+    "title": "Dining Table #67",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 452,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p068",
+    "title": "Accent Chair #68",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
+    "category": "chair",
+    "price": 447,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p069",
+    "title": "Platform Bed #69",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
+    "category": "bed",
+    "price": 504,
+    "discountedPrice": 415.92,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p070",
+    "title": "Modern Sofa #70",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/3.webp"
+    ],
+    "category": "sofa",
+    "price": 452,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p071",
+    "title": "Area Carpet #71",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 461,
+    "discountedPrice": 401.36,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p072",
+    "title": "Floor Lamp #72",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 534,
+    "currency": "PLN",
+    "isOnWishList": true,
+    "isNew": false
+  },
+  {
+    "id": "p073",
+    "title": "Dining Table #73",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 562,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p074",
+    "title": "Accent Chair #74",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
+    "category": "chair",
+    "price": 521,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p075",
+    "title": "Platform Bed #75",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
+    "category": "bed",
+    "price": 594,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p076",
+    "title": "Modern Sofa #76",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp"
+    ],
+    "category": "sofa",
+    "price": 602,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p077",
+    "title": "Area Carpet #77",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 643,
+    "currency": "PLN",
+    "isOnWishList": true,
+    "isNew": false
+  },
+  {
+    "id": "p078",
+    "title": "Floor Lamp #78",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 626,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p079",
+    "title": "Dining Table #79",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 622,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p080",
+    "title": "Accent Chair #80",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
+    "category": "chair",
+    "price": 656,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p081",
+    "title": "Platform Bed #81",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
+    "category": "bed",
+    "price": 741,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p082",
+    "title": "Modern Sofa #82",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/8.webp"
+    ],
+    "category": "sofa",
+    "price": 736,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": true
+  },
+  {
+    "id": "p083",
+    "title": "Area Carpet #83",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 745,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p084",
+    "title": "Floor Lamp #84",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 747,
+    "discountedPrice": 668.49,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p085",
+    "title": "Dining Table #85",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 759,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p086",
+    "title": "Accent Chair #86",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
+    "category": "chair",
+    "price": 849,
+    "discountedPrice": 737.44,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p087",
+    "title": "Platform Bed #87",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
+    "category": "bed",
+    "price": 840,
+    "discountedPrice": 691.63,
+    "currency": "PLN",
+    "isOnWishList": true,
+    "isNew": false
+  },
+  {
+    "id": "p088",
+    "title": "Modern Sofa #88",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/6.webp"
+    ],
+    "category": "sofa",
+    "price": 801,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p089",
+    "title": "Area Carpet #89",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 905,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p090",
+    "title": "Floor Lamp #90",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 863,
+    "discountedPrice": 696.94,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p091",
+    "title": "Dining Table #91",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 910,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p092",
+    "title": "Accent Chair #92",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
+    "category": "chair",
+    "price": 910,
+    "discountedPrice": 810.73,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p093",
+    "title": "Platform Bed #93",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
+    "category": "bed",
+    "price": 904,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p094",
+    "title": "Modern Sofa #94",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/6.webp"
+    ],
+    "category": "sofa",
+    "price": 945,
+    "currency": "PLN",
+    "isOnWishList": true,
+    "isNew": false
+  },
+  {
+    "id": "p095",
+    "title": "Area Carpet #95",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 1014,
+    "discountedPrice": 947.93,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p096",
+    "title": "Floor Lamp #96",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 1045,
+    "discountedPrice": 849.55,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p097",
+    "title": "Dining Table #97",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
+    "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
+    ],
+    "category": "table",
+    "price": 994,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p098",
+    "title": "Accent Chair #98",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
+    "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
+    ],
+    "category": "chair",
+    "price": 1089,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p099",
+    "title": "Platform Bed #99",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
+    "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
+    ],
+    "category": "bed",
+    "price": 1066,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p100",
+    "title": "Modern Sofa #100",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/1.webp"
+    ],
+    "category": "sofa",
+    "price": 1120,
+    "discountedPrice": 956.15,
+    "currency": "PLN",
+    "isOnWishList": true,
+    "isNew": false
+  },
+  {
+    "id": "p101",
+    "title": "Area Carpet #101",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
+    "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
+    ],
+    "category": "carpet",
+    "price": 54,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
+    "id": "p102",
+    "title": "Floor Lamp #102",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
     "price": 154,
@@ -885,814 +2065,43 @@
     "isNew": false
   },
   {
-    "id": "p055",
-    "title": "Dining Table #55",
-    "description": "Sturdy table for family meals.",
+    "id": "p103",
+    "title": "Dining Table #103",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/1.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
-      "/images/samples/table/3.webp"
-    ],
-    "category": "table",
-    "price": 161,
-    "discountedPrice": 133.51,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p056",
-    "title": "Accent Chair #56",
-    "description": "Comfortable chair with padded seat.",
-    "images": [
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/5.webp"
-    ],
-    "category": "chair",
-    "price": 202,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p057",
-    "title": "Platform Bed #57",
-    "description": "Minimalist bed frame with slats.",
-    "images": [
-      "/images/samples/bed/5.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/4.webp"
-    ],
-    "category": "bed",
-    "price": 257,
-    "discountedPrice": 238.21,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p058",
-    "title": "Modern Sofa #58",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/5.webp",
-      "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/10.webp",
-      "/images/samples/sofa/7.webp"
-    ],
-    "category": "sofa",
-    "price": 232,
-    "discountedPrice": 206.17,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
-  },
-  {
-    "id": "p059",
-    "title": "Area Carpet #59",
-    "description": "Soft woven carpet, easy to clean.",
-    "images": [
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/5.webp"
-    ],
-    "category": "carpet",
-    "price": 307,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p060",
-    "title": "Floor Lamp #60",
-    "description": "Adjustable lamp with linen shade.",
-    "images": [
-      "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/2.webp",
-      "/images/samples/lamp/7.webp"
-    ],
-    "category": "lamp",
-    "price": 274,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p061",
-    "title": "Dining Table #61",
-    "description": "Sturdy table for family meals.",
-    "images": [
+      "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/2.webp",
-      "/images/samples/table/5.webp",
-      "/images/samples/table/3.webp"
-    ],
-    "category": "table",
-    "price": 323,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p062",
-    "title": "Accent Chair #62",
-    "description": "Comfortable chair with padded seat.",
-    "images": [
-      "/images/samples/chair/1.webp",
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/4.webp"
-    ],
-    "category": "chair",
-    "price": 336,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p063",
-    "title": "Platform Bed #63",
-    "description": "Minimalist bed frame with slats.",
-    "images": [
-      "/images/samples/bed/4.webp",
-      "/images/samples/bed/3.webp",
-      "/images/samples/bed/6.webp"
-    ],
-    "category": "bed",
-    "price": 390,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p064",
-    "title": "Modern Sofa #64",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/5.webp",
-      "/images/samples/sofa/9.webp",
-      "/images/samples/sofa/1.webp",
-      "/images/samples/sofa/6.webp"
-    ],
-    "category": "sofa",
-    "price": 321,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p065",
-    "title": "Area Carpet #65",
-    "description": "Soft woven carpet, easy to clean.",
-    "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp"
-    ],
-    "category": "carpet",
-    "price": 362,
-    "discountedPrice": 321.86,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p066",
-    "title": "Floor Lamp #66",
-    "description": "Adjustable lamp with linen shade.",
-    "images": [
-      "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/7.webp"
-    ],
-    "category": "lamp",
-    "price": 351,
-    "discountedPrice": 332.94,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p067",
-    "title": "Dining Table #67",
-    "description": "Sturdy table for family meals.",
-    "images": [
-      "/images/samples/table/6.webp",
-      "/images/samples/table/1.webp",
-      "/images/samples/table/5.webp",
-      "/images/samples/table/3.webp"
-    ],
-    "category": "table",
-    "price": 441,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
-  },
-  {
-    "id": "p068",
-    "title": "Accent Chair #68",
-    "description": "Comfortable chair with padded seat.",
-    "images": [
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/5.webp",
-      "/images/samples/chair/1.webp",
-      "/images/samples/chair/2.webp"
-    ],
-    "category": "chair",
-    "price": 459,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p069",
-    "title": "Platform Bed #69",
-    "description": "Minimalist bed frame with slats.",
-    "images": [
-      "/images/samples/bed/1.webp",
-      "/images/samples/bed/6.webp",
-      "/images/samples/bed/7.webp"
-    ],
-    "category": "bed",
-    "price": 451,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p070",
-    "title": "Modern Sofa #70",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/6.webp",
-      "/images/samples/sofa/7.webp",
-      "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/5.webp"
-    ],
-    "category": "sofa",
-    "price": 458,
-    "discountedPrice": 376.42,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p071",
-    "title": "Area Carpet #71",
-    "description": "Soft woven carpet, easy to clean.",
-    "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/1.webp"
-    ],
-    "category": "carpet",
-    "price": 516,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p072",
-    "title": "Floor Lamp #72",
-    "description": "Adjustable lamp with linen shade.",
-    "images": [
-      "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/2.webp"
-    ],
-    "category": "lamp",
-    "price": 550,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p073",
-    "title": "Dining Table #73",
-    "description": "Sturdy table for family meals.",
-    "images": [
-      "/images/samples/table/5.webp",
-      "/images/samples/table/1.webp",
-      "/images/samples/table/4.webp",
-      "/images/samples/table/6.webp"
-    ],
-    "category": "table",
-    "price": 574,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p074",
-    "title": "Accent Chair #74",
-    "description": "Comfortable chair with padded seat.",
-    "images": [
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/5.webp",
-      "/images/samples/chair/1.webp",
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/2.webp"
-    ],
-    "category": "chair",
-    "price": 570,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p075",
-    "title": "Platform Bed #75",
-    "description": "Minimalist bed frame with slats.",
-    "images": [
-      "/images/samples/bed/1.webp",
-      "/images/samples/bed/2.webp",
-      "/images/samples/bed/5.webp"
-    ],
-    "category": "bed",
-    "price": 549,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p076",
-    "title": "Modern Sofa #76",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/7.webp",
-      "/images/samples/sofa/9.webp",
-      "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/2.webp"
-    ],
-    "category": "sofa",
-    "price": 619,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p077",
-    "title": "Area Carpet #77",
-    "description": "Soft woven carpet, easy to clean.",
-    "images": [
-      "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp"
-    ],
-    "category": "carpet",
-    "price": 664,
-    "discountedPrice": 578.44,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p078",
-    "title": "Floor Lamp #78",
-    "description": "Adjustable lamp with linen shade.",
-    "images": [
-      "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/7.webp"
-    ],
-    "category": "lamp",
-    "price": 672,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
-  },
-  {
-    "id": "p079",
-    "title": "Dining Table #79",
-    "description": "Sturdy table for family meals.",
-    "images": [
-      "/images/samples/table/4.webp",
-      "/images/samples/table/5.webp",
       "/images/samples/table/1.webp",
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 663,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p080",
-    "title": "Accent Chair #80",
-    "description": "Comfortable chair with padded seat.",
-    "images": [
-      "/images/samples/chair/5.webp",
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/1.webp"
-    ],
-    "category": "chair",
-    "price": 670,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p081",
-    "title": "Platform Bed #81",
-    "description": "Minimalist bed frame with slats.",
-    "images": [
-      "/images/samples/bed/6.webp",
-      "/images/samples/bed/5.webp",
-      "/images/samples/bed/3.webp"
-    ],
-    "category": "bed",
-    "price": 662,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p082",
-    "title": "Modern Sofa #82",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/5.webp",
-      "/images/samples/sofa/6.webp",
-      "/images/samples/sofa/10.webp"
-    ],
-    "category": "sofa",
-    "price": 683,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p083",
-    "title": "Area Carpet #83",
-    "description": "Soft woven carpet, easy to clean.",
-    "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp"
-    ],
-    "category": "carpet",
-    "price": 709,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p084",
-    "title": "Floor Lamp #84",
-    "description": "Adjustable lamp with linen shade.",
-    "images": [
-      "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/2.webp",
-      "/images/samples/lamp/6.webp"
-    ],
-    "category": "lamp",
-    "price": 784,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p085",
-    "title": "Dining Table #85",
-    "description": "Sturdy table for family meals.",
-    "images": [
-      "/images/samples/table/4.webp",
-      "/images/samples/table/3.webp",
-      "/images/samples/table/5.webp",
-      "/images/samples/table/1.webp"
-    ],
-    "category": "table",
-    "price": 798,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p086",
-    "title": "Accent Chair #86",
-    "description": "Comfortable chair with padded seat.",
-    "images": [
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/4.webp",
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/1.webp",
-      "/images/samples/chair/2.webp"
-    ],
-    "category": "chair",
-    "price": 820,
+    "price": 155,
+    "discountedPrice": 141.24,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": true
-  },
-  {
-    "id": "p087",
-    "title": "Platform Bed #87",
-    "description": "Minimalist bed frame with slats.",
-    "images": [
-      "/images/samples/bed/4.webp",
-      "/images/samples/bed/1.webp",
-      "/images/samples/bed/6.webp"
-    ],
-    "category": "bed",
-    "price": 802,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p088",
-    "title": "Modern Sofa #88",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/1.webp",
-      "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/5.webp"
-    ],
-    "category": "sofa",
-    "price": 811,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p089",
-    "title": "Area Carpet #89",
-    "description": "Soft woven carpet, easy to clean.",
-    "images": [
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/6.webp"
-    ],
-    "category": "carpet",
-    "price": 874,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p090",
-    "title": "Floor Lamp #90",
-    "description": "Adjustable lamp with linen shade.",
-    "images": [
-      "/images/samples/lamp/6.webp",
-      "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/2.webp"
-    ],
-    "category": "lamp",
-    "price": 886,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p091",
-    "title": "Dining Table #91",
-    "description": "Sturdy table for family meals.",
-    "images": [
-      "/images/samples/table/3.webp",
-      "/images/samples/table/6.webp",
-      "/images/samples/table/2.webp",
-      "/images/samples/table/1.webp"
-    ],
-    "category": "table",
-    "price": 911,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p092",
-    "title": "Accent Chair #92",
-    "description": "Comfortable chair with padded seat.",
-    "images": [
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/1.webp",
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/5.webp"
-    ],
-    "category": "chair",
-    "price": 922,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p093",
-    "title": "Platform Bed #93",
-    "description": "Minimalist bed frame with slats.",
-    "images": [
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/4.webp",
-      "/images/samples/bed/6.webp"
-    ],
-    "category": "bed",
-    "price": 925,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
-  },
-  {
-    "id": "p094",
-    "title": "Modern Sofa #94",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/9.webp",
-      "/images/samples/sofa/5.webp",
-      "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/1.webp"
-    ],
-    "category": "sofa",
-    "price": 955,
-    "discountedPrice": 842.39,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p095",
-    "title": "Area Carpet #95",
-    "description": "Soft woven carpet, easy to clean.",
-    "images": [
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/1.webp"
-    ],
-    "category": "carpet",
-    "price": 979,
-    "discountedPrice": 792.01,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p096",
-    "title": "Floor Lamp #96",
-    "description": "Adjustable lamp with linen shade.",
-    "images": [
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/2.webp",
-      "/images/samples/lamp/3.webp"
-    ],
-    "category": "lamp",
-    "price": 1017,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": true
-  },
-  {
-    "id": "p097",
-    "title": "Dining Table #97",
-    "description": "Sturdy table for family meals.",
-    "images": [
-      "/images/samples/table/5.webp",
-      "/images/samples/table/1.webp",
-      "/images/samples/table/4.webp",
-      "/images/samples/table/3.webp"
-    ],
-    "category": "table",
-    "price": 1039,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p098",
-    "title": "Accent Chair #98",
-    "description": "Comfortable chair with padded seat.",
-    "images": [
-      "/images/samples/chair/5.webp",
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/1.webp",
-      "/images/samples/chair/4.webp"
-    ],
-    "category": "chair",
-    "price": 1002,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p099",
-    "title": "Platform Bed #99",
-    "description": "Minimalist bed frame with slats.",
-    "images": [
-      "/images/samples/bed/1.webp",
-      "/images/samples/bed/4.webp",
-      "/images/samples/bed/3.webp"
-    ],
-    "category": "bed",
-    "price": 1014,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p100",
-    "title": "Modern Sofa #100",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/7.webp",
-      "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/5.webp"
-    ],
-    "category": "sofa",
-    "price": 1112,
-    "discountedPrice": 994.52,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p101",
-    "title": "Area Carpet #101",
-    "description": "Soft woven carpet, easy to clean.",
-    "images": [
-      "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/6.webp"
-    ],
-    "category": "carpet",
-    "price": 115,
-    "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
-  },
-  {
-    "id": "p102",
-    "title": "Floor Lamp #102",
-    "description": "Adjustable lamp with linen shade.",
-    "images": [
-      "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/4.webp"
-    ],
-    "category": "lamp",
-    "price": 83,
-    "discountedPrice": 72.59,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p103",
-    "title": "Dining Table #103",
-    "description": "Sturdy table for family meals.",
-    "images": [
-      "/images/samples/table/2.webp",
-      "/images/samples/table/4.webp",
-      "/images/samples/table/6.webp",
-      "/images/samples/table/5.webp"
-    ],
-    "category": "table",
-    "price": 126,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
   },
   {
     "id": "p104",
     "title": "Accent Chair #104",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 178,
-    "discountedPrice": 151.31,
+    "price": 156,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1700,14 +2109,19 @@
   {
     "id": "p105",
     "title": "Platform Bed #105",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 173,
+    "price": 160,
+    "discountedPrice": 136.04,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1715,33 +2129,41 @@
   {
     "id": "p106",
     "title": "Modern Sofa #106",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/5.webp",
-      "/images/samples/sofa/10.webp"
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 182,
-    "discountedPrice": 146.67,
+    "price": 157,
+    "discountedPrice": 130.68,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p107",
     "title": "Area Carpet #107",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 189,
+    "price": 226,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1749,15 +2171,18 @@
   {
     "id": "p108",
     "title": "Floor Lamp #108",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
       "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 192,
-    "discountedPrice": 166.96,
+    "price": 278,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1765,15 +2190,19 @@
   {
     "id": "p109",
     "title": "Dining Table #109",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
       "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 242,
+    "price": 234,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1781,31 +2210,39 @@
   {
     "id": "p110",
     "title": "Accent Chair #110",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/5.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 310,
+    "price": 278,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p111",
     "title": "Platform Bed #111",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 345,
+    "price": 257,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1813,15 +2250,19 @@
   {
     "id": "p112",
     "title": "Modern Sofa #112",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/6.webp",
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/7.webp"
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/4.webp"
     ],
     "category": "sofa",
-    "price": 322,
+    "price": 340,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1829,17 +2270,21 @@
   {
     "id": "p113",
     "title": "Area Carpet #113",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 356,
-    "discountedPrice": 309.25,
+    "price": 297,
+    "discountedPrice": 275.68,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1847,14 +2292,18 @@
   {
     "id": "p114",
     "title": "Floor Lamp #114",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/1.webp",
       "/images/samples/lamp/2.webp",
-      "/images/samples/lamp/3.webp"
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 352,
+    "price": 405,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1862,15 +2311,19 @@
   {
     "id": "p115",
     "title": "Dining Table #115",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/4.webp",
       "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 342,
+    "price": 359,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1878,17 +2331,20 @@
   {
     "id": "p116",
     "title": "Accent Chair #116",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
-      "/images/samples/chair/5.webp",
-      "/images/samples/chair/7.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 391,
-    "discountedPrice": 352.28,
+    "price": 447,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1896,31 +2352,39 @@
   {
     "id": "p117",
     "title": "Platform Bed #117",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 434,
+    "price": 374,
+    "discountedPrice": 335.34,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p118",
     "title": "Modern Sofa #118",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/10.webp",
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/6.webp",
-      "/images/samples/sofa/9.webp"
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/1.webp"
     ],
     "category": "sofa",
-    "price": 479,
-    "discountedPrice": 447.74,
+    "price": 398,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1928,16 +2392,21 @@
   {
     "id": "p119",
     "title": "Area Carpet #119",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
     "price": 478,
+    "discountedPrice": 400.3,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1945,14 +2414,19 @@
   {
     "id": "p120",
     "title": "Floor Lamp #120",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/4.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 437,
+    "price": 473,
+    "discountedPrice": 403.52,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1960,32 +2434,41 @@
   {
     "id": "p121",
     "title": "Dining Table #121",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
       "/images/samples/table/1.webp",
-      "/images/samples/table/3.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 528,
+    "price": 475,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p122",
     "title": "Accent Chair #122",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/3.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 546,
+    "price": 508,
+    "discountedPrice": 435.37,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -1993,14 +2476,19 @@
   {
     "id": "p123",
     "title": "Platform Bed #123",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/5.webp"
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 568,
+    "price": 507,
+    "discountedPrice": 469.77,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2008,15 +2496,19 @@
   {
     "id": "p124",
     "title": "Modern Sofa #124",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/1.webp"
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 570,
+    "price": 600,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2024,32 +2516,40 @@
   {
     "id": "p125",
     "title": "Area Carpet #125",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 622,
-    "discountedPrice": 537.27,
+    "price": 530,
+    "discountedPrice": 487.58,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p126",
     "title": "Floor Lamp #126",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/5.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/2.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 608,
+    "price": 616,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2057,32 +2557,40 @@
   {
     "id": "p127",
     "title": "Dining Table #127",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/5.webp",
-      "/images/samples/table/4.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 600,
+    "price": 642,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p128",
     "title": "Accent Chair #128",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 615,
+    "price": 674,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2090,14 +2598,18 @@
   {
     "id": "p129",
     "title": "Platform Bed #129",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 642,
+    "price": 661,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2105,15 +2617,19 @@
   {
     "id": "p130",
     "title": "Modern Sofa #130",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/1.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 702,
+    "price": 642,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2121,16 +2637,20 @@
   {
     "id": "p131",
     "title": "Area Carpet #131",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 720,
+    "price": 664,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2138,15 +2658,18 @@
   {
     "id": "p132",
     "title": "Floor Lamp #132",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
       "/images/samples/lamp/6.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 719,
-    "discountedPrice": 575.59,
+    "price": 746,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2154,80 +2677,100 @@
   {
     "id": "p133",
     "title": "Dining Table #133",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 740,
+    "price": 694,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": false
+    "isNew": true
   },
   {
     "id": "p134",
     "title": "Accent Chair #134",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/2.webp",
       "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 765,
+    "price": 723,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p135",
     "title": "Platform Bed #135",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
-      "/images/samples/bed/7.webp",
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 743,
+    "price": 805,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p136",
     "title": "Modern Sofa #136",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/8.webp"
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 771,
+    "price": 782,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p137",
     "title": "Area Carpet #137",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/4.webp"
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 861,
+    "price": 781,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2235,15 +2778,19 @@
   {
     "id": "p138",
     "title": "Floor Lamp #138",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
       "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/6.webp"
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 798,
-    "discountedPrice": 646.59,
+    "price": 817,
+    "discountedPrice": 673.97,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2251,32 +2798,40 @@
   {
     "id": "p139",
     "title": "Dining Table #139",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
-      "/images/samples/table/6.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 860,
+    "price": 854,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p140",
     "title": "Accent Chair #140",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 835,
+    "price": 899,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2284,30 +2839,38 @@
   {
     "id": "p141",
     "title": "Platform Bed #141",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
       "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
-      "/images/samples/bed/1.webp"
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 880,
+    "price": 858,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p142",
     "title": "Modern Sofa #142",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/10.webp",
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/5.webp"
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/7.webp"
     ],
     "category": "sofa",
-    "price": 937,
+    "price": 891,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2315,48 +2878,59 @@
   {
     "id": "p143",
     "title": "Area Carpet #143",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 983,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p144",
-    "title": "Floor Lamp #144",
-    "description": "Adjustable lamp with linen shade.",
-    "images": [
-      "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/5.webp",
-      "/images/samples/lamp/1.webp"
-    ],
-    "category": "lamp",
-    "price": 939,
-    "discountedPrice": 790.77,
+    "price": 982,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": true
   },
   {
+    "id": "p144",
+    "title": "Floor Lamp #144",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
+    "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
+    ],
+    "category": "lamp",
+    "price": 973,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
     "id": "p145",
     "title": "Dining Table #145",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/4.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 985,
+    "price": 1028,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2364,16 +2938,20 @@
   {
     "id": "p146",
     "title": "Accent Chair #146",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
       "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
-      "/images/samples/chair/6.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 961,
+    "price": 1031,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2381,14 +2959,18 @@
   {
     "id": "p147",
     "title": "Platform Bed #147",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
-      "/images/samples/bed/7.webp",
-      "/images/samples/bed/5.webp"
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 1064,
+    "price": 1052,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": true
@@ -2396,16 +2978,19 @@
   {
     "id": "p148",
     "title": "Modern Sofa #148",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/1.webp",
       "/images/samples/sofa/3.webp",
-      "/images/samples/sofa/10.webp"
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp"
     ],
     "category": "sofa",
-    "price": 1038,
-    "discountedPrice": 894.64,
+    "price": 1089,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2413,16 +2998,20 @@
   {
     "id": "p149",
     "title": "Area Carpet #149",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 1038,
+    "price": 1027,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2430,15 +3019,18 @@
   {
     "id": "p150",
     "title": "Floor Lamp #150",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/6.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 1117,
-    "discountedPrice": 1022.85,
+    "price": 1128,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2446,15 +3038,19 @@
   {
     "id": "p151",
     "title": "Dining Table #151",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/5.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 142,
+    "price": 105,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2462,32 +3058,40 @@
   {
     "id": "p152",
     "title": "Accent Chair #152",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/5.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/4.webp"
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 149,
+    "price": 133,
+    "discountedPrice": 121.78,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p153",
     "title": "Platform Bed #153",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 140,
-    "discountedPrice": 116.77,
+    "price": 130,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2495,32 +3099,42 @@
   {
     "id": "p154",
     "title": "Modern Sofa #154",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/8.webp",
-      "/images/samples/sofa/6.webp"
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 183,
+    "price": 171,
+    "discountedPrice": 162.17,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p155",
     "title": "Area Carpet #155",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/2.jpg"
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 135,
+    "price": 172,
+    "discountedPrice": 150.02,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2528,14 +3142,18 @@
   {
     "id": "p156",
     "title": "Floor Lamp #156",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/7.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 192,
+    "price": 215,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2543,15 +3161,19 @@
   {
     "id": "p157",
     "title": "Dining Table #157",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 242,
+    "price": 222,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2559,16 +3181,20 @@
   {
     "id": "p158",
     "title": "Accent Chair #158",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/6.webp",
       "/images/samples/chair/1.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 208,
+    "price": 211,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2576,14 +3202,18 @@
   {
     "id": "p159",
     "title": "Platform Bed #159",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
       "/images/samples/bed/3.webp",
-      "/images/samples/bed/4.webp"
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 255,
+    "price": 215,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2591,16 +3221,19 @@
   {
     "id": "p160",
     "title": "Modern Sofa #160",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/8.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/1.webp"
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/3.webp"
     ],
     "category": "sofa",
-    "price": 251,
-    "discountedPrice": 206.15,
+    "price": 276,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2608,16 +3241,21 @@
   {
     "id": "p161",
     "title": "Area Carpet #161",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/1.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 336,
+    "price": 341,
+    "discountedPrice": 294.02,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2625,30 +3263,39 @@
   {
     "id": "p162",
     "title": "Floor Lamp #162",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/7.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/4.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 333,
+    "price": 325,
+    "discountedPrice": 264.77,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p163",
     "title": "Dining Table #163",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/3.webp",
-      "/images/samples/table/5.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 302,
+    "price": 310,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2656,17 +3303,21 @@
   {
     "id": "p164",
     "title": "Accent Chair #164",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/3.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 395,
-    "discountedPrice": 360.67,
+    "price": 340,
+    "discountedPrice": 310.06,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2674,14 +3325,18 @@
   {
     "id": "p165",
     "title": "Platform Bed #165",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
-      "/images/samples/bed/7.webp",
       "/images/samples/bed/1.webp",
-      "/images/samples/bed/3.webp"
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 367,
+    "price": 403,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2689,15 +3344,19 @@
   {
     "id": "p166",
     "title": "Modern Sofa #166",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/6.webp",
-      "/images/samples/sofa/4.webp"
+      "/images/samples/sofa/4.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/5.webp"
     ],
     "category": "sofa",
-    "price": 381,
+    "price": 411,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2705,16 +3364,20 @@
   {
     "id": "p167",
     "title": "Area Carpet #167",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 463,
+    "price": 452,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2722,14 +3385,18 @@
   {
     "id": "p168",
     "title": "Floor Lamp #168",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
+      "/images/samples/lamp/1.webp",
       "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
-      "/images/samples/lamp/5.webp"
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 410,
+    "price": 472,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2737,15 +3404,19 @@
   {
     "id": "p169",
     "title": "Dining Table #169",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
-      "/images/samples/table/2.webp",
       "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 471,
+    "price": 415,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2753,16 +3424,21 @@
   {
     "id": "p170",
     "title": "Accent Chair #170",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
-      "/images/samples/chair/7.webp",
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/5.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 492,
+    "price": 519,
+    "discountedPrice": 460.67,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2770,48 +3446,59 @@
   {
     "id": "p171",
     "title": "Platform Bed #171",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 544,
-    "discountedPrice": 515,
-    "currency": "PLN",
-    "isOnWishList": false,
-    "isNew": false
-  },
-  {
-    "id": "p172",
-    "title": "Modern Sofa #172",
-    "description": "3-seater sofa with deep cushions.",
-    "images": [
-      "/images/samples/sofa/7.webp",
-      "/images/samples/sofa/5.webp",
-      "/images/samples/sofa/2.webp",
-      "/images/samples/sofa/9.webp"
-    ],
-    "category": "sofa",
-    "price": 557,
+    "price": 504,
     "currency": "PLN",
     "isOnWishList": true,
     "isNew": false
   },
   {
+    "id": "p172",
+    "title": "Modern Sofa #172",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
+    "images": [
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/8.webp"
+    ],
+    "category": "sofa",
+    "price": 472,
+    "currency": "PLN",
+    "isOnWishList": false,
+    "isNew": false
+  },
+  {
     "id": "p173",
     "title": "Area Carpet #173",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 528,
+    "price": 525,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2819,30 +3506,38 @@
   {
     "id": "p174",
     "title": "Floor Lamp #174",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
       "/images/samples/lamp/6.webp",
-      "/images/samples/lamp/5.webp"
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 526,
+    "price": 524,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p175",
     "title": "Dining Table #175",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
+      "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
-      "/images/samples/table/1.webp"
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 596,
+    "price": 541,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2850,48 +3545,59 @@
   {
     "id": "p176",
     "title": "Accent Chair #176",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/2.webp",
-      "/images/samples/chair/6.webp",
       "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
-      "/images/samples/chair/3.webp"
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 644,
+    "price": 601,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p177",
     "title": "Platform Bed #177",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
       "/images/samples/bed/4.webp",
       "/images/samples/bed/5.webp",
-      "/images/samples/bed/6.webp"
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 598,
-    "discountedPrice": 552.85,
+    "price": 669,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p178",
     "title": "Modern Sofa #178",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/7.webp",
-      "/images/samples/sofa/9.webp"
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/10.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 675,
+    "price": 683,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": true
@@ -2899,48 +3605,59 @@
   {
     "id": "p179",
     "title": "Area Carpet #179",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
       "/images/samples/carpet/1.webp",
-      "/images/samples/carpet/4.webp",
-      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp"
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 662,
+    "price": 678,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p180",
     "title": "Floor Lamp #180",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/7.webp",
       "/images/samples/lamp/1.webp",
-      "/images/samples/lamp/3.webp"
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 708,
-    "discountedPrice": 601.26,
+    "price": 718,
     "currency": "PLN",
     "isOnWishList": false,
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "p181",
     "title": "Dining Table #181",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
       "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
       "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 730,
+    "price": 737,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2948,31 +3665,40 @@
   {
     "id": "p182",
     "title": "Accent Chair #182",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/6.webp",
-      "/images/samples/chair/4.webp",
       "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 676,
+    "price": 718,
+    "discountedPrice": 626.62,
     "currency": "PLN",
-    "isOnWishList": false,
+    "isOnWishList": true,
     "isNew": false
   },
   {
     "id": "p183",
     "title": "Platform Bed #183",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 781,
+    "price": 739,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2980,15 +3706,20 @@
   {
     "id": "p184",
     "title": "Modern Sofa #184",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/5.webp",
       "/images/samples/sofa/9.webp",
       "/images/samples/sofa/7.webp",
-      "/images/samples/sofa/2.webp"
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/1.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/10.webp"
     ],
     "category": "sofa",
-    "price": 774,
+    "price": 748,
+    "discountedPrice": 619.08,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -2996,16 +3727,21 @@
   {
     "id": "p185",
     "title": "Area Carpet #185",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
       "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
-      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 788,
+    "price": 776,
+    "discountedPrice": 722.95,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3013,30 +3749,40 @@
   {
     "id": "p186",
     "title": "Floor Lamp #186",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
       "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/6.webp"
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 779,
+    "price": 767,
+    "discountedPrice": 622.5,
     "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p187",
     "title": "Dining Table #187",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
       "/images/samples/table/1.webp",
-      "/images/samples/table/6.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
-      "/images/samples/table/4.webp"
+      "/images/samples/table/4.webp",
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 778,
+    "price": 865,
+    "discountedPrice": 745.49,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3044,49 +3790,60 @@
   {
     "id": "p188",
     "title": "Accent Chair #188",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
-      "/images/samples/chair/5.webp",
-      "/images/samples/chair/6.webp",
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
       "/images/samples/chair/3.webp",
-      "/images/samples/chair/7.webp"
+      "/images/samples/chair/4.webp",
+      "/images/samples/chair/5.webp",
+      "/images/samples/chair/6.webp",
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 797,
-    "discountedPrice": 649.21,
+    "price": 849,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p189",
     "title": "Platform Bed #189",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
       "/images/samples/bed/1.webp",
+      "/images/samples/bed/2.webp",
+      "/images/samples/bed/3.webp",
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
       "/images/samples/bed/6.webp",
       "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 871,
+    "price": 862,
     "currency": "PLN",
-    "isOnWishList": true,
+    "isOnWishList": false,
     "isNew": false
   },
   {
     "id": "p190",
     "title": "Modern Sofa #190",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/7.webp",
       "/images/samples/sofa/8.webp",
       "/images/samples/sofa/4.webp",
-      "/images/samples/sofa/3.webp"
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/6.webp",
+      "/images/samples/sofa/9.webp",
+      "/images/samples/sofa/2.webp",
+      "/images/samples/sofa/10.webp"
     ],
     "category": "sofa",
     "price": 876,
-    "discountedPrice": 794.12,
+    "discountedPrice": 795.38,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3094,17 +3851,20 @@
   {
     "id": "p191",
     "title": "Area Carpet #191",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
       "/images/samples/carpet/1.webp",
       "/images/samples/carpet/2.jpg",
       "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
       "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/6.webp"
+      "/images/samples/carpet/6.webp",
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 870,
-    "discountedPrice": 707.37,
+    "price": 922,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3112,14 +3872,18 @@
   {
     "id": "p192",
     "title": "Floor Lamp #192",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/1.webp",
       "/images/samples/lamp/2.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/3.webp",
+      "/images/samples/lamp/4.webp",
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 941,
+    "price": 872,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3127,15 +3891,19 @@
   {
     "id": "p193",
     "title": "Dining Table #193",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
       "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
-      "/images/samples/table/2.webp",
-      "/images/samples/table/6.webp"
+      "/images/samples/table/5.webp",
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 963,
+    "price": 913,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3143,17 +3911,20 @@
   {
     "id": "p194",
     "title": "Accent Chair #194",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
+      "/images/samples/chair/1.webp",
       "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
+      "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
       "/images/samples/chair/6.webp",
-      "/images/samples/chair/3.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/7.webp",
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 960,
-    "discountedPrice": 769.69,
+    "price": 990,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3161,15 +3932,18 @@
   {
     "id": "p195",
     "title": "Platform Bed #195",
-    "description": "Minimalist bed frame with slats.",
+    "description": "A minimalist bed frame with strong wooden slats, providing excellent mattress support and durability. Its clean design ensures it fits perfectly in contemporary and classic bedrooms alike.",
     "images": [
+      "/images/samples/bed/1.webp",
       "/images/samples/bed/2.webp",
       "/images/samples/bed/3.webp",
-      "/images/samples/bed/1.webp"
+      "/images/samples/bed/4.webp",
+      "/images/samples/bed/5.webp",
+      "/images/samples/bed/6.webp",
+      "/images/samples/bed/7.webp"
     ],
     "category": "bed",
-    "price": 1010,
-    "discountedPrice": 850.57,
+    "price": 1008,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3177,34 +3951,40 @@
   {
     "id": "p196",
     "title": "Modern Sofa #196",
-    "description": "3-seater sofa with deep cushions.",
+    "description": "A spacious 3-seater sofa with deep cushions for maximum comfort. Upholstered in a soft, durable fabric that is easy to maintain, it creates the perfect spot for relaxation or gatherings.",
     "images": [
       "/images/samples/sofa/4.webp",
       "/images/samples/sofa/2.webp",
       "/images/samples/sofa/1.webp",
-      "/images/samples/sofa/5.webp"
+      "/images/samples/sofa/5.webp",
+      "/images/samples/sofa/3.webp",
+      "/images/samples/sofa/8.webp",
+      "/images/samples/sofa/7.webp",
+      "/images/samples/sofa/6.webp"
     ],
     "category": "sofa",
-    "price": 1044,
-    "discountedPrice": 983.91,
+    "price": 982,
     "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": false
+    "isOnWishList": false,
+    "isNew": true
   },
   {
     "id": "p197",
     "title": "Area Carpet #197",
-    "description": "Soft woven carpet, easy to clean.",
+    "description": "A soft woven carpet with a subtle texture, adding warmth and comfort underfoot. Easy to clean and resistant to wear, it enhances any living room or bedroom with cozy elegance.",
     "images": [
-      "/images/samples/carpet/5.webp",
-      "/images/samples/carpet/3.webp",
       "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp",
+      "/images/samples/carpet/4.webp",
+      "/images/samples/carpet/5.webp",
       "/images/samples/carpet/6.webp",
-      "/images/samples/carpet/4.webp"
+      "/images/samples/carpet/1.webp",
+      "/images/samples/carpet/2.jpg",
+      "/images/samples/carpet/3.webp"
     ],
     "category": "carpet",
-    "price": 975,
-    "discountedPrice": 911.78,
+    "price": 986,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3212,30 +3992,38 @@
   {
     "id": "p198",
     "title": "Floor Lamp #198",
-    "description": "Adjustable lamp with linen shade.",
+    "description": "An elegant adjustable lamp with a linen shade that diffuses warm, pleasant light. Perfect as a bedside companion or accent piece, adding both function and subtle charm to any room.",
     "images": [
-      "/images/samples/lamp/7.webp",
+      "/images/samples/lamp/1.webp",
+      "/images/samples/lamp/2.webp",
+      "/images/samples/lamp/3.webp",
       "/images/samples/lamp/4.webp",
-      "/images/samples/lamp/1.webp"
+      "/images/samples/lamp/5.webp",
+      "/images/samples/lamp/6.webp",
+      "/images/samples/lamp/7.webp"
     ],
     "category": "lamp",
-    "price": 1036,
+    "price": 1026,
     "currency": "PLN",
-    "isOnWishList": true,
-    "isNew": true
+    "isOnWishList": false,
+    "isNew": false
   },
   {
     "id": "p199",
     "title": "Dining Table #199",
-    "description": "Sturdy table for family meals.",
+    "description": "A sturdy dining table crafted from durable wood, designed to comfortably seat the whole family. Its timeless finish blends seamlessly into both modern and traditional interiors.",
     "images": [
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp",
+      "/images/samples/table/3.webp",
       "/images/samples/table/4.webp",
       "/images/samples/table/5.webp",
-      "/images/samples/table/2.webp",
-      "/images/samples/table/3.webp"
+      "/images/samples/table/6.webp",
+      "/images/samples/table/1.webp",
+      "/images/samples/table/2.webp"
     ],
     "category": "table",
-    "price": 1071,
+    "price": 1029,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false
@@ -3243,17 +4031,20 @@
   {
     "id": "p200",
     "title": "Accent Chair #200",
-    "description": "Comfortable chair with padded seat.",
+    "description": "A comfortable chair with a gently curved backrest and padded seat, offering ergonomic support for long hours. Its versatile design makes it ideal for dining or home office use.",
     "images": [
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp",
+      "/images/samples/chair/3.webp",
       "/images/samples/chair/4.webp",
       "/images/samples/chair/5.webp",
-      "/images/samples/chair/3.webp",
+      "/images/samples/chair/6.webp",
       "/images/samples/chair/7.webp",
-      "/images/samples/chair/1.webp"
+      "/images/samples/chair/1.webp",
+      "/images/samples/chair/2.webp"
     ],
     "category": "chair",
-    "price": 1128,
-    "discountedPrice": 1045.77,
+    "price": 1121,
     "currency": "PLN",
     "isOnWishList": false,
     "isNew": false

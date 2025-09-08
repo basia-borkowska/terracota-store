@@ -29,6 +29,11 @@
     "header": "New in",
     "description": "Discover timeless designs crafted from high-quality materials and refined in every detail. Pieces that will transform your home and make every moment special."
   },
+  "widgets": {
+    "productDetails": {
+      "addToCart": "Add to Cart"
+    }
+  },
   "atoms": {
     "discountBadge": {
       "title": "Sale"

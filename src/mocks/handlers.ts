@@ -41,4 +41,29 @@ export const handlers = [
       hasNext: end < total,
     });
   }),
+
+  // GET /api/products/:id
+  http.get('/api/products/:id', async ({ params, request }) => {
+    const { id } = params;
+    const url = new URL(request.url);
+    const lang = url.searchParams.get('lang') ?? 'en';
+
+    const short = lang.split('-')[0];
+    const tryLang = short === 'pl' ? 'pl' : 'en';
+
+    let res = await fetch(`/data/${tryLang}/products.json`);
+    if (!res.ok && tryLang !== 'en')
+      res = await fetch(`/data/en/products.json`);
+    if (!res.ok)
+      return HttpResponse.json({ error: 'Not found' }, { status: 404 });
+
+    const all = (await res.json()) as any[];
+    const product = all.find((p) => p.id === id);
+
+    if (!product) {
+      return HttpResponse.json({ error: 'Not found' }, { status: 404 });
+    }
+
+    return HttpResponse.json(product);
+  }),
 ];
