@@ -1,14 +1,16 @@
-import { useCallback } from 'react';
+import { useCallback, useMemo } from 'react';
 import { useIntersection } from '../shared/hooks/useIntersection';
 import ProductCard from './ProductCard';
 import { useInfiniteQuery } from '@tanstack/react-query';
 import { useTranslation } from 'react-i18next';
 import { fetchProductsPaginated } from '../entities/product/api';
+import { useCategoryFilter } from '../features/catalog-filters/model/useCategoryFilter';
 
 const PAGE_SIZE = 30;
 
 const ProductList = () => {
   const { i18n } = useTranslation();
+  const { selected } = useCategoryFilter();
 
   const q = useInfiniteQuery({
     queryKey: ['products', i18n.language, PAGE_SIZE],
@@ -34,14 +36,23 @@ const ProductList = () => {
     threshold: 0,
   });
 
+  // TODO move filtering to backend
+  const filteredProducts = useMemo(() => {
+    if (!products) return [];
+    return selected
+      ? products.filter((p) => p.category === selected)
+      : products;
+  }, [products, selected]);
+
   if (q.status === 'error')
     return <div className="p-6 text-red-600">Error: {String(q.error)}</div>; // TODO add better error handling
   if (q.status === 'pending') return <div className="p-6">Loading...</div>; // TODO add better loading state
 
   return (
-    <>
+    <div className="flex flex-col gap-2">
+      <span>Products ({filteredProducts.length})</span>
       <div className="grid gap-6 grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
-        {products.map((product) => (
+        {filteredProducts.map((product) => (
           <ProductCard key={product.id} product={product} />
         ))}
       </div>
@@ -58,7 +69,7 @@ const ProductList = () => {
           </button>
         </div>
       )}
-    </>
+    </div>
   );
 };
 

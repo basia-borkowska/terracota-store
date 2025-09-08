@@ -1,7 +1,24 @@
 {
+  "common": {
+    "products": "Products",
+    "home": "Home"
+  },
+  "category": {
+    "table_one": "Table",
+    "table_other": "Tables",
+    "chair_one": "Chair",
+    "chair_other": "Chairs",
+    "bed_one": "Bed",
+    "bed_other": "Beds",
+    "sofa_one": "Sofa",
+    "sofa_other": "Sofas",
+    "carpet_one": "Carpet",
+    "carpet_other": "Carpets",
+    "lamp_one": "Lamp",
+    "lamp_other": "Lamps"
+  },
   "navbar": {
     "newIn": "New In",
-    "products": "Products",
     "inspirations": "Inspirations"
   },
   "home": {

@@ -18,7 +18,7 @@ const Price = ({ price, currency, discountedPrice }: PriceProps) => {
           {formatter.format(price)}
         </span>
       )}
-      <span className="font-bold text-gray-900">
+      <span className="font-bold text-dark">
         {formatter.format(hasDiscount ? discountedPrice! : price)}
       </span>
     </div>

@@ -1,7 +1,41 @@
 {
+  "common": {
+    "products": "Produkty",
+    "home": "Home"
+  },
+  "category": {
+    "table_one": "Stół",
+    "table_few": "Stoły",
+    "table_many": "Stołów",
+    "table_other": "Stołu",
+
+    "chair_one": "Krzesło",
+    "chair_few": "Krzesła",
+    "chair_many": "Krzesł",
+    "chair_other": "Krzesła",
+
+    "bed_one": "Łóżko",
+    "bed_few": "Łóżka",
+    "bed_many": "Łóżek",
+    "bed_other": "Łóżka",
+
+    "sofa_one": "Sofa",
+    "sofa_few": "Sofy",
+    "sofa_many": "Sof",
+    "sofa_other": "Sofy",
+
+    "carpet_one": "Dywan",
+    "carpet_few": "Dywany",
+    "carpet_many": "Dywanów",
+    "carpet_other": "Dywanu",
+
+    "lamp_one": "Lampa",
+    "lamp_few": "Lampy",
+    "lamp_many": "Lamp",
+    "lamp_other": "Lampy"
+  },
   "navbar": {
     "newIn": "Nowości",
-    "products": "Produkty",
     "inspirations": "Inspiracje"
   },
   "home": {

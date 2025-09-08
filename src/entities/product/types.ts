@@ -1,4 +1,13 @@
-export type Category = 'table' | 'chair' | 'sofa' | 'bed' | 'carpet' | 'lamp';
+export const categories = [
+  'table',
+  'chair',
+  'bed',
+  'sofa',
+  'carpet',
+  'lamp',
+] as const;
+
+export type Category = (typeof categories)[number];
 
 export type Product = {
   id: string;

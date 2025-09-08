@@ -24,16 +24,16 @@ const Navbar = () => {
       className="group/nav data-[transparent=true]:bg-transparent data-[transparent=false]:bg-white z-50 sticky top-0 transition-colors duration-700 left-0 h-14 py-4 px-8 w-full flex items-center justify-between"
     >
       {/* TODO add logo */}
-      <button
-        className="text-amber-700 font-bold text-lg"
+      <img
+        src="/images/logo.svg"
+        alt="Terracota logo"
+        className="h-6 w-auto cursor-pointer"
         onClick={() => navigate(pathnames.home)}
-      >
-        Terracota
-      </button>
+      />
       <div className="absolute left-1/2 -translate-x-1/2 flex gap-10">
         {/* TODO add links */}
         <NavbarLink to={pathnames.notFound}>{t('navbar.newIn')}</NavbarLink>
-        <NavbarLink to={pathnames.products}>{t('navbar.products')}</NavbarLink>
+        <NavbarLink to={pathnames.products}>{t('common.products')}</NavbarLink>
         <NavbarLink to={pathnames.notFound}>
           {t('navbar.inspirations')}
         </NavbarLink>

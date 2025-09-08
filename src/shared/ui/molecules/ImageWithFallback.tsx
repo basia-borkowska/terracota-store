@@ -28,7 +28,7 @@ export function ImageWithFallback({
   return (
     <div className={cn('relative overflow-hidden', className)}>
       {!loaded && (
-        <div className="absolute inset-0 animate-pulse bg-gray-200 shadow-md dark:bg-gray-700" />
+        <div className="absolute inset-0 animate-pulse bg-gray-200 shadow-md" />
       )}
 
       <img
