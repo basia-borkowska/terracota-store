@@ -1,13 +1,13 @@
 import { useQuery } from '@tanstack/react-query';
 import { useTranslation } from 'react-i18next';
 import { useParams } from 'react-router-dom';
-import type { Product as ProductType } from '../../entities/product/types';
+import type { ProductDetails as ProductDetailsType } from '../../entities/product/types';
 import { fetchProductById } from '../../entities/product/api';
 import { Gallery } from '../../shared/ui/molecules/Gallery';
 import ProductDetails from '../../widgets/ProductDetails';
-import { Carousel } from '../../shared/ui/molecules/Carousel';
 import SimilarProductsCarousel from '../../widgets/carousels/SimilarProductsCarousel';
 import { PageWrapper } from '../../shared/ui/layout/PageWrapper';
+import NewProductsCarousel from '../../widgets/carousels/NewProductsCarousel';
 
 const Product = () => {
   const { id } = useParams<{ id: string }>();
@@ -17,7 +17,7 @@ const Product = () => {
     data: product,
     isPending,
     isError,
-  } = useQuery<ProductType>({
+  } = useQuery<ProductDetailsType>({
     queryKey: ['product', id, i18n.language],
     queryFn: () => fetchProductById(id!),
     enabled: !!id,
@@ -45,8 +45,9 @@ const Product = () => {
         </aside>
       </div>
 
-      <PageWrapper>
+      <PageWrapper className="flex flex-col gap-12">
         <SimilarProductsCarousel productId={product.id} />
+        <NewProductsCarousel />
       </PageWrapper>
     </div>
   );

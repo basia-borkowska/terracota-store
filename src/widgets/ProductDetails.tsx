@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import type { Product } from '../entities/product/types';
+import type { ProductSummary } from '../entities/product/types';
 import DiscountBadge from '../shared/ui/atoms/DiscountBadge';
 import NewInBadge from '../shared/ui/atoms/NewInBadge';
 import Price from '../shared/ui/molecules/Price';
@@ -8,7 +8,7 @@ import { Heart } from 'lucide-react';
 import { cn } from '../shared/lib/utils';
 
 interface ProductDetailsProps {
-  product: Product;
+  product: ProductSummary;
   onAddToCart: (productId: string) => void;
   onToggleWishlist: (productId: string) => void;
 }

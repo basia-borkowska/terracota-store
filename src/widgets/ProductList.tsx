@@ -4,13 +4,13 @@ import ProductCard from './ProductCard';
 import { useInfiniteQuery } from '@tanstack/react-query';
 import { useTranslation } from 'react-i18next';
 import { fetchProducts } from '../entities/product/api';
-import type { Product } from '../entities/product/types';
+import type { ProductSummary } from '../entities/product/types';
 import { SlidersHorizontal } from 'lucide-react';
 
 const PAGE_SIZE = 30;
 
 interface ProductListProps {
-  filters?: { category?: Product['category']; isNew?: boolean };
+  filters?: { category?: ProductSummary['category']; isNew?: boolean };
   showNewBadge?: boolean;
 }
 const ProductList = ({ filters, showNewBadge }: ProductListProps) => {

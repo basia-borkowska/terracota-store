@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import type { Product } from '../entities/product/types';
+import type { ProductSummary } from '../entities/product/types';
 import { cn } from '../shared/lib/utils';
 import { Button } from '../shared/ui/atoms/Button';
 import { Card, CardContent, CardTitle } from '../shared/ui/atoms/Card';
@@ -12,7 +12,7 @@ import { pathnames } from '../shared/lib/pathnames';
 import { useEffect, useState } from 'react';
 
 interface ProductCardProps {
-  product: Product;
+  product: ProductSummary;
   showNewBadge?: boolean;
   showDiscountBadge?: boolean;
 }

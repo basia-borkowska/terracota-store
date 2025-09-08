@@ -9,7 +9,7 @@ export const categories = [
 
 export type Category = (typeof categories)[number];
 
-export type Product = {
+export type ProductSummary = {
   id: string;
   title: string;
   description: string;
@@ -20,4 +20,9 @@ export type Product = {
   images: string[];
   isOnWishList: boolean;
   isNew: boolean;
+};
+
+export type ProductDetails = ProductSummary & {
+  images: string[];
+  // add detail-only fields as it grows (specs, dimensions, etc.)
 };

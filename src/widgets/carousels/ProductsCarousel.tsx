@@ -1,4 +1,4 @@
-import type { Product } from '../../entities/product/types';
+import type { ProductSummary } from '../../entities/product/types';
 import { cn } from '../../shared/lib/utils';
 import {
   Carousel,
@@ -10,7 +10,7 @@ import {
 import ProductCard from '../ProductCard';
 
 interface ProductsCarouselProps {
-  products: Product[];
+  products: ProductSummary[];
   title?: string;
   className?: string;
   cardProps?: {

@@ -9,7 +9,7 @@ const NavbarAction = ({ onClick, children }: NavbarActionProps) => (
   <Button
     variant="unstyled"
     size="icon"
-    className="transition-colors duration-700 hover:opacity-50 group-data-[transparent=true]/nav:text-primary-foreground group-data-[transparent=false]/nav:text-primary"
+    className="transition-colors duration-700 hover:opacity-50 group-data-[transparent=true]/nav:text-light group-data-[transparent=false]/nav:text-dark"
     onClick={onClick}
   >
     {children}
