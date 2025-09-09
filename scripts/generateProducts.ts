@@ -102,7 +102,6 @@ function makeProduct(i: number, lang: 'en' | 'pl') {
     discountedPrice = Math.round(price * discountFactor * 100) / 100;
   }
 
-  const isOnWishList = Math.random() < 0.1;
   const isNew = Math.random() < 0.1;
   const images = makeImages(id, category, lang);
 
@@ -115,7 +114,6 @@ function makeProduct(i: number, lang: 'en' | 'pl') {
     price,
     discountedPrice,
     currency: 'PLN',
-    isOnWishList,
     isNew,
   };
 }

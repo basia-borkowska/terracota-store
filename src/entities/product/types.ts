@@ -18,7 +18,6 @@ export type ProductSummary = {
   currency: string;
   category: Category;
   images: string[];
-  isOnWishList: boolean;
   isNew: boolean;
 };
 

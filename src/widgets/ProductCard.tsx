@@ -1,15 +1,13 @@
 import { useNavigate } from 'react-router-dom';
 import type { ProductSummary } from '../entities/product/types';
-import { cn } from '../shared/lib/utils';
-import { Button } from '../shared/ui/atoms/Button';
 import { Card, CardContent, CardTitle } from '../shared/ui/atoms/Card';
 import DiscountBadge from '../shared/ui/atoms/DiscountBadge';
 import NewInBadge from '../shared/ui/atoms/NewInBadge';
 import { ImageWithFallback } from '../shared/ui/molecules/ImageWithFallback';
 import Price from '../shared/ui/molecules/Price';
-import { Heart } from 'lucide-react';
 import { pathnames } from '../shared/lib/pathnames';
 import { useEffect, useState } from 'react';
+import WishListButton from '../features/wishlist/ui/WishListButton';
 
 interface ProductCardProps {
   product: ProductSummary;
@@ -24,16 +22,8 @@ const ProductCard = ({
   const navigate = useNavigate();
   const [hovered, setHovered] = useState(false);
 
-  const {
-    discountedPrice,
-    isNew,
-    title,
-    images,
-    currency,
-    price,
-    id,
-    isOnWishList,
-  } = product;
+  const { discountedPrice, isNew, title, images, currency, price, id } =
+    product;
 
   const mainImage = images[0];
   const hoverImage = images.length > 1 ? images[1] : null;
@@ -59,18 +49,9 @@ const ProductCard = ({
         )}
         {isNew && showNewBadge && <NewInBadge className="w-fit" />}
       </div>
-
-      <Button
-        variant="unstyled"
-        size="icon"
-        className="absolute top-1 right-1 z-10"
-        onClick={(e) => {
-          e.stopPropagation();
-          alert('Implement add to wishlist');
-        }}
-      >
-        <Heart className={cn({ 'fill-current': isOnWishList })} />
-      </Button>
+      <div className="absolute top-1 right-1 z-10">
+        <WishListButton productId={id} />
+      </div>
 
       <ImageWithFallback
         src={hovered && hoverImage ? hoverImage : mainImage}

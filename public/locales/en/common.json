@@ -33,6 +33,12 @@
     "header": "New in",
     "description": "Discover timeless designs crafted from high-quality materials and refined in every detail. Pieces that will transform your home and make every moment special."
   },
+  "wishList": {
+    "header": "Wish List",
+    "description": "Your favorite products all in one place. Save them to your wish list and come back whenever you want.",
+    "emptyStateDescription": "Your favorite products all in one place. Start adding items to your wish list and come back whenever you want.",
+    "browseProducts": "Browse Products"
+  },
   "widgets": {
     "productDetails": {
       "addToCart": "Add to Cart"

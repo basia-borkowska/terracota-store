@@ -4,32 +4,18 @@ import DiscountBadge from '../shared/ui/atoms/DiscountBadge';
 import NewInBadge from '../shared/ui/atoms/NewInBadge';
 import Price from '../shared/ui/molecules/Price';
 import { Button } from '../shared/ui/atoms/Button';
-import { Heart } from 'lucide-react';
-import { cn } from '../shared/lib/utils';
+import WishListButton from '../features/wishlist/ui/WishListButton';
 
 interface ProductDetailsProps {
   product: ProductSummary;
   onAddToCart: (productId: string) => void;
-  onToggleWishlist: (productId: string) => void;
 }
 
-const ProductDetails = ({
-  product,
-  onAddToCart,
-  onToggleWishlist,
-}: ProductDetailsProps) => {
+const ProductDetails = ({ product, onAddToCart }: ProductDetailsProps) => {
   const { t } = useTranslation();
 
-  const {
-    id,
-    discountedPrice,
-    isNew,
-    price,
-    currency,
-    description,
-    title,
-    isOnWishList,
-  } = product;
+  const { id, discountedPrice, isNew, price, currency, description, title } =
+    product;
   return (
     <div className="flex flex-col">
       <div className="flex gap-1 mb-2">
@@ -51,18 +37,7 @@ const ProductDetails = ({
           {t('widgets.productDetails.addToCart')}
         </Button>
 
-        {/* TODO create Icon button */}
-        <Button
-          variant="secondary"
-          size="icon"
-          className="min-w-9"
-          onClick={() => onToggleWishlist(id)}
-          aria-pressed={isOnWishList}
-        >
-          <Heart
-            className={cn('transition', { 'fill-current': isOnWishList })}
-          />
-        </Button>
+        <WishListButton productId={id} variant="secondary" />
       </div>
     </div>
   );

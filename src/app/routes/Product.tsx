@@ -40,7 +40,6 @@ const Product = () => {
           <ProductDetails
             product={product}
             onAddToCart={() => alert('Implement add to cart')}
-            onToggleWishlist={() => alert('Implement adding to favorites')}
           />
         </aside>
       </div>

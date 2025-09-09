@@ -1,4 +1,3 @@
-// src/mocks/handlers.ts
 import { http, HttpResponse } from 'msw';
 
 export const handlers = [
@@ -33,7 +32,7 @@ export const handlers = [
     const start = (page - 1) * limit;
     const items = filtered.slice(start, start + limit).map((p) => ({
       ...p,
-      images: (p.images ?? []).slice(0, 2), // <= 2 images on list
+      images: (p.images ?? []).slice(0, 2),
     }));
 
     return HttpResponse.json({
@@ -58,7 +57,7 @@ export const handlers = [
     const all = (await res.json()) as any[];
     const product = all.find((p) => p.id === id);
     return product
-      ? HttpResponse.json(product) // full images here
+      ? HttpResponse.json(product)
       : HttpResponse.json({ error: 'Not found' }, { status: 404 });
   }),
 
