@@ -17,7 +17,7 @@ const WishListButton = ({
   const { toggle, isFavourite } = useWishList();
   const isIconFilled = isFavourite(productId);
 
-  //   TODO handle icon buttons better
+  //   TODO handle icon buttons better as a separate component
   return (
     <Button
       variant={variant}
