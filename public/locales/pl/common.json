@@ -58,6 +58,25 @@
       "discountedProducts": "Skorzystaj z wyprzedaży",
       "newProducts": "Nowości",
       "similarProducts": "Może Ci się spodobać"
+    },
+    "footer": {
+      "companyName": "Terracota",
+      "address": "ul. Główna 123",
+      "city": "Łódź, Polska",
+      "vat": "NIP: PL123456789",
+      "email": "Email: kontakt@terracota.com",
+      "pages": {
+        "title": "Strony",
+        "home": "Strona główna",
+        "products": "Produkty",
+        "newProducts": "New In"
+      },
+      "legal": {
+        "title": "Prawne",
+        "privacy": "Polityka prywatności",
+        "terms": "Regulamin"
+      },
+      "copyright": "Wszelkie prawa zastrzeżone."
     }
   },
   "atoms": {

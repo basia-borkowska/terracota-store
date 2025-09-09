@@ -41,6 +41,25 @@
       "discountedProducts": "Shop the sales",
       "newProducts": "New Arrivals",
       "similarProducts": "You may also like"
+    },
+    "footer": {
+      "companyName": "Terracota",
+      "address": "123 Main Street",
+      "city": "Łódź, Poland",
+      "vat": "VAT: PL123456789",
+      "email": "Email: contact@terracota.com",
+      "pages": {
+        "title": "Pages",
+        "home": "Home",
+        "products": "Products",
+        "newProducts": "New In"
+      },
+      "legal": {
+        "title": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+      },
+      "copyright": "All rights reserved."
     }
   },
   "atoms": {
