@@ -3,6 +3,10 @@
     "products": "Produkty",
     "home": "Home"
   },
+  "error": {
+    "defaultMessage": "Coś poszło nie tak. Spróbuj ponownie później.",
+    "pageNotFound": "Strona, której szukasz, nie istnieje."
+  },
   "category": {
     "table_one": "Stół",
     "table_few": "Stoły",

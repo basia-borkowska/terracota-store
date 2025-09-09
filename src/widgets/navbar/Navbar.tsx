@@ -21,7 +21,7 @@ const Navbar = () => {
   return (
     <nav
       data-transparent={transparentNavbar ? 'true' : 'false'}
-      className="group/nav data-[transparent=true]:bg-transparent data-[transparent=false]:bg-white z-50 sticky top-0 transition-colors duration-700 left-0 h-14 py-4 px-8 w-full flex items-center justify-between"
+      className="group/nav data-[transparent=true]:bg-transparent data-[transparent=false]:bg-white z-50 sticky top-0 transition-colors duration-700 left-0 h-navbar py-4 px-8 w-full flex items-center justify-between"
     >
       <img
         src="/images/logo.svg"

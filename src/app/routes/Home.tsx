@@ -5,7 +5,7 @@ import DiscountedProductsCarousel from '../../widgets/carousels/DiscountedProduc
 const Home = () => {
   return (
     <>
-      <img className="-mt-14" src="/images/hero.png" alt="Hero" />
+      <img className="-mt-navbar" src="/images/hero.png" alt="Hero" />
       <PageWrapper>
         <NewProductsCarousel />
       </PageWrapper>

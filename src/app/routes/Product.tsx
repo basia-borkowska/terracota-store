@@ -36,7 +36,7 @@ const Product = () => {
           <Gallery images={product.images} />
         </div>
 
-        <aside className="md:col-span-1 md:sticky md:top-14 self-start py-6 md:py-12 md:px-12">
+        <aside className="md:col-span-1 md:sticky md:top-navbar self-start py-6 md:py-12 md:px-12">
           <ProductDetails
             product={product}
             onAddToCart={() => alert('Implement add to cart')}

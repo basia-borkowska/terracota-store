@@ -1,18 +1,6 @@
 // src/mocks/handlers.ts
 import { http, HttpResponse } from 'msw';
 
-type Category = 'table' | 'chair' | 'bed' | 'sofa' | 'carpet' | 'lamp';
-
-async function loadProducts(lang: string) {
-  // fall back to EN if the localized file is missing
-  const short = lang.split('-')[0];
-  const tryLang = short === 'pl' ? 'pl' : 'en';
-  let res = await fetch(`/data/${tryLang}/products.json`);
-  if (!res.ok && tryLang !== 'en') res = await fetch(`/data/en/products.json`);
-  if (!res.ok) throw new Error('Could not load mock products');
-  return (await res.json()) as any[];
-}
-
 export const handlers = [
   // LIST: /api/products
   http.get('/api/products', async ({ request }) => {

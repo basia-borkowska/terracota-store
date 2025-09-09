@@ -54,6 +54,9 @@ export default {
           5: 'hsl(var(--chart-5))',
         },
       },
+      spacing: {
+        navbar: '56px',
+      },
     },
   },
   plugins: [require('tailwindcss-animate')],

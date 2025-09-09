@@ -3,6 +3,10 @@
     "products": "Products",
     "home": "Home"
   },
+  "error": {
+    "defaultMessage": "Something went wrong. Please try again later.",
+    "pageNotFound": "The page you are looking for does not exist."
+  },
   "category": {
     "table_one": "Table",
     "table_other": "Tables",

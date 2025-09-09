@@ -16,7 +16,7 @@ const Shipping = lazy(() => import('./checkout/Shipping'));
 const Payment = lazy(() => import('./checkout/Payment'));
 const Review = lazy(() => import('./checkout/Review'));
 const Confirmation = lazy(() => import('./checkout/Confirmation'));
-const NotFound = lazy(() => import('./NotFound'));
+const PageNotFound = lazy(() => import('../error-boundary/NotFoundPage'));
 
 export const router = createBrowserRouter([
   {
@@ -49,7 +49,7 @@ export const router = createBrowserRouter([
           },
         ],
       },
-      { path: pathnames.notFound, element: <NotFound /> },
+      { path: pathnames.notFound, element: <PageNotFound /> },
     ],
   },
 ]);
